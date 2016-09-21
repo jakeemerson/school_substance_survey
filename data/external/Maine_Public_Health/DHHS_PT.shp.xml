@@ -1,0 +1,2931 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<smtype>1</smtype>
+		<citation>
+			<citeinfo>
+				<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+				<pubdate>20070701</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>metwp24</title>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS</sername>
+					<issue>SDE server; Internet Data Catalog</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems</publish>
+				</pubinfo>
+				<othercit>1:24000</othercit>
+				<onlink>http://megis.maine.gov/catalog/</onlink>
+				<smcilnkh>true</smcilnkh>
+				<smcisrcs>24000</smcisrcs>
+				<smcisrcm>online</smcisrcm>
+				<smcisrct>
+					<timeinfo>
+						<rngdates>
+							<begdate>19480101</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>20050822</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+				</smcisrct>
+				<smcisrcc>source dates</smcisrcc>
+				<ftname Sync="TRUE">metwp24p</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>METWP24 depicts political boundaries, common town names, and geocodes for Maine at 1:24,000 scale. The coverage was created from USGS, 7.5 minute map series, town boundaries.  The Maine GIS base layer COAST, which contains Maine's coastal Mean High Water (MHW) mark and Maine islands, was used in the development of METWP24. To correct mapping errors and reflect recent changes to Minor Civil Division (MCD) boundaries, arcs and polygons have been added to or updated in METWP24  from: photorevised USGS data; Maine GIS base layer coincident features; legal descriptions; GPS data; and Maine Department of Transportation (MEDOT) engineering plans. METWP24 contains USGS 1:100,000 scale data and U.S. Department of Commerce, Bureau of Census, TIGER Line Files 1990 and 2000 where these provide a more correct or best available representation of a coverage feature.
+
+Polygons in the coverage are attributed with the items TOWN, COUNTY, GEOCODE, and CNTYCODE as found in  "Standard Geographic Codes for Maine Minor Civil Divisions", 1971. Like COAST, METWP24 contains the item CIREG for island identification numbers based on Maine Department of Conservation, Bureau of Parks and Lands, Coastal Island Registry (CIREG) data.
+
+Polygons in the coverage are also attributed with the items LAND, ISLAND, LURC, BAXTER and TAG. Arcs are coded with the items LAND, TYPE, SOURCE, and Maine GIS recommended feature metadata items and codes. For a current digital copy of "Standard Geocodes for Maine Minor Civil Divisions" in .dbf or comma delimited text format see http://megis.maine.gov/catalog/ "Tables". For more information on the Maine GIS Feature Metadata Recommendation and "Standard Geocodes for Maine Minor Civil Divisions" see: http://megis.maine.gov/standards/flmeta/fmbrief.htm, Standards &amp; Guidelines.</abstract>
+			<purpose>METWP24 was created to show political boundaries, common town names and Maine geocodes at 1:24,000 scale. Data at this scale is suitable for detailed studies and local planning. Not for use in scales greater than 1:24000.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>19480101</begdate>
+					<begtime>Unknown</begtime>
+					<enddate>20050922</enddate>
+					<endtime>Unknown</endtime>
+				</rngdates>
+				<sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo>
+			<current>source dates</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-71.0014</westbc>
+				<eastbc>-66.78175</eastbc>
+				<northbc>47.43861</northbc>
+				<southbc>42.91047</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO Keyword Thesaurus</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>imageryBaseMapsEarthCover</themekey>
+			</theme>
+			<theme>
+				<themekt>Maine GIS Thesaurus-Theme</themekt>
+				<themekey>geocodes</themekey>
+				<themekey>towns</themekey>
+				<themekey>townships</themekey>
+				<themekey>state</themekey>
+				<themekey>counties</themekey>
+				<themekey>fips</themekey>
+				<themekey>unorganized territories</themekey>
+			</theme>
+			<place>
+				<placekt>Maine GIS Thesaurus-Place</placekt>
+				<placekey>Maine</placekey>
+				<placekey>New Brunswick</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>Quebec</placekey>
+				<placekey>Baxter State Park</placekey>
+				<placekey>United States</placekey>
+				<placekey>Auburn</placekey>
+				<placekey>Allagash</placekey>
+				<placekey>Abbot</placekey>
+				<placekey>Acton</placekey>
+				<placekey>Fletchers Landing Twp</placekey>
+				<placekey>Durham</placekey>
+				<placekey>Greene</placekey>
+				<placekey>Leeds</placekey>
+				<placekey>Lewiston</placekey>
+				<placekey>Lisbon</placekey>
+				<placekey>Livermore</placekey>
+				<placekey>Livermore Falls</placekey>
+				<placekey>Mechanic Falls</placekey>
+				<placekey>Minot</placekey>
+				<placekey>Poland</placekey>
+				<placekey>Turner</placekey>
+				<placekey>Wales</placekey>
+				<placekey>Sabattus</placekey>
+				<placekey>Amity</placekey>
+				<placekey>Ashland</placekey>
+				<placekey>Bancroft</placekey>
+				<placekey>Benedicta Twp</placekey>
+				<placekey>Blaine</placekey>
+				<placekey>Bridgewater</placekey>
+				<placekey>Caribou</placekey>
+				<placekey>Cary Plt</placekey>
+				<placekey>Castle Hill</placekey>
+				<placekey>Caswell</placekey>
+				<placekey>Chapman</placekey>
+				<placekey>Crystal</placekey>
+				<placekey>Cyr Plt</placekey>
+				<placekey>Dyer Brook</placekey>
+				<placekey>E Twp</placekey>
+				<placekey>Eagle Lake</placekey>
+				<placekey>Easton</placekey>
+				<placekey>Fort Fairfield</placekey>
+				<placekey>Fort Kent</placekey>
+				<placekey>Frenchville</placekey>
+				<placekey>Garfield Plt</placekey>
+				<placekey>Glenwood Plt</placekey>
+				<placekey>Grand Isle</placekey>
+				<placekey>Hamlin</placekey>
+				<placekey>Hammond</placekey>
+				<placekey>Haynesville</placekey>
+				<placekey>Hersey</placekey>
+				<placekey>Hodgdon</placekey>
+				<placekey>Houlton</placekey>
+				<placekey>Island Falls</placekey>
+				<placekey>Limestone</placekey>
+				<placekey>Linneus</placekey>
+				<placekey>Littleton</placekey>
+				<placekey>Ludlow</placekey>
+				<placekey>Macwahoc Plt</placekey>
+				<placekey>Madawaska</placekey>
+				<placekey>Mapleton</placekey>
+				<placekey>Mars Hill</placekey>
+				<placekey>Masardis</placekey>
+				<placekey>Merrill</placekey>
+				<placekey>Monticello</placekey>
+				<placekey>Moro Plt</placekey>
+				<placekey>Nashville Plt</placekey>
+				<placekey>New Canada</placekey>
+				<placekey>New Limerick</placekey>
+				<placekey>New Sweden</placekey>
+				<placekey>Oakfield</placekey>
+				<placekey>Orient</placekey>
+				<placekey>Oxbow Plt</placekey>
+				<placekey>Perham</placekey>
+				<placekey>Portage Lake</placekey>
+				<placekey>Presque Isle</placekey>
+				<placekey>Reed Plt</placekey>
+				<placekey>Saint Agatha</placekey>
+				<placekey>Saint Francis</placekey>
+				<placekey>Saint John Plt</placekey>
+				<placekey>Sherman</placekey>
+				<placekey>Smyrna</placekey>
+				<placekey>Stockholm</placekey>
+				<placekey>Van Buren</placekey>
+				<placekey>Wade</placekey>
+				<placekey>Wallagrass</placekey>
+				<placekey>Washburn</placekey>
+				<placekey>Westfield</placekey>
+				<placekey>Westmanland</placekey>
+				<placekey>Weston</placekey>
+				<placekey>Winterville Plt</placekey>
+				<placekey>Woodland</placekey>
+				<placekey>Big Twenty Twp</placekey>
+				<placekey>Connor Twp</placekey>
+				<placekey>Cox Patent</placekey>
+				<placekey>Dudley Twp</placekey>
+				<placekey>Forkstown Twp</placekey>
+				<placekey>Molunkus Twp</placekey>
+				<placekey>North Yarmouth Academy Grant Twp</placekey>
+				<placekey>Saint Croix Twp</placekey>
+				<placekey>Silver Ridge Twp</placekey>
+				<placekey>Squapan Twp</placekey>
+				<placekey>Upper Molunkus Twp</placekey>
+				<placekey>Webbertown Twp</placekey>
+				<placekey>TA R2 WELS</placekey>
+				<placekey>TC R2 WELS</placekey>
+				<placekey>TD R2 WELS</placekey>
+				<placekey>T1 R5 WELS</placekey>
+				<placekey>T2 R4 WELS</placekey>
+				<placekey>T3 R3 WELS</placekey>
+				<placekey>T3 R4 WELS</placekey>
+				<placekey>T4 R3 WELS</placekey>
+				<placekey>T7 R5 WELS</placekey>
+				<placekey>T8 R3 WELS</placekey>
+				<placekey>T8 R5 WELS</placekey>
+				<placekey>T9 R3 WELS</placekey>
+				<placekey>T9 R4 WELS</placekey>
+				<placekey>T9 R5 WELS</placekey>
+				<placekey>T9 R7 WELS</placekey>
+				<placekey>T9 R8 WELS</placekey>
+				<placekey>T10 R3 WELS</placekey>
+				<placekey>T10 R6 WELS</placekey>
+				<placekey>T10 R7 WELS</placekey>
+				<placekey>T10 R8 WELS</placekey>
+				<placekey>T11 R4 WELS</placekey>
+				<placekey>T11 R7 WELS</placekey>
+				<placekey>T11 R8 WELS</placekey>
+				<placekey>T11 R9 WELS</placekey>
+				<placekey>T11 R10 WELS</placekey>
+				<placekey>T11 R11 WELS</placekey>
+				<placekey>T11 R12 WELS</placekey>
+				<placekey>T11 R13 WELS</placekey>
+				<placekey>T11 R14 WELS</placekey>
+				<placekey>T11 R15 WELS</placekey>
+				<placekey>T11 R16 WELS</placekey>
+				<placekey>T11 R17 WELS</placekey>
+				<placekey>T12 R7 WELS</placekey>
+				<placekey>T12 R8 WELS</placekey>
+				<placekey>T12 R9 WELS</placekey>
+				<placekey>T12 R10 WELS</placekey>
+				<placekey>T12 R11 WELS</placekey>
+				<placekey>T12 R12 WELS</placekey>
+				<placekey>T12 R13 WELS</placekey>
+				<placekey>T12 R14 WELS</placekey>
+				<placekey>T12 R15 WELS</placekey>
+				<placekey>T12 R16 WELS</placekey>
+				<placekey>T12 R17 WELS</placekey>
+				<placekey>T13 R5 WELS</placekey>
+				<placekey>T13 R7 WELS</placekey>
+				<placekey>T13 R8 WELS</placekey>
+				<placekey>T13 R9 WELS</placekey>
+				<placekey>T13 R10 WELS</placekey>
+				<placekey>T13 R11 WELS</placekey>
+				<placekey>T13 R12 WELS</placekey>
+				<placekey>T13 R13 WELS</placekey>
+				<placekey>T13 R14 WELS</placekey>
+				<placekey>T13 R15 WELS</placekey>
+				<placekey>T13 R16 WELS</placekey>
+				<placekey>T14 R5 WELS</placekey>
+				<placekey>T14 R6 WELS</placekey>
+				<placekey>T14 R7 WELS</placekey>
+				<placekey>T14 R8 WELS</placekey>
+				<placekey>T14 R9 WELS</placekey>
+				<placekey>T14 R10 WELS</placekey>
+				<placekey>T14 R11 WELS</placekey>
+				<placekey>T14 R12 WELS</placekey>
+				<placekey>T14 R13 WELS</placekey>
+				<placekey>T14 R14 WELS</placekey>
+				<placekey>T14 R15 WELS</placekey>
+				<placekey>T14 R16 WELS</placekey>
+				<placekey>T15 R5 WELS</placekey>
+				<placekey>T15 R6 WELS</placekey>
+				<placekey>T15 R8 WELS</placekey>
+				<placekey>T15 R9 WELS</placekey>
+				<placekey>T15 R10 WELS</placekey>
+				<placekey>T15 R11 WELS</placekey>
+				<placekey>T15 R12 WELS</placekey>
+				<placekey>T15 R13 WELS</placekey>
+				<placekey>T15 R14 WELS</placekey>
+				<placekey>T15 R15 WELS</placekey>
+				<placekey>T16 R4 WELS</placekey>
+				<placekey>T16 R5 WELS</placekey>
+				<placekey>T16 R6 WELS</placekey>
+				<placekey>T16 R8 WELS</placekey>
+				<placekey>T16 R9 WELS</placekey>
+				<placekey>T16 R12 WELS</placekey>
+				<placekey>T16 R13 WELS</placekey>
+				<placekey>T16 R14 WELS</placekey>
+				<placekey>T17 R3 WELS</placekey>
+				<placekey>T17 R4 WELS</placekey>
+				<placekey>Cross Lake Twp</placekey>
+				<placekey>T17 R12 WELS</placekey>
+				<placekey>T17 R13 WELS</placekey>
+				<placekey>T17 R14 WELS</placekey>
+				<placekey>T18 R10 WELS</placekey>
+				<placekey>T18 R11 WELS</placekey>
+				<placekey>T18 R12 WELS</placekey>
+				<placekey>T18 R13 WELS</placekey>
+				<placekey>T19 R11 WELS</placekey>
+				<placekey>T19 R12 WELS</placekey>
+				<placekey>Baldwin</placekey>
+				<placekey>Bridgton</placekey>
+				<placekey>Brunswick</placekey>
+				<placekey>Cape Elizabeth</placekey>
+				<placekey>Casco</placekey>
+				<placekey>Cumberland</placekey>
+				<placekey>Falmouth</placekey>
+				<placekey>Freeport</placekey>
+				<placekey>Frye Island</placekey>
+				<placekey>Gorham</placekey>
+				<placekey>Gray</placekey>
+				<placekey>Harpswell</placekey>
+				<placekey>Harrison</placekey>
+				<placekey>Long Island</placekey>
+				<placekey>Naples</placekey>
+				<placekey>New Gloucester</placekey>
+				<placekey>North Yarmouth</placekey>
+				<placekey>Portland</placekey>
+				<placekey>Pownal</placekey>
+				<placekey>Raymond</placekey>
+				<placekey>Scarborough</placekey>
+				<placekey>Sebago</placekey>
+				<placekey>South Portland</placekey>
+				<placekey>Standish</placekey>
+				<placekey>Westbrook</placekey>
+				<placekey>Windham</placekey>
+				<placekey>Yarmouth</placekey>
+				<placekey>Avon</placekey>
+				<placekey>Carrabassett Valley</placekey>
+				<placekey>Carthage</placekey>
+				<placekey>Chesterville</placekey>
+				<placekey>Coplin Plt</placekey>
+				<placekey>Dallas Plt</placekey>
+				<placekey>Eustis</placekey>
+				<placekey>Farmington</placekey>
+				<placekey>Industry</placekey>
+				<placekey>Jay</placekey>
+				<placekey>Kingfield</placekey>
+				<placekey>Madrid Twp</placekey>
+				<placekey>New Sharon</placekey>
+				<placekey>New Vineyard</placekey>
+				<placekey>Phillips</placekey>
+				<placekey>Rangeley</placekey>
+				<placekey>Rangeley Plt</placekey>
+				<placekey>Sandy River Plt</placekey>
+				<placekey>Strong</placekey>
+				<placekey>Temple</placekey>
+				<placekey>Weld</placekey>
+				<placekey>Wilton</placekey>
+				<placekey>Alder Stream Twp</placekey>
+				<placekey>Beattie Twp</placekey>
+				<placekey>Chain of Ponds Twp</placekey>
+				<placekey>Coburn Gore</placekey>
+				<placekey>Township D</placekey>
+				<placekey>Davis Twp</placekey>
+				<placekey>Township E</placekey>
+				<placekey>Freeman Twp</placekey>
+				<placekey>Gorham Gore</placekey>
+				<placekey>Jim Pond Twp</placekey>
+				<placekey>Kibby Twp</placekey>
+				<placekey>Lang Twp</placekey>
+				<placekey>Lowelltown Twp</placekey>
+				<placekey>Massachusetts Gore</placekey>
+				<placekey>Merrill Strip Twp</placekey>
+				<placekey>Mount Abram Twp</placekey>
+				<placekey>Perkins Twp</placekey>
+				<placekey>Redington Twp</placekey>
+				<placekey>Salem Twp</placekey>
+				<placekey>Seven Ponds Twp</placekey>
+				<placekey>Skinner Twp</placekey>
+				<placekey>Stetsontown Twp</placekey>
+				<placekey>Tim Pond Twp</placekey>
+				<placekey>Township 6 North of Weld</placekey>
+				<placekey>Washington Twp</placekey>
+				<placekey>Wyman Twp</placekey>
+				<placekey>Amherst</placekey>
+				<placekey>Aurora</placekey>
+				<placekey>Bar Harbor</placekey>
+				<placekey>Blue Hill</placekey>
+				<placekey>Brooklin</placekey>
+				<placekey>Brooksville</placekey>
+				<placekey>Bucksport</placekey>
+				<placekey>Castine</placekey>
+				<placekey>Cranberry Isles</placekey>
+				<placekey>Dedham</placekey>
+				<placekey>Deer Isle</placekey>
+				<placekey>Eastbrook</placekey>
+				<placekey>Ellsworth</placekey>
+				<placekey>Franklin</placekey>
+				<placekey>Gouldsboro</placekey>
+				<placekey>Great Pond</placekey>
+				<placekey>Hancock</placekey>
+				<placekey>Lamoine</placekey>
+				<placekey>Frenchboro</placekey>
+				<placekey>Mariaville</placekey>
+				<placekey>Mount Desert</placekey>
+				<placekey>Orland</placekey>
+				<placekey>Osborn</placekey>
+				<placekey>Otis</placekey>
+				<placekey>Penobscot</placekey>
+				<placekey>Sedgwick</placekey>
+				<placekey>Sorrento</placekey>
+				<placekey>Southwest Harbor</placekey>
+				<placekey>Stonington</placekey>
+				<placekey>Sullivan</placekey>
+				<placekey>Surry</placekey>
+				<placekey>Swans Island</placekey>
+				<placekey>Tremont</placekey>
+				<placekey>Trenton</placekey>
+				<placekey>Verona Island</placekey>
+				<placekey>Waltham</placekey>
+				<placekey>Winter Harbor</placekey>
+				<placekey>T3 ND</placekey>
+				<placekey>Oqiton Twp</placekey>
+				<placekey>T7 SD</placekey>
+				<placekey>T9 SD</placekey>
+				<placekey>T10 SD</placekey>
+				<placekey>T16 MD</placekey>
+				<placekey>T22 MD</placekey>
+				<placekey>T28 MD</placekey>
+				<placekey>T32 MD</placekey>
+				<placekey>T34 MD</placekey>
+				<placekey>T35 MD</placekey>
+				<placekey>T39 MD</placekey>
+				<placekey>T40 MD</placekey>
+				<placekey>T41 MD</placekey>
+				<placekey>Albion</placekey>
+				<placekey>Augusta</placekey>
+				<placekey>Belgrade</placekey>
+				<placekey>Benton</placekey>
+				<placekey>Chelsea</placekey>
+				<placekey>China</placekey>
+				<placekey>Clinton</placekey>
+				<placekey>Farmingdale</placekey>
+				<placekey>Fayette</placekey>
+				<placekey>Gardiner</placekey>
+				<placekey>Hallowell</placekey>
+				<placekey>Litchfield</placekey>
+				<placekey>Manchester</placekey>
+				<placekey>Monmouth</placekey>
+				<placekey>Mount Vernon</placekey>
+				<placekey>Oakland</placekey>
+				<placekey>Pittston</placekey>
+				<placekey>Randolph</placekey>
+				<placekey>Readfield</placekey>
+				<placekey>Rome</placekey>
+				<placekey>Sidney</placekey>
+				<placekey>Vassalboro</placekey>
+				<placekey>Vienna</placekey>
+				<placekey>Waterville</placekey>
+				<placekey>Wayne</placekey>
+				<placekey>West Gardiner</placekey>
+				<placekey>Windsor</placekey>
+				<placekey>Winslow</placekey>
+				<placekey>Winthrop</placekey>
+				<placekey>Unity Twp</placekey>
+				<placekey>Appleton</placekey>
+				<placekey>Camden</placekey>
+				<placekey>Cushing</placekey>
+				<placekey>Friendship</placekey>
+				<placekey>Hope</placekey>
+				<placekey>Isle au Haut</placekey>
+				<placekey>Matinicus Isle Plt</placekey>
+				<placekey>North Haven</placekey>
+				<placekey>Owls Head</placekey>
+				<placekey>Rockland</placekey>
+				<placekey>Rockport</placekey>
+				<placekey>Saint George</placekey>
+				<placekey>South Thomaston</placekey>
+				<placekey>Thomaston</placekey>
+				<placekey>Union</placekey>
+				<placekey>Vinalhaven</placekey>
+				<placekey>Warren</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Criehaven Twp</placekey>
+				<placekey>Muscle Ridge Shoals Twp</placekey>
+				<placekey>Alna</placekey>
+				<placekey>Boothbay</placekey>
+				<placekey>Boothbay Harbor</placekey>
+				<placekey>Bremen</placekey>
+				<placekey>Bristol</placekey>
+				<placekey>Damariscotta</placekey>
+				<placekey>Dresden</placekey>
+				<placekey>Edgecomb</placekey>
+				<placekey>Jefferson</placekey>
+				<placekey>Monhegan Island Plt</placekey>
+				<placekey>Newcastle</placekey>
+				<placekey>Nobleboro</placekey>
+				<placekey>Somerville</placekey>
+				<placekey>South Bristol</placekey>
+				<placekey>Southport</placekey>
+				<placekey>Waldoboro</placekey>
+				<placekey>Westport Island</placekey>
+				<placekey>Whitefield</placekey>
+				<placekey>Wiscasset</placekey>
+				<placekey>Hibberts Gore</placekey>
+				<placekey>Andover</placekey>
+				<placekey>Bethel</placekey>
+				<placekey>Brownfield</placekey>
+				<placekey>Buckfield</placekey>
+				<placekey>Byron</placekey>
+				<placekey>Canton</placekey>
+				<placekey>Denmark</placekey>
+				<placekey>Dixfield</placekey>
+				<placekey>Fryeburg</placekey>
+				<placekey>Gilead</placekey>
+				<placekey>Greenwood</placekey>
+				<placekey>Hanover</placekey>
+				<placekey>Hartford</placekey>
+				<placekey>Hebron</placekey>
+				<placekey>Hiram</placekey>
+				<placekey>Lincoln Plt</placekey>
+				<placekey>Lovell</placekey>
+				<placekey>Magalloway Plt</placekey>
+				<placekey>Mexico</placekey>
+				<placekey>Newry</placekey>
+				<placekey>Norway</placekey>
+				<placekey>Otisfield</placekey>
+				<placekey>Oxford</placekey>
+				<placekey>Paris</placekey>
+				<placekey>Peru</placekey>
+				<placekey>Porter</placekey>
+				<placekey>Roxbury</placekey>
+				<placekey>Rumford</placekey>
+				<placekey>Stoneham</placekey>
+				<placekey>Stow</placekey>
+				<placekey>Sumner</placekey>
+				<placekey>Sweden</placekey>
+				<placekey>Upton</placekey>
+				<placekey>Waterford</placekey>
+				<placekey>West Paris</placekey>
+				<placekey>Woodstock</placekey>
+				<placekey>Adamstown Twp</placekey>
+				<placekey>Albany Twp</placekey>
+				<placekey>Andover North Surplus</placekey>
+				<placekey>Andover West Surplus Twp</placekey>
+				<placekey>Batchelders Grant Twp</placekey>
+				<placekey>Bowmantown Twp</placekey>
+				<placekey>C Surplus</placekey>
+				<placekey>Grafton Twp</placekey>
+				<placekey>Lower Cupsuptic Twp</placekey>
+				<placekey>Lynchtown Twp</placekey>
+				<placekey>Mason Twp</placekey>
+				<placekey>Milton Twp</placekey>
+				<placekey>Oxbow Twp</placekey>
+				<placekey>Parkertown Twp</placekey>
+				<placekey>Parmachenee Twp</placekey>
+				<placekey>Richardsontown Twp</placekey>
+				<placekey>Riley Twp</placekey>
+				<placekey>Township C</placekey>
+				<placekey>Upper Cupsuptic Twp</placekey>
+				<placekey>Alton</placekey>
+				<placekey>Bangor</placekey>
+				<placekey>Bradford</placekey>
+				<placekey>Bradley</placekey>
+				<placekey>Brewer</placekey>
+				<placekey>Burlington</placekey>
+				<placekey>Carmel</placekey>
+				<placekey>Carroll Plt</placekey>
+				<placekey>Charleston</placekey>
+				<placekey>Chester</placekey>
+				<placekey>Clifton</placekey>
+				<placekey>Corinna</placekey>
+				<placekey>Corinth</placekey>
+				<placekey>Dexter</placekey>
+				<placekey>Dixmont</placekey>
+				<placekey>Drew Plt</placekey>
+				<placekey>East Millinocket</placekey>
+				<placekey>Eddington</placekey>
+				<placekey>Edinburg</placekey>
+				<placekey>Enfield</placekey>
+				<placekey>Etna</placekey>
+				<placekey>Exeter</placekey>
+				<placekey>Garland</placekey>
+				<placekey>Glenburn</placekey>
+				<placekey>Grand Falls Twp</placekey>
+				<placekey>Greenbush</placekey>
+				<placekey>Greenfield Twp</placekey>
+				<placekey>Hampden</placekey>
+				<placekey>Hermon</placekey>
+				<placekey>Holden</placekey>
+				<placekey>Howland</placekey>
+				<placekey>Hudson</placekey>
+				<placekey>Kenduskeag</placekey>
+				<placekey>Lagrange</placekey>
+				<placekey>Lakeville</placekey>
+				<placekey>Lee</placekey>
+				<placekey>Levant</placekey>
+				<placekey>Lincoln</placekey>
+				<placekey>Lowell</placekey>
+				<placekey>Mattawamkeag</placekey>
+				<placekey>Maxfield</placekey>
+				<placekey>Medway</placekey>
+				<placekey>Milford</placekey>
+				<placekey>Millinocket</placekey>
+				<placekey>Mount Chase</placekey>
+				<placekey>Newburgh</placekey>
+				<placekey>Newport</placekey>
+				<placekey>Old Town</placekey>
+				<placekey>Orono</placekey>
+				<placekey>Orrington</placekey>
+				<placekey>Passadumkeag</placekey>
+				<placekey>Patten</placekey>
+				<placekey>Plymouth</placekey>
+				<placekey>Prentiss Twp T7 R3 NBPP</placekey>
+				<placekey>Seboeis Plt</placekey>
+				<placekey>Springfield</placekey>
+				<placekey>Stacyville</placekey>
+				<placekey>Stetson</placekey>
+				<placekey>Veazie</placekey>
+				<placekey>Webster Plt</placekey>
+				<placekey>Winn</placekey>
+				<placekey>Woodville</placekey>
+				<placekey>Indian Island</placekey>
+				<placekey>Argyle Twp</placekey>
+				<placekey>Grindstone Twp</placekey>
+				<placekey>Herseytown Twp</placekey>
+				<placekey>Hopkins Academy Grant Twp</placekey>
+				<placekey>T3 Indian Purchase Twp</placekey>
+				<placekey>T4 Indian Purchase Twp</placekey>
+				<placekey>Kingman Twp</placekey>
+				<placekey>Long A Twp</placekey>
+				<placekey>Mattamiscontis Twp</placekey>
+				<placekey>Soldiertown Twp T2 R7 WELS</placekey>
+				<placekey>Summit Twp</placekey>
+				<placekey>Veazie Gore</placekey>
+				<placekey>TA R7 WELS</placekey>
+				<placekey>T1 R6 WELS</placekey>
+				<placekey>T1 R8 WELS</placekey>
+				<placekey>T2 R8 NWP</placekey>
+				<placekey>T2 R8 WELS</placekey>
+				<placekey>T2 R9 NWP</placekey>
+				<placekey>T3 R1 NBPP</placekey>
+				<placekey>T3 R7 WELS</placekey>
+				<placekey>T3 R8 WELS</placekey>
+				<placekey>T3 R9 NWP</placekey>
+				<placekey>T4 R7 WELS</placekey>
+				<placekey>T4 R8 WELS</placekey>
+				<placekey>Pukakon Twp</placekey>
+				<placekey>T5 R7 WELS</placekey>
+				<placekey>T5 R8 WELS</placekey>
+				<placekey>T6 R6 WELS</placekey>
+				<placekey>T6 R7 WELS</placekey>
+				<placekey>T6 R8 WELS</placekey>
+				<placekey>T7 R6 WELS</placekey>
+				<placekey>T7 R7 WELS</placekey>
+				<placekey>T7 R8 WELS</placekey>
+				<placekey>T8 R6 WELS</placekey>
+				<placekey>T8 R7 WELS</placekey>
+				<placekey>T8 R8 WELS</placekey>
+				<placekey>Islands of Moosehead Lake</placekey>
+				<placekey>Atkinson</placekey>
+				<placekey>Barnard Twp</placekey>
+				<placekey>Beaver Cove</placekey>
+				<placekey>Blanchard Twp</placekey>
+				<placekey>Bowerbank</placekey>
+				<placekey>Brownville</placekey>
+				<placekey>Dover-Foxcroft</placekey>
+				<placekey>Elliottsville Twp</placekey>
+				<placekey>Greenville</placekey>
+				<placekey>Guilford</placekey>
+				<placekey>Kingsbury Plt</placekey>
+				<placekey>Lake View Plt</placekey>
+				<placekey>Medford</placekey>
+				<placekey>Milo</placekey>
+				<placekey>Monson</placekey>
+				<placekey>Parkman</placekey>
+				<placekey>Sangerville</placekey>
+				<placekey>Sebec</placekey>
+				<placekey>Shirley</placekey>
+				<placekey>Wellington</placekey>
+				<placekey>Willimantic</placekey>
+				<placekey>Big Moose Twp</placekey>
+				<placekey>Bowdoin College Grant East Twp</placekey>
+				<placekey>Bowdoin College Grant West Twp</placekey>
+				<placekey>Chesuncook Twp</placekey>
+				<placekey>Cove Point Twp</placekey>
+				<placekey>Days Academy Grant Twp</placekey>
+				<placekey>Eagle Lake Twp</placekey>
+				<placekey>East Middlesex Canal Grant Twp</placekey>
+				<placekey>Frenchtown Twp</placekey>
+				<placekey>Harfords Point Twp</placekey>
+				<placekey>Katahdin Iron Works Twp</placekey>
+				<placekey>Kineo Twp</placekey>
+				<placekey>T1 R13 WELS</placekey>
+				<placekey>Lily Bay Twp</placekey>
+				<placekey>Moosehead Junction Twp</placekey>
+				<placekey>Lobster Twp</placekey>
+				<placekey>Mount Katahdin Twp</placekey>
+				<placekey>Nesourdnahunk Twp</placekey>
+				<placekey>Northeast Carry Twp</placekey>
+				<placekey>Orneville Twp</placekey>
+				<placekey>Rainbow Twp</placekey>
+				<placekey>Shawtown Twp</placekey>
+				<placekey>Soper Mountain Twp</placekey>
+				<placekey>Spencer Bay Twp</placekey>
+				<placekey>Trout Brook Twp</placekey>
+				<placekey>Williamsburg Twp</placekey>
+				<placekey>TA R10 WELS</placekey>
+				<placekey>TA R11 WELS</placekey>
+				<placekey>TB R10 WELS</placekey>
+				<placekey>TB R11 WELS</placekey>
+				<placekey>TX R14 WELS</placekey>
+				<placekey>T1 R9 WELS</placekey>
+				<placekey>T1 R10 WELS</placekey>
+				<placekey>T1 R11 WELS</placekey>
+				<placekey>T1 R12 WELS</placekey>
+				<placekey>T2 R9 WELS</placekey>
+				<placekey>T2 R10 WELS</placekey>
+				<placekey>T2 R12 WELS</placekey>
+				<placekey>T2 R13 WELS</placekey>
+				<placekey>T3 R10 WELS</placekey>
+				<placekey>T3 R11 WELS</placekey>
+				<placekey>T3 R12 WELS</placekey>
+				<placekey>T3 R13 WELS</placekey>
+				<placekey>T4 R9 NWP</placekey>
+				<placekey>T4 R9 WELS</placekey>
+				<placekey>T4 R10 WELS</placekey>
+				<placekey>T4 R11 WELS</placekey>
+				<placekey>T4 R12 WELS</placekey>
+				<placekey>T4 R13 WELS</placekey>
+				<placekey>T4 R14 WELS</placekey>
+				<placekey>T4 R15 WELS</placekey>
+				<placekey>Ebeemee Twp</placekey>
+				<placekey>T5 R9 WELS</placekey>
+				<placekey>T5 R11 WELS</placekey>
+				<placekey>T5 R12 WELS</placekey>
+				<placekey>T5 R14 WELS</placekey>
+				<placekey>T5 R15 WELS</placekey>
+				<placekey>T6 R10 WELS</placekey>
+				<placekey>T6 R11 WELS</placekey>
+				<placekey>T6 R12 WELS</placekey>
+				<placekey>T6 R13 WELS</placekey>
+				<placekey>T6 R14 WELS</placekey>
+				<placekey>T6 R15 WELS</placekey>
+				<placekey>T7 R9 NWP</placekey>
+				<placekey>T7 R9 WELS</placekey>
+				<placekey>T7 R10 WELS</placekey>
+				<placekey>T7 R11 WELS</placekey>
+				<placekey>T7 R12 WELS</placekey>
+				<placekey>T7 R13 WELS</placekey>
+				<placekey>T7 R14 WELS</placekey>
+				<placekey>T7 R15 WELS</placekey>
+				<placekey>T8 R9 WELS</placekey>
+				<placekey>T8 R10 WELS</placekey>
+				<placekey>T8 R11 WELS</placekey>
+				<placekey>T8 R14 WELS</placekey>
+				<placekey>T8 R15 WELS</placekey>
+				<placekey>T9 R9 WELS</placekey>
+				<placekey>T9 R10 WELS</placekey>
+				<placekey>T9 R11 WELS</placekey>
+				<placekey>T9 R12 WELS</placekey>
+				<placekey>T9 R13 WELS</placekey>
+				<placekey>T9 R14 WELS</placekey>
+				<placekey>T9 R15 WELS</placekey>
+				<placekey>T10 R9 WELS</placekey>
+				<placekey>T10 R10 WELS</placekey>
+				<placekey>T10 R11 WELS</placekey>
+				<placekey>T10 R12 WELS</placekey>
+				<placekey>T10 R13 WELS</placekey>
+				<placekey>T10 R14 WELS</placekey>
+				<placekey>T10 R15 WELS</placekey>
+				<placekey>Arrowsic</placekey>
+				<placekey>Bath</placekey>
+				<placekey>Bowdoin</placekey>
+				<placekey>Bowdoinham</placekey>
+				<placekey>Georgetown</placekey>
+				<placekey>Phippsburg</placekey>
+				<placekey>Richmond</placekey>
+				<placekey>Topsham</placekey>
+				<placekey>West Bath</placekey>
+				<placekey>Woolwich</placekey>
+				<placekey>Perkins Twp Swan Island</placekey>
+				<placekey>Anson</placekey>
+				<placekey>Athens</placekey>
+				<placekey>Bingham</placekey>
+				<placekey>Brighton Plt</placekey>
+				<placekey>Cambridge</placekey>
+				<placekey>Canaan</placekey>
+				<placekey>Caratunk</placekey>
+				<placekey>Cornville</placekey>
+				<placekey>Dennistown Plt</placekey>
+				<placekey>Detroit</placekey>
+				<placekey>Embden</placekey>
+				<placekey>Fairfield</placekey>
+				<placekey>Harmony</placekey>
+				<placekey>Hartland</placekey>
+				<placekey>Highland Plt</placekey>
+				<placekey>Jackman</placekey>
+				<placekey>Madison</placekey>
+				<placekey>Mercer</placekey>
+				<placekey>Moose River</placekey>
+				<placekey>Moscow</placekey>
+				<placekey>New Portland</placekey>
+				<placekey>Norridgewock</placekey>
+				<placekey>Palmyra</placekey>
+				<placekey>Pittsfield</placekey>
+				<placekey>Pleasant Ridge Plt</placekey>
+				<placekey>Ripley</placekey>
+				<placekey>Saint Albans</placekey>
+				<placekey>Skowhegan</placekey>
+				<placekey>Smithfield</placekey>
+				<placekey>Solon</placekey>
+				<placekey>Starks</placekey>
+				<placekey>The Forks Plt</placekey>
+				<placekey>West Forks Plt</placekey>
+				<placekey>Alder Brook Twp</placekey>
+				<placekey>Appleton Twp</placekey>
+				<placekey>Taunton &amp; Raynham Academy Grant</placekey>
+				<placekey>Attean Twp</placekey>
+				<placekey>Bald Mountain Twp T2 R3</placekey>
+				<placekey>Bald Mountain Twp T4 R3</placekey>
+				<placekey>Bigelow Twp</placekey>
+				<placekey>Big Six Twp</placekey>
+				<placekey>Big Ten Twp</placekey>
+				<placekey>Big W Twp</placekey>
+				<placekey>Blake Gore</placekey>
+				<placekey>Bowtown Twp</placekey>
+				<placekey>Bradstreet Twp</placekey>
+				<placekey>Brassua Twp</placekey>
+				<placekey>Carrying Place Town Twp</placekey>
+				<placekey>Chase Stream Twp</placekey>
+				<placekey>Comstock Twp</placekey>
+				<placekey>Concord Twp</placekey>
+				<placekey>Dead River Twp</placekey>
+				<placekey>Dole Brook Twp</placekey>
+				<placekey>East Moxie Twp</placekey>
+				<placekey>Elm Stream Twp</placekey>
+				<placekey>Flagstaff Twp</placekey>
+				<placekey>Forsyth Twp</placekey>
+				<placekey>Hammond Twp</placekey>
+				<placekey>Hobbstown Twp</placekey>
+				<placekey>Holeb Twp</placekey>
+				<placekey>Indian Stream Twp</placekey>
+				<placekey>Johnson Mountain Twp</placekey>
+				<placekey>King &amp; Bartlett Twp</placekey>
+				<placekey>Lexington Twp</placekey>
+				<placekey>Little W Twp</placekey>
+				<placekey>Long Pond Twp</placekey>
+				<placekey>Lower Enchanted Twp</placekey>
+				<placekey>Mayfield Twp</placekey>
+				<placekey>Misery Twp</placekey>
+				<placekey>Misery Gore Twp</placekey>
+				<placekey>Moxie Gore</placekey>
+				<placekey>Parlin Pond Twp</placekey>
+				<placekey>Pierce Pond Twp</placekey>
+				<placekey>Pittston Academy Grant</placekey>
+				<placekey>Plymouth Twp</placekey>
+				<placekey>Prentiss Twp T4 R4 NBKP</placekey>
+				<placekey>Rockwood Strip T1 R1 NBKP</placekey>
+				<placekey>Rockwood Strip T2 R1 NBKP</placekey>
+				<placekey>Russell Pond Twp</placekey>
+				<placekey>Saint John Twp</placekey>
+				<placekey>Sandbar Tract Twp</placekey>
+				<placekey>Sandwich Academy Grant Twp</placekey>
+				<placekey>Sandy Bay Twp</placekey>
+				<placekey>Sapling Twp</placekey>
+				<placekey>Seboomook Twp</placekey>
+				<placekey>Soldiertown Twp T2 R3 NBKP</placekey>
+				<placekey>Squaretown Twp</placekey>
+				<placekey>Thorndike Twp</placekey>
+				<placekey>Tomhegan Twp</placekey>
+				<placekey>Upper Enchanted Twp</placekey>
+				<placekey>West Middlesex Canal Grant</placekey>
+				<placekey>Carrying Place Twp</placekey>
+				<placekey>T3 R4 BKP WKR</placekey>
+				<placekey>T3 R5 BKP WKR</placekey>
+				<placekey>T4 R5 NBKP</placekey>
+				<placekey>T4 R17 WELS</placekey>
+				<placekey>T5 R6 BKP WKR</placekey>
+				<placekey>T5 R7 BKP WKR</placekey>
+				<placekey>T5 R17 WELS</placekey>
+				<placekey>T5 R18 WELS</placekey>
+				<placekey>T5 R19 WELS</placekey>
+				<placekey>T5 R20 WELS</placekey>
+				<placekey>T6 R17 WELS</placekey>
+				<placekey>T6 R18 WELS</placekey>
+				<placekey>T7 R16 WELS</placekey>
+				<placekey>T7 R17 WELS</placekey>
+				<placekey>T7 R18 WELS</placekey>
+				<placekey>T7 R19 WELS</placekey>
+				<placekey>T8 R16 WELS</placekey>
+				<placekey>T8 R17 WELS</placekey>
+				<placekey>T8 R18 WELS</placekey>
+				<placekey>T8 R19 WELS</placekey>
+				<placekey>T9 R16 WELS</placekey>
+				<placekey>T9 R17 WELS</placekey>
+				<placekey>T9 R18 WELS</placekey>
+				<placekey>T10 R16 WELS</placekey>
+				<placekey>Belfast</placekey>
+				<placekey>Belmont</placekey>
+				<placekey>Brooks</placekey>
+				<placekey>Burnham</placekey>
+				<placekey>Frankfort</placekey>
+				<placekey>Freedom</placekey>
+				<placekey>Islesboro</placekey>
+				<placekey>Jackson</placekey>
+				<placekey>Knox</placekey>
+				<placekey>Liberty</placekey>
+				<placekey>Lincolnville</placekey>
+				<placekey>Monroe</placekey>
+				<placekey>Montville</placekey>
+				<placekey>Morrill</placekey>
+				<placekey>Northport</placekey>
+				<placekey>Palermo</placekey>
+				<placekey>Prospect</placekey>
+				<placekey>Searsmont</placekey>
+				<placekey>Searsport</placekey>
+				<placekey>Stockton Springs</placekey>
+				<placekey>Swanville</placekey>
+				<placekey>Thorndike</placekey>
+				<placekey>Troy</placekey>
+				<placekey>Unity</placekey>
+				<placekey>Waldo</placekey>
+				<placekey>Winterport</placekey>
+				<placekey>Addison</placekey>
+				<placekey>Alexander</placekey>
+				<placekey>Baileyville</placekey>
+				<placekey>Baring Plt</placekey>
+				<placekey>Beals</placekey>
+				<placekey>Beddington</placekey>
+				<placekey>Calais</placekey>
+				<placekey>Centerville Twp</placekey>
+				<placekey>Charlotte</placekey>
+				<placekey>Cherryfield</placekey>
+				<placekey>Codyville Plt</placekey>
+				<placekey>Columbia</placekey>
+				<placekey>Columbia Falls</placekey>
+				<placekey>Cooper</placekey>
+				<placekey>Crawford</placekey>
+				<placekey>Cutler</placekey>
+				<placekey>Danforth</placekey>
+				<placekey>Deblois</placekey>
+				<placekey>Dennysville</placekey>
+				<placekey>East Machias</placekey>
+				<placekey>Eastport</placekey>
+				<placekey>Grand Lake Stream Plt</placekey>
+				<placekey>Harrington</placekey>
+				<placekey>Jonesboro</placekey>
+				<placekey>Jonesport</placekey>
+				<placekey>Lubec</placekey>
+				<placekey>Machias</placekey>
+				<placekey>Machiasport</placekey>
+				<placekey>Marshfield</placekey>
+				<placekey>Meddybemps</placekey>
+				<placekey>Milbridge</placekey>
+				<placekey>Northfield</placekey>
+				<placekey>No 14 Twp</placekey>
+				<placekey>No 21 Twp</placekey>
+				<placekey>Pembroke</placekey>
+				<placekey>Perry</placekey>
+				<placekey>Princeton</placekey>
+				<placekey>Robbinston</placekey>
+				<placekey>Roque Bluffs</placekey>
+				<placekey>Steuben</placekey>
+				<placekey>Talmadge</placekey>
+				<placekey>Topsfield</placekey>
+				<placekey>Vanceboro</placekey>
+				<placekey>Waite</placekey>
+				<placekey>Wesley</placekey>
+				<placekey>Whiting</placekey>
+				<placekey>Whitneyville</placekey>
+				<placekey>Pleasant Point</placekey>
+				<placekey>Brookton Twp</placekey>
+				<placekey>Devereaux Twp</placekey>
+				<placekey>Dyer Twp</placekey>
+				<placekey>Edmunds Twp</placekey>
+				<placekey>Forest Twp</placekey>
+				<placekey>Forest City Twp</placekey>
+				<placekey>Fowler Twp</placekey>
+				<placekey>Kossuth Twp</placekey>
+				<placekey>Lambert Lake Twp</placekey>
+				<placekey>Marion Twp</placekey>
+				<placekey>Trescott Twp</placekey>
+				<placekey>Sakom Twp</placekey>
+				<placekey>T6 ND BPP</placekey>
+				<placekey>T6 R1 NBPP</placekey>
+				<placekey>T8 R3 NBPP</placekey>
+				<placekey>T8 R4 NBPP</placekey>
+				<placekey>T11 R3 NBPP</placekey>
+				<placekey>T18 ED BPP</placekey>
+				<placekey>T18 MD BPP</placekey>
+				<placekey>T19 ED BPP</placekey>
+				<placekey>T19 MD BPP</placekey>
+				<placekey>T24 MD BPP</placekey>
+				<placekey>T25 MD BPP</placekey>
+				<placekey>T26 ED BPP</placekey>
+				<placekey>T27 ED BPP</placekey>
+				<placekey>T30 MD BPP</placekey>
+				<placekey>T31 MD BPP</placekey>
+				<placekey>T36 MD BPP</placekey>
+				<placekey>T37 MD BPP</placekey>
+				<placekey>T42 MD BPP</placekey>
+				<placekey>T43 MD BPP</placekey>
+				<placekey>Indian Twp Res</placekey>
+				<placekey>Alfred</placekey>
+				<placekey>Arundel</placekey>
+				<placekey>Berwick</placekey>
+				<placekey>Biddeford</placekey>
+				<placekey>Buxton</placekey>
+				<placekey>Cornish</placekey>
+				<placekey>Dayton</placekey>
+				<placekey>Eliot</placekey>
+				<placekey>Hollis</placekey>
+				<placekey>Kennebunk</placekey>
+				<placekey>Kennebunkport</placekey>
+				<placekey>Kittery</placekey>
+				<placekey>Lebanon</placekey>
+				<placekey>Limerick</placekey>
+				<placekey>Limington</placekey>
+				<placekey>Lyman</placekey>
+				<placekey>Newfield</placekey>
+				<placekey>North Berwick</placekey>
+				<placekey>Ogunquit</placekey>
+				<placekey>Old Orchard Beach</placekey>
+				<placekey>Parsonsfield</placekey>
+				<placekey>Saco</placekey>
+				<placekey>Sanford</placekey>
+				<placekey>Shapleigh</placekey>
+				<placekey>South Berwick</placekey>
+				<placekey>Waterboro</placekey>
+				<placekey>Wells</placekey>
+				<placekey>York</placekey>
+			</place>
+			<stratum>
+				<stratkt>GCMD Parameter Keyword</stratkt>
+				<stratkey>human dimensions</stratkey>
+			</stratum>
+		</keywords>
+		<accconst>Secondary distribution by permission only. Please see Maine Office of Geographic Information Systems (MEGIS) License Agreement at http://megis.maine.gov/ . Any secondary distribution must have this documentation appended.</accconst>
+		<useconst>Users must assume responsibility in determining the usability of this data for their purposes. Digital maps retain the accuracy of their source materials. The best use of data mapped at scales of 1:500,000 and 1:250,000 is in statewide planning and studies; at 1:100,000 in regional planning and studies; at 1:62,500 and 1:24,000 in detailed studies and local planning; and at 1:12,000 and 1:5,000 or larger scales in parcel level studies and detailed local planning. In the use of Maine GIS data, please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the correct copy of both data and metadata from the Maine GIS Data Catalog. The Maine Office of Geographic Information Systems (MEGIS) provides notice of updates and corrections directly to the Maine GIS Technical Group and to Maine GIS Users, through the MEGISTECH and MEGISUSER list servers. To subscribe please contact MeGIS through the Maine Office of Information Technology (OIT) Customer Support Center (CSC) at (207) 624-7700. To request correction of, or provide updates to Maine GIS data, please use the contact information contained in the metadata. Updates, corrections, and feedback, incorporated in the Maine GIS database are made in accordance with "Data Standards for Maine Geographic Information Systems", 2002 and coordinated by MEGIS in consultation with the Maine GIS Executive Council.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>State House Station 145</address>
+					<city>Augusta</city>
+					<state>ME</state>
+					<postal>04333-0145</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(207) 624-7700</cntvoice>
+				<cntfax>(207) 287-3842</cntfax>
+				<smcoemhy>false</smcoemhy>
+				<hours>Monday through Friday 0800 - 1700 EST</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Credit should always be given to the data source and/or originator when the data is transferred or printed.</datacred>
+		<native>Maine Office of Information Technology (OIT) Oracle 9i, Maine Office of Geographic Information Systems (MEGIS), Maine GIS SDE, SDEUSER, SDE.DEFAULT;  Maine GIS Internet Data Catalog http://megis.maine.gov/catalog; Maine GIS ArcIMS http://megisims.state.me.us/website/orthomap/viewer.htm and http://megisims.state.me.us/website/basemap/viewer.htm</native>
+		<crossref>
+			<citeinfo>
+				<origin>Maine State Planning Office (MESPO), Maine Office of Geographic Information Systems (MEGIS) (comp., ed.)</origin>
+				<pubdate>20050922</pubdate>
+				<title>GEOCODES</title>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS</sername>
+					<issue>SDE server; Internet Data Catalog; Tables</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/catalog/</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine State Planning Office (MESPO), Maine Office of Geographic Information Systems (comp.) (ed.)</origin>
+				<pubdate>20050922</pubdate>
+				<title>GEOCODESLVA</title>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS</sername>
+					<issue>SDE server; Internet Data Catalog; Tables</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/catalog/</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+				<pubdate>20050922</pubdate>
+				<title>GEOMCDCCD</title>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS</sername>
+					<issue>SDE server; Internet Data Catalog; Tables</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/catalog/</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+				<pubdate>20050922</pubdate>
+				<title>MEPOPS</title>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS</sername>
+					<issue>SDE server; Internet Data Catalog; Tables</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/catalog/</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+				<pubdate>20050727</pubdate>
+				<title>FMSRC</title>
+				<edition>2</edition>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS Standards &amp; Guidelines</sername>
+					<issue>Maine GIS Feature Metadata Recommendation 2000</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/standards/standards.asp</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+				<pubdate>20051007</pubdate>
+				<title>FMORG</title>
+				<edition>2</edition>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS Standards &amp; Guidelines</sername>
+					<issue>Maine GIS Feature Metadata Recommendation 2000</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/standards/standards.asp</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+				<pubdate>20050727</pubdate>
+				<title>FMPROCSS</title>
+				<edition>2</edition>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS Standards &amp; Guidelines</sername>
+					<issue>Maine GIS Feature Metadata Recommendation 2000</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/standards/standards.asp</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<crossref>
+			<citeinfo>
+				<origin>Maine State Planning Office (MESPO), Maine Office of Geographic Information Systems (MEGIS) (comp.)</origin>
+				<pubdate>20050901</pubdate>
+				<title>RACE00</title>
+				<geoform>tabular digital data</geoform>
+				<serinfo>
+					<sername>Maine GIS</sername>
+					<issue>SDE server; Internet Data Catalog; Tables</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Augusta ME</pubplace>
+					<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+				</pubinfo>
+				<onlink>http://megis.maine.gov/catalog/</onlink>
+				<smcilnkh>false</smcilnkh>
+			</citeinfo>
+		</crossref>
+		<smbrowse>false</smbrowse>
+		<smdatast>
+			<smlayer>
+				<smlorder>0</smlorder>
+				<smltype>1</smltype>
+				<smlloc>\\bis-isa1AS2GIS\HOME11\crypt83\state</smlloc>
+				<smlname>METWP24_Area</smlname>
+				<smllbl>0</smllbl>
+				<smllbla>state</smllbla>
+				<smlstyl1>0</smlstyl1>
+				<smlcolor>0</smlcolor>
+				<smlweigh>0</smlweigh>
+			</smlayer>
+			<smlayer>
+				<smlorder>1</smlorder>
+				<smltype>0</smltype>
+				<smllbl>0</smllbl>
+				<smlstyl1>0</smlstyl1>
+				<smlcolor>0</smlcolor>
+				<smlweigh>0</smlweigh>
+			</smlayer>
+		</smdatast>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Attribute accuracy is tested by manual comparison of the source with hard copy printouts and/or symbolized display of digital files. Please report errors to Maine Office of GIS.</attraccr>
+		</attracc>
+		<logic>Spatial topology meets "Data Standards for Maine Geographic Information Systems", June 2002. LABELERRORS and NODEERRORS have been resolved. Spatial topology is clean and free of errors. The coverage has been BUILT with polygon topology.  An offshore limit line - Originally drafted at 1:250,000 by the Bureau of Land management (BLM) for managing Federal Outer Continental Shelf (OCS) leasing programs, the protraction diagram limit line was later plotted at 1:100,000 scale and provided in digital form to the US Census Bureau for use their TIGER Line Files. While this line is located approximately three nautical miles from the shoreline, it is technically the protraction diagram limit line not the actual three mile limit line and is used for closure purposes only in Maine GIS maps depicting coastal waters of Maine. Where reliable data for the depiction of  town boundaries beyond the coastline were not available, lines called connectors or arcs that extend from the coastline to this offshore limit line were added to METWP24 to correct query results for specific applications and for cartographic purposes. They are easily removed from the line feature class by selecting all arcs coded TYPE = connector and from the polygon feature class by selecting only features where LAND = 'y'.</logic>
+		<complete>Data set is complete.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Approximate horizontal accuracy is 12 meters plus or minus 40 feet, assuming source data meets National Map Accuracy Standards.</horizpar>
+				<qhorizpa>
+					<horizpav>12</horizpav>
+					<horizpae>Horizontal positional accuracy for this digital data is tested by visual comparison to the source with hard copy plots.</horizpae>
+				</qhorizpa>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>multiple dates</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>(24k) USGS 1:24,000 scale quadrangles</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>National Mapping Program Standard Series Topographic Maps</sername>
+							<issue>USGS 7.5 Minute Map Series</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Reston VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>24000 Publication date is unique to each quadrangle in the map series. Standard 7.5x7.5 minute quadrangles cover geographic areas of 49 to 71 square miles. 1 inch at map scale represents 2000 feet.</othercit>
+						<onlink>http://mapping.usgs.gov/mac/maplists/howtoselectmaps.html</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>24000</smcisrcs>
+						<smcisrcm>stable-base material (mylar)</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>19480101</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>Present</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>stable-base material (mylar)</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19480101</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>Present</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>24k</srccitea>
+				<srccontr>Data, from the U.S. Geological Survey 1:24000 scale quadrangles, were used, as base data in the development of METWP24.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Maine State Planning Office (MESPO)</origin>
+						<pubdate>19710513</pubdate>
+						<title>(GEOCODE) Standard Geographic Codes for Maine Minor Civil Divisions</title>
+						<edition>v1</edition>
+						<geoform>tabular digital data</geoform>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine State Planning Office</publish>
+						</pubinfo>
+						<othercit>This citation is for the first official Standard Geographic Code endorsed and adopted by the Governor of Maine, on July 1, 1971. Geocodes have undergone subsequent revisions, all of  which were "officially" rolled back to this 1971 list by Maine's Information Services Policy Board (ISPB), as of January 2000. In 1971, all Maine state agencies were requested to implement these five digit geocodes, in agency information systems, to build a base of data for Maine's Minor Civil Divisions (MCDs) and to promote data sharing. Data coded by MCD may subsequently be summarized by any other type of region, administrative district, natural area, etc. The first two digits of the geocode represent the federal code (FIPS) for Maine counties, the remaining three digits uniquely identify each of Maine's MCDs and Reservations. As an information service to state agencies and the public, geocodes for Maine, are now maintained, updated and made available for download, in comma delimited text and .dbf format, through the Maine Office of Geographic Information Systems (MEGIS) Data Catalog at  http://megis.maine.gov/catalog/ , "Tables" link.</othercit>
+						<onlink>http://megis.maine.gov/catalog/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>19710701</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19710701</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>geocode</srccitea>
+				<srccontr>Minor Civil Division and Reservation boundary POLYGONS in METWP24 are coded with the GEOCODE a unique 5 digit integer code for MCDs and Reservations in Maine.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>multiple dates</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>(100k) USGS 1:100000 scale quadrangles</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>National Mapping Program Standard Series Topographic Maps</sername>
+							<issue>USGS 30 x 60 Minute Map Series</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Reston VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>Publication date is unique to each quadrangle in the map series. Standard 30x60 minute quadrangles cover geographic areas of 1578 to 2167 square miles. 1 inch at map scale represents 1.6 miles. The following information from the Mid-continent Mapping Center (MCMC) may be pertinent in the use of 100k data: "The 100k quadrangles were primarily produced using 15 minute copy. However, P (provisional) maps and other 7.5 minute copy were also used."</othercit>
+						<onlink>http://mapping.usgs.gov/mac/maplists/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>100000</smcisrcs>
+						<smcisrcm>stable-base material (mylar)</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>19840101</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>19861231</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>stable-base material (mylar)</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19840101</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>19861231</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>100k</srccitea>
+				<srccontr>Data, from the U.S. Geological Survey 1:100000 scale quadrangles, were used, in METWP24, where maps provided the best known representation of a town or reservation boundary.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Commerce (USDOC) Bureau of Census, Geography Division</origin>
+						<pubdate>19910701</pubdate>
+						<title>(TIGERS90) TIGER/Line Files 1990</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>TIGER/Line Files</sername>
+							<issue>Census 1990</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Washington DC</pubplace>
+							<publish>U.S. Department of Commerce, Bureau of Census, Geography Division</publish>
+						</pubinfo>
+						<othercit>Topologically Integrated Geographic Encoding and Referencing System (TIGER)</othercit>
+						<onlink>http://www.census.gov/geo/www/tiger/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>100000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>19900401</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19900401</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>tigers90</srccitea>
+				<srccontr>Data, from the U.S. Department of Commerce Bureau of Census 1:100000 TIGER Line Files 1990 were used, in METWP24, to represent the offshore limit line and where TIGER features provided the best known representation of a town or reservation boundary. The following information on the origin and accuracy of the offshore limit line was provided by USGS: "According to USGS preliminary policy directive, dated January 6, 1977, the offshore protraction survey data (offshore limit line represented in METWP24) was originally shown only on 1:250000 scale topographic/bathymetric maps. In response to additional user requirements the decision was later made to show this data on all 1:100000 and 1:250000 scale maps regardless of the availability of bathymetry (Supplemental Topographic Instruction (STI 80/2/C, March 17, 1980). The offshore protraction surveys were prepared by the Bureau of Land management (BLM) for managing Federal Outer Continental Shelf (OCS) leasing programs. The protraction surveys were plotted by BLM at 1:250000 scale to produce the OCS Official Protraction Diagrams. In October 1982, the responsibility for preparing leasing maps was transferred from BLM to the Minerals Management Service (STI 83-5-C, August 26, 1983). The Information was plotted on 1:100,000 scale maps from copy that was enlarged from the 1:250000 scale graphics. The information on the 100,000 scale maps was provided in digital form to the Census Bureau for their TIGER Line Files. The offshore protraction diagram limit line parallel to the shoreline on the Official Protraction Diagrams is not identified as a territorial limit line or labeled on USGS maps as the three mile or three league line. While this line is located approximately three nautical miles from the shoreline, it is technically the protraction diagram limit line, not the actual three mile limit line.  . . .the protraction limit line . . . can only be as accurate as the original source (BLM Official Protraction Diagrams).</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+						<pubdate>20010601</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>metwp100</title>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Maine GIS</sername>
+							<issue>SDE server; Internet Data Catalog</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Office of Geographic Information Systems</publish>
+						</pubinfo>
+						<othercit>1:100000</othercit>
+						<onlink>http://megis.maine.gov/catalog/</onlink>
+						<smcilnkh>true</smcilnkh>
+						<smcisrcs>100000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>19480101</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>20010501</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>source dates</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19480101</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>20010501</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>source dates</srccurr>
+				</srctime>
+				<srccitea>metwp100</srccitea>
+				<srccontr>Data, from the Maine Office of Geographic Information Systems (MEGIS) 1:100000 town boundary coverage METWP100, were used, in METWP24, where features provided the best known representation of a town or reservation boundary.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS), Maine Office of Geographic Information Systems (MEGIS) (comp., ed.)</origin>
+						<pubdate>1995</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>coast</title>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Maine GIS</sername>
+							<issue>SDE server; Internet Data Catalog</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+						</pubinfo>
+						<othercit>1:24000</othercit>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>24000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>1948</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>1999</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>source dates</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1948</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>1999</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>source dates</srccurr>
+				</srctime>
+				<srccitea>coast</srccitea>
+				<srccontr>Data, from the Maine Office of Geographic Information Systems (MEGIS) 1:24000 library layer COAST, were used, in METWP24, to represent the Mean High Water (MHW) line, tidal rivers and salt water ponds and where coincident features provided the best known representation a town or reservation boundary.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS), Maine Office of Geographic Information Systems (MEGIS) (comp., ed.)</origin>
+						<pubdate>19970101</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>roads</title>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Maine GIS</sername>
+							<issue>SDE server; Internet Data Catalog</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+						</pubinfo>
+						<othercit>1:24000 Please note this Maine GIS 1:24000 scale ROADS data is actively being updated by the E911 project. Although ROADS remains available in the Data Catalog, the dataset E911RDS, available under the TOWNS tab is finalized E911 data and more up-to-date.</othercit>
+						<onlink>http://megis.maine.gov/catalog/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>24000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>19480101</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>19901231</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>source dates</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19480101</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>19901231</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>source dates</srccurr>
+				</srctime>
+				<srccitea>roads</srccitea>
+				<srccontr>Data, from the Maine Office of Geographic Information Systems (MEGIS) 1:24000 library layer ROADS, were used, in METWP24, where coincident features provided the best known representation of  a town or reservation boundary.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS), Maine Office of Geographic Information Systems (MEGIS) (comp., ed.)</origin>
+						<pubdate>19970101</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>ponds</title>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Maine GIS</sername>
+							<issue>SDE server; Internet Data Catalog</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Office of Geographic Information Systems (MEGIS)</publish>
+						</pubinfo>
+						<othercit>1:24000</othercit>
+						<onlink>http://megis.maine.gov/catalog/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>24000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>19480101</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>19901231</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>source dates</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19480101</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>19901231</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>source dates</srccurr>
+				</srctime>
+				<srccitea>ponds</srccitea>
+				<srccontr>Data, from the Maine Office of Geographic Information Systems (MEGIS) 1:24000 library layer PONDS, were used where coincident features provided the best known representation of a town or reservation boundary in METWP24.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (USGS)</origin>
+						<pubdate>multiple dates</pubdate>
+						<title>(PHOTOREV)USGS 1:24000 scale photorevised quadrangles</title>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>National Mapping Program Standard Series Topographic Maps Photorevised</sername>
+							<issue>USGS 7.5 Minute Map Series</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Reston VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>24000 Publication date is unique to each quadrangle in the map series. A schedule of updates to USGS 1:24000 scale quadrangles has produced "photorevisions" of the hard copy maps. 7.5x7.5 minute quadrangles cover geographic areas of 49 to 71 square miles. 1 inch at map scale represents 2000 feet.</othercit>
+						<onlink>http://mapping.usgs.gov/mac/maplists/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>24000</smcisrcs>
+						<smcisrcm>stable-base material (mylar)</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>19780101</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>stable-base material (mylar)</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>19780101</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>photorev</srccitea>
+				<srccontr>Additional arcs and polygons have been added to the coverage from photorevised USGS data.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Commerce (USDOC) Bureau of Census, Geography Division</origin>
+						<pubdate>20010701</pubdate>
+						<title>(TIGERS00) TIGER/Line Files 2000</title>
+						<edition>2000</edition>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>TIGER/Line Files</sername>
+							<issue>Census 2000</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Washington D.C.</pubplace>
+							<publish>U.S. Department of Commerce, Bureau of Census, Geography Division</publish>
+						</pubinfo>
+						<othercit>TIGERS (Topologically Integrated Geographic Encoding and Referencing) are a public product of the Bureau of the Census. TIGERS represent a digital database of geographic features, such as roads, railroads, rivers, lakes, political boundaries, census statistical boundaries, etc. covering the entire United States. The database contains information about these features such as their location in latitude and longitude, the type of feature, the geographic relationship to other features, and other related information. In order for others to use the information in the Census TIGER database in a geographic information system (GIS), the Census Bureau releases periodic extracts of the database, including the TIGER/Line Files, to the public. Note: Census TIGER, TIGER, TIGER/Line, and the TIGER logo are registered trademarks of the U.S. Bureau of the Census. For additional information on the Census TIGER Data, please refer to the TIGER/Line Files Technical Documentation, the TIGER/Line Files Metadata, or to the Census Web Site. TIGER/Line Files, Redistricting Census 2000 metadata at &lt;http://www.census.gov/geo/www/tiger/rd_2ktiger/tlrdmeta.txt&gt;.</othercit>
+						<onlink>http://www.census.gov/geo/www/tiger/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>100000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>20010401</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20010401</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>tigers00</srccitea>
+				<srccontr>U.S. Department of Commerce, Bureau of Census, 1:100,000 TIGER Line Files  2000 were used, in METWP24, to represent an "offshore limit line" and to depict town, county, or state boundaries where TIGER features provided the best known representation.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Maine Department of Conservation (MEDOC), Bureau of Parks and  Lands (BPL)</origin>
+						<pubdate>20000512</pubdate>
+						<title>(CIREG) Maine Coastal Island Registry</title>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>Coastal Island Registry</sername>
+							<issue>MS33Ch25</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Department of Conservation, Bureau of Parks and Lands</publish>
+						</pubinfo>
+						<othercit>Title33Ch25, 1973,&lt;http://janus.state.me.us/legis/statutes/&gt;, refer to "Maine Revised Statutes Annotated" and supplements for complete certified text of this statute. The Coastal Island Registry was established within the Bureau of Parks and Lands, under the Director of the Bureau of Parks and Lands, to maintain a listing and description of all coastal islands.</othercit>
+						<onlink>http://www.state.me.us/sos/cec/rcn/apa/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>999999</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<rngdates>
+									<begdate>1973</begdate>
+									<begtime>Unknown</begtime>
+									<enddate>Present</enddate>
+									<endtime>Unknown</endtime>
+								</rngdates>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>999999</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1973</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>Present</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>cireg</srccitea>
+				<srccontr>METWP24 contains island affiliation and island identification numbers based on Maine Department of Conservation, Bureau of Parks and Lands, Coastal Island Registry (CIREG) data.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Maine Office of Geographic Information Systems (MEGIS)</origin>
+						<pubdate>20010101</pubdate>
+						<title>(FM) Maine GIS Feature Metadata Recommendation</title>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>Feature Metadata</sername>
+							<issue>January 2001</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Office of Geographic Information Systems</publish>
+						</pubinfo>
+						<othercit>Recommended FM items, FMSRC, FMSRCDAT, FMSRCORG, FMPROCSS, FMUPDORG, FMUPDDAT, and suggested codes provide accessible readable standardized notation on the source, source originator, process, organization of edit, and date of edit that identify a feature's location and quality. The codes are in English, all lowercase and include no hyphens, punctuation or spaces. Codes have standardized definitions so their use represents a single unique defined source, source originator, process, or organization of edit. The Maine GIS Technical Group's FM subcommittee has defined these items for use in feature attribute tables. The final recommendation, which was presented January 2001, is flexible and will function in most GIS environments independent of FGDC metadata or specific metadata tools; however, parallel or subsequent development of FGDC metadata, and use of cross references to same, is assumed and recommended. For more information on the Maine GIS Feature Metadata Recommendation see: http://www.megis.maine.gov/standards/standards.asp/, Standards &amp; Guidelines.</othercit>
+						<onlink>http://megis.maine.gov/catalog/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>999999</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>20010101</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>999999</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20010101</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>fm</srccitea>
+				<srccontr>Arcs in METWP24 are coded with the items LAND, TYPE, SOURCE, and Maine GIS recommended feature metadata items and codes.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Maine State Planning Office (MESPO), Maine Cooperative Fish and Wildlife Research Unit at the University of Maine Orono (MECFWRU) (comp., ed.)</origin>
+						<pubdate>19990320</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>mepub100</title>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Maine GIS</sername>
+							<issue>SDE server; Internet Data Catalog</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine Office of Geographic Information Systems</publish>
+						</pubinfo>
+						<othercit>1:100000</othercit>
+						<onlink>http://megis.maine.gov/catalog/</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>100000</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>1997</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1997</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>mepub100</srccitea>
+				<srccontr>MEPUB100 used to confirm status of METWP24 polygons attributed within Baxter State Park, or BAXTER = 1.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Maine Secretary of State (MESOS), Maine State Archives (MSA)</origin>
+						<pubdate>20000811</pubdate>
+						<title>(MSAMCD) Maine Minor Civil Division-Legal History Database</title>
+						<geoform>tabular digital data</geoform>
+						<serinfo>
+							<sername>Archival Resources On-Line for Download</sername>
+							<issue>multiple issue</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Augusta ME</pubplace>
+							<publish>Maine State Archives</publish>
+						</pubinfo>
+						<othercit>GEOMAST.zip, http://www.state.me.us/sos/arc/files/dbinfo.htm, "Maine Minor Civil Divisions - Legal History Database". Taken from [Maine State Archives] print publication 'Counties, Cities, Towns, and Plantations of Maine, Private and Special Laws', and other sources, the data trace the legal evolution of many minor civil divisions (MCD) from township, to plantation, to town or city, and sometimes back to township. 
+Inclusive Dates: November 20, 1652 to August 11, 2000. 
+Records: 5,047, each representing an MCD at each change in its status."</othercit>
+						<onlink>http://www.state.me.us/sos/arc/files/dbinfo.htm</onlink>
+						<smcilnkh>false</smcilnkh>
+						<smcisrcs>999999</smcisrcs>
+						<smcisrcm>online</smcisrcm>
+						<smcisrct>
+							<timeinfo>
+								<sngdate>
+									<caldate>20010811</caldate>
+									<time>Unknown</time>
+								</sngdate>
+							</timeinfo>
+						</smcisrct>
+						<smcisrcc>publication date</smcisrcc>
+					</citeinfo>
+				</srccite>
+				<srcscale>999999</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20010811</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>msamcd</srccitea>
+				<srccontr>MSAMCD was used assist confirmation of town name spelling, requested edits to town boundaries, and legal histories.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>METWP24 contains statewide political boundaries digitized from USGS 1:24,000 scale quadrangle maps. ARCS and POLYGONS have been added or edited by Maine Office of GIS staff to reflect recent changes in Minor Civil Division boundaries.</procdesc>
+				<srcused>24k</srcused>
+				<srcused>geocode</srcused>
+				<srcused>100k</srcused>
+				<srcused>tigers90</srcused>
+				<srcused>metwp100</srcused>
+				<srcused>coast</srcused>
+				<srcused>roads</srcused>
+				<srcused>ponds</srcused>
+				<procdate>19980213</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>The Maine Office of GIS completed the conversion of all final data layers from NAD27 to NAD83 in July 1999.  All the data layers were converted using the ArcInfo (version 7.2.1) NADCON conversion and the "project" command.  All data was copied to double precision, projected to NAD83, and then copied back to single precision.  It was decided to keep the NAD27 quad structure instead of generating new quad boundaries from NAD83 coordinates - all indexes (quads) were projected to NAD83 by using the same process previously described.  All MEGIS data libraries in ArcInfo Librarian were repopulated using the NAD83 indexes and data.</procdesc>
+				<procdate>19990701</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>METWP24 was updated to include the following: name changes to comply with MRSA 1 Ch27, section 1101 An Act Concerning Offensive Names, Big Squaw Twp to Big Moose Twp, Little Squaw Twp to Moosehead Junction Twp; name changes to comply with MRS 1, Ch28, section 1501 Name Changes by Passamaquoddy Tribe, T5 ND BPP (29812) to Sakom Twp, T5 R1 NBPP (19826) to Pukakon Twp, T4 ND BPP (09802) to Oqiton Twp;  changed data type of item GEOCODE from "I" (integer) to "C" (character); added POLYGON items CIREG, COUNTY, CNTYCODE, GEOCODENUM and the ARC items LAND, FMSRC, FMSRCDAT, FMSRCORG, FMPROCSS, FMUPDORG, FMUPDDAT, FMNOTE; the code 'coast' for the  ARC item TYPE was changed to 'coastline' in order to coordinate with recoding requirements anticipated for Maine GIS geodatabase development, and the code 'closure' was added, to the item TYPE, for reference to  the coastal closure lines between legally described and georeferenced town/county lines and the offshore limit line; Coastal Island Registry (CIREG) numbers were added from and proofed to match the Maine GIS data layer COAST (The primary source for CIREG numbers in Maine GIS data layers is the Maine Department of Conservation, Bureau of Parks and Lands (BPL), Coastal Island Registry.); the BPL Coastal Island Registry was used to correct and complete the attributes, TOWN, COUNTY, CIREG, for 400+ island polygons in the lower Penobscot Bay region (Future corrections and updates to any of these items for coastal islands, in Maine GIS data layers, will be through confirmation and coordination with the primary source.); at the recommendation of the Maine GIS Town Boundary subcommittee a closure line was added to represent the ocean boundary between Muscle Ridge Shoals Twp, Vinalhaven and Matinicus Isle Plantation (Muscle Ridge Shoals Twp is an MCD and  has a unique GEOCODE as listed in Maine GIS "Standard Geographic Codes for Maine Minor Civil Division", see &lt;http://musashi.ogis.state.me.us/catalog&gt; Tables); FM items were a</procdesc>
+				<srcused>24k</srcused>
+				<srcused>geocode</srcused>
+				<srcused>100k</srcused>
+				<srcused>tigers90</srcused>
+				<srcused>metwp100</srcused>
+				<srcused>coast</srcused>
+				<srcused>roads</srcused>
+				<srcused>ponds</srcused>
+				<srcused>tigers00</srcused>
+				<srcused>cireg</srcused>
+				<srcused>fm</srcused>
+				<srcused>mepub100</srcused>
+				<srcused>msamcd</srcused>
+				<procdate>20010501</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Attribute changes:
+Starting with the DOT copy of METWP24, from September 2001, a regions coverage:
+dropped items DOTGEOCODE (2 discrepancies with GEOCODE Barnard DOTGEOCODE was 21892 (82) sb 21030 (71) and Grand Falls DOTGEOCODE was 19838 (82) sb 19250(71)), CMI_OLD, CMI, CMITAG, COUNTY_ID, COUNTY-ID, USCONG_DIS to create a coverage that includes MEDOT attribution requirements, this coverage will be serve as an updated SDE layer;
+BAXTER attributes corrected from boolean values (1,0) to 'y' and 'n';
+added attribute 'other' to item TYPE for features within town boundaries, i.e. BSP, lurc, reservations, that do not represent 'town', 'county', 'state', 'coastline', 'connectors', or 'offshore';
+EGGROCK CIREG 63-333 sb LURC = 'y';
+T6 R8 WELS polygon showing BSP boundary in southwest sb Baxter = 'y', Lurc = 'n', rest of T6 R8 WELS sb Baxter = 'n', LURC = 'y'; CASWELL sb LURC = 'n';
+BARING sb Baring Plantation Lurc = 'y';
+new polygon label created in T2 R9 WELS coded Baxter = 'y', LURC = 'y'.
+Line work changes:
+HARPSWELL removed three tile boundary lines, deleted three extra labels;
+BATH town boundary correction at High Street at boundary with WEST BATH;
+WAYNE town boundary correction at Lovejoy Pond at boundary with READFIELD;
+SAINT GEORGE town boundary correction at Patten Point Road with SOUTH THOMASTON;
+DENMARK town boundary correction at Stanley Hill Road with FRYEBURG;
+DENMARK town boundary correction at Walkers Falls Road with BROWNFIELD;
+DENMARK town boundary correction at near Hio Ridge Road with BRIDGTON;
+FARMINGDALE town boundary correction at Maine Avenue with HALLOWELL;
+FARMINGDALE town boundary correction at Jaimies Pond Road with HALLOWELL and MANCHESTER; FARMINGDALE town boundary correction at Litchfield Road with WEST GARDINER;
+MUSCLE RIDGE town boundary added to this copy the boundary described and submitted to the U.S. Census Bureau;
+EASTPORT town boundary correction at Dudley Island with LUBEC;
+T11</procdesc>
+				<procdate>20020630</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>The attribute TAG = 'y' has been corrected in METWP24 to ensure a correct join or relate with the GEOCODES and GEOMCDCCD tables. Errors were corrected in the coding of the attribute for Criehaven Twp, Frenchboro, Islands of Moosehead Lake, Machiasport, Matinicus Isle Plt, Molunkus Twp, Muscle Ridge Shoals Twp, T2 R9 WELS, T4 R10 WELS, Westport, Vinalhaven, Swan Island in the Kennebec River.</procdesc>
+				<procdate>20030516</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Corrected METWP24 item LAND for four polygons St George River Warren, Rachel Carson NW Reserve Kittery, New Meadows River Brunwick, Chandler River Jonesport/Jonesboro.</procdesc>
+				<procdate>20030613</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>METWP24 has been edited with information provided by Hallowell and Farmingdale on their boundary west of Water Street/Maine Avenue. Letter from Chief Rodney Myrick, Hallowell 03/17/2004 indicates both municipalities are in agreement that at the "bend on Chickadee Lane" the boundary line running northeasterly from Blaine Road should "cross over to the north side [of Chickadee Lane and run] all the way down to Water Street".
+
+For this area, many points, features and historic references in PS1852Ch549, An Act to Incorporate the Town of Farmingdale, have been lost. Both towns have referred to a plan of the area by Ansel L. Hill, dated February 7, 1972. The "Old Stone Monuments" documented in the Hill plan have also not been located. Digital mapping cannot rectify this, or substitute for resurvey and clarification of the boundary; however, map changes based on the information provided may be a better approximation of what the municipalities agree is their historical boundary than the current USGS depiction.
+
+The intersection of Chickadee Lane with Water Street/Maine Avenue appears to be within 10 meters of the location of an old stone monument shown on the Hill plan marked "F on S'ly side and H on N'ly side".  E911 GPS data for Chickadee Lane has been used to depict a line running west from that intersection to an approximate point of intersection with a line running northeasterly from Blaine Road.</procdesc>
+				<procdate>20040517</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntpos>GIS Coordinator</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>207 624-7700</cntvoice>
+						<cntfax>207 287-4563</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>METWP24 has been edited with information provided by the Maine Land User Regulation Commission. The 7.5 minute map series depiction of the south boundary of Rockwood Strip T1 R1 NBKP with Taunton &amp; Raynham Academy Grant has been replaced with a correct depiction of the boundary from the 30 x 60 minute series. Feature metadata and layer metadata have been updated to reflect the change.</procdesc>
+				<srcused>metwp100</srcused>
+				<procdate>20040806</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Edits were posted to the MEGIS.Boundaries METWP24 from MEDOT to reflect the following legislated updates:
+
+NAME CHANGES:
+Town of Verona to Town of Verona Island (effective March 2004, LD1653 enacts 03/05/2004 enacts P&amp;SL 1861 C25 Sec. 4)
+Town of Westport to Town of Westport Island (effective November 2003, LD37 signed 418/2003 enacts P&amp;S1828 C511 Sect. 7)
+
+BOUNDARY CHANGE:
+Bridgton/Harrison (effective 4/17/2003, LD793 boundary line between the Town of Bridgton and the
+Town of Harrison along Long Lake is reestablished along the
+center of the lake)
+
+RELATED Table updates:
+GEOCODES
+GEOCODESLVA
+GEOMCDCCD
+MEPOPS</procdesc>
+				<procdate>20050617</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEDOT) Maine Department of Transportation</cntorg>
+						</cntorgp>
+						<cntpos>GIS Coordinator</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 16</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-3300</cntvoice>
+						<cntfax>(207)624-3301</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+						<cntinst>Contact the Bureau of Planning, Systems Management section. Ask for the GIS Coordinator.</cntinst>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Data updates:
+Edits were posted to the MEGIS.Boundaries METWP24 from MEDOC LURC to reflect the following legislated updates:
+
+NAME CHANGES:
+Centerville to Centerville Twp (effective July 1, 2004, LD 1624 First Regular Session 121st)
+T17 R5 WELS to Cross Lake Twp (effective 6/8/2004, LD 1925, P&amp;S 2003 C46 Second Special Session of the 121st)
+T5 R9 NWP to Ebeemee Twp (effective 12/23/2004, LD 1924, P&amp;S 2003 C46 Second Special Session of the 121st)
+
+STATUS CHANGE:
+Centerville Twp to LURC = 'y' (effective July 1, 2004, LD 1624 First Regular Session 121st)
+T2 R9 WELS parcel in LURC jurisdiction, LURC ='y'
+
+LURC parcel boundary added within:
+T2 R9 WELS  (line screendig from LURC/BSP description of parcel in LURC jurisdiction re: 7/9/1993 Plisgah &amp; Day survey)
+
+Related table updates:
+GEOCODES
+GEOCODESLVA
+GEOMCDCCD
+MEPOPS</procdesc>
+				<procdate>20050622</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEDOCLURC) Maine Department of Conservation Land Use Regulation Commission</cntorg>
+							<cntper>Ellen Jackson</cntper>
+						</cntorgp>
+						<cntpos>Programmer Analyst</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>SHS 22</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 287-4943</cntvoice>
+						<cntemail>Ellen.Jackson@state.me.us</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Edit posted to the MEGIS.Boundaries METWP24P from MEDOC Land Use Regulation Commission  to reflect the following legislated updates:
+
+NAME CHANGE:
+T8 SD to Fletchers Landing Twp (LD 140, enacting P&amp;SL 2005 C3, effective July 1, 2005)</procdesc>
+				<procdate>20050922</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Maine Land Use Regulation Commission</cntorg>
+						</cntorgp>
+						<cntpos>Programmer Analyst</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>SHS 22</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>207 287 4943</cntvoice>
+						<smcoemhy>false</smcoemhy>
+						<hours>0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Related table updates:
+GEOCODES
+GEOCODESLVA
+GEOMCDCCD
+MEPOPS
+
+SMMSORACLE to refresh the Maine GIS Internet Data Catalog</procdesc>
+				<procdate>20050922</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>MEDOT columns RTAC, DIVISION, DISTRICT, DIVTAG were replaced by the new columns DOT_REGION and DOT_REGNUM.  The current CIREG column will be replaced by a new column ISLANDID.  The new ISLANDID column will provide an island identifier for each coastal island.  A subset of island identifiers are CIREG numbers, which will be indicated by a new CIREG column coded "y/n". Improved CIREG number coding, island identification and depicition, the result of a multiagency coordination effort for the 1:24000 scale base layers, was added to METWP24. The work was completed for HYD24P in 2003.
+
+SUMMARY Islands3 Coverage
+7200 mapped features
+6995 mapped islands or ledges (2016 of which have names derived from USGS 15' quads)
+1281 Maine islands or ledges with an identifier added 
+35 Canadian islands with CA prefix and an identifier greater than or equal to 1000 [added see MEIFW email JKenney 06/26/2003]
+ -  New Hampshire islands with with NH prefix and an identifier greater than or equal to 1000 ["]
+5679 Maine islands or ledges with an identifier, 5473 of which are unique identifiers (some identifiers point to multiple polygons - e.g. ledges).
+3671 Maine islands or ledges with an identifier listed in the Coastal Island Registry, 3471 of which are unique identifiers (some identifiers point to multiple polygons - e.g. ledges).
+2008 Maine islands or ledges with an identifier assigned by the College of the Atlantic, 2002 of which are unique identifiers (some identifiers point to multiple polygons - e.g. ledges).
+621 added polygons - 114 from the "Coast" layer, 505 from DRGs or DOQs (heads-up digitizing), 2 from the revised "Coast" layer, which is based on newer USGS quads for Moose River, Cutler, Machias Bay, Cross Island (provided by Dave Kerouac) 
+
+ATTRIBUTES
+IslandID (C16) - This field contains all of the verified Coastal Island Registry identifiers and the identifiers added by the College of the Atlantic. All coastal features were assigned an ISLANDID. Those previously indicated "No ID" have been assigned an identifier greater than or equal to 1000 [added see MEIFW email JKenney 06/26/2003]. Canadian islands - with CA prefix and an identifier greater than or equal to 1000 ["]
+New Hampshire islands -  with with NH prefix and an identifier greater than or equal to 1000. ["] 
+All Coastal Island Registry identifiers in this layer match the Coastal Island Registry identifiers on the paper maps at the Department of conservation and the Department of Inland Fisheries and Wildlife.
+
+All future assignments of ISLANDID should be made through MEIFW.</procdesc>
+				<procdate>20060630</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 145</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333-0145</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-7700</cntvoice>
+						<cntfax>(207) 287-3842</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Edits were posted to the MEGIS.Boundaries METWP24 from MEDOT to reflect the following legislated updates:
+
+The creation of Chebeague Island mandated by Private &amp; Special Law, Chapter 47, 2nd regular session of the 122nd Legislature, taking effect July 1, 2007.
+
+Name change; Drew Plantation to Drew Township, pursuant to P&amp;S Law, Chapter 60, 2nd regular session of the 122nd Legislature, also taking effect July 1, 2007.</procdesc>
+				<procdate>20070701</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>(MEDOT) Maine Department of Transportation</cntorg>
+						</cntorgp>
+						<cntpos>GIS Coordinator</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>State House Station 16</address>
+							<city>Augusta</city>
+							<state>ME</state>
+							<postal>04333</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(207) 624-3300</cntvoice>
+						<cntfax>(207)624-3301</cntfax>
+						<smcoemhy>false</smcoemhy>
+						<hours>Monday through Friday 0800 - 1700 EST</hours>
+						<cntinst>Contact the Bureau of Planning, Systems Management section. Ask for the GIS Coordinator.</cntinst>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">M:\crypt83\metadata\fgdc\metwp24.xml</srcused><date Sync="TRUE">20070711</date><time Sync="TRUE">14123300</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">I:\USMProjects\Digital_Atlas\updated_layers071009\metwp24p</srcused><procdate Sync="TRUE">20090713</procdate><proctime Sync="TRUE">09250800</proctime></procstep></lineage>
+		<cloud>0</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<smcaptur>false</smcaptur>
+		<ptvctinf><esriterm Name="DHHS_PT"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="1" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>Coordinate Pair</plance>
+					<coordrep>
+						<absres>1</absres>
+						<ordres>1</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298.257</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_UTM_Zone_19N</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="DHHS_PT">
+			<enttyp>
+				<enttypl>METWP24P</enttypl>
+				<enttypd>polygon feature class</enttypd>
+				<enttypds>Environmental Systems Research Institute, Inc. (ESRI)</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr>
+				<attrlabl>BAXTER</attrlabl>
+				<attrdef>identifies areas within the jurisdiction of Baxter State Park Authority (BSPA)</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>area not under BSPA jurisdiction</edomvd>
+					</edom>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>area under BSPA jurisdiction</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth><attalias Sync="TRUE">BAXTER</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>CIREG</attrlabl>
+				<attrdef>Coastal Island Registry Number indicator (The format used to establish an ISLANDID for each island, is the same as that used for Coastal Island Registry (CIREG) numbers. Not all islands are part of the registry. CIREG numbers are therefore, a subset of ISLANDID. Where a CIREG number exists, the item CIREG is flagged 'y'  and the ISLANDID is also  the CIREG number for the island.)</attrdef>
+				<attrdefs>Title33 Chapter 25 section 1201,&lt;http://janus.state.me.us/legis/statutes/&gt;, refer to "Maine Revised Statutes Annotated" and supplements for complete certified text. The Coastal Island Registry was established within the Bureau of Parks and Lands, under the Director of the Bureau of Parks and Lands, to maintain a listing, index number, and description of all coastal islands.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>ISLANDID also represents a Coastal Island Registry number</edomvd>
+					</edom>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>a Coastal Island Registry number does not exist for this island</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth><attalias Sync="TRUE">CIREG</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>CNTYCODE</attrlabl>
+				<attrdef>Code corresponds to the federal (FIPS) code established for each of Maine's sixteen counties. The county code is also represented in the first two digits of Maine's official Standard Geographic Code (geocode), a five digit code that uniquely identifies Minor Civil Divisions and Indian Reservation land in the Maine.</attrdef>
+				<attrdefs>Federal Information Processing Standards Publication Series of the National Institute of Standards and Technology (NIST)
+
+
+For a current digital copy of "Standard Geocodes for Maine Minor Civil Divisions" in .dbf or comma delimited text format see http://megis.maine.gov/catalog "Tables" link.</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>01</edomv>
+						<edomvd>Androscoggin</edomvd>
+					</edom>
+					<edom>
+						<edomv>03</edomv>
+						<edomvd>Aroostook</edomvd>
+					</edom>
+					<edom>
+						<edomv>05</edomv>
+						<edomvd>Cumberland</edomvd>
+					</edom>
+					<edom>
+						<edomv>07</edomv>
+						<edomvd>Franklin</edomvd>
+					</edom>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>Hancock</edomvd>
+					</edom>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Kennebec</edomvd>
+					</edom>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Knox</edomvd>
+					</edom>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Lincoln</edomvd>
+					</edom>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Oxford</edomvd>
+					</edom>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Penobscot</edomvd>
+					</edom>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>Piscataquis</edomvd>
+					</edom>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>Sagadahoc</edomvd>
+					</edom>
+					<edom>
+						<edomv>25</edomv>
+						<edomvd>Somerset</edomvd>
+					</edom>
+					<edom>
+						<edomv>27</edomv>
+						<edomvd>Waldo</edomvd>
+					</edom>
+					<edom>
+						<edomv>29</edomv>
+						<edomvd>Washington</edomvd>
+					</edom>
+					<edom>
+						<edomv>31</edomv>
+						<edomvd>York</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><attalias Sync="TRUE">CNTYCODE</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attrdef>Maine county name</attrdef>
+				<attrdefs>Federal Information Processing Standards Publication Series of the National Institute of Standards and Technology (NIST)
+
+
+For a current digital copy of "Standard Geocodes for Maine Minor Civil Divisions" in .dbf or comma delimited text format see http://megis.maine.gov/catalog "Tables" link.</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth><attalias Sync="TRUE">COUNTY</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>DOT_REGION</attrlabl>
+				<attrdef>region used by MEDOT organizational structure for all maintenance and construction activities.</attrdef>
+				<attrdefs>MEDOT</attrdefs>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attalias Sync="TRUE">DOT_REGION</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>DOT_REGNUM</attrlabl>
+				<attrdef>MEDOT region number</attrdef>
+				<attrdefs>MEDOT</attrdefs>
+				<attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">1</attwidth><attalias Sync="TRUE">DOT_REGNUM</attalias><atprecis Sync="TRUE">1</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>GEOCODE</attrlabl>
+				<attrdef>5 character code corresponding to the "Standard Geographic Code for Maine Counties and Minor Civil Divisions", 1971</attrdef>
+				<attrdefs>For a current digital copy of "Standard Geocodes for Maine Minor Civil Divisions" in .dbf or comma delimited text format see http://megis.maine.gov/catalog "Tables".</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><attalias Sync="TRUE">GEOCODE</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>GEOCODENUM</attrlabl>
+				<attrdef>numeric data type equivalent to GEOCODE field</attrdef>
+				<attrdefs>For a current digital copy of "Standard Geocodes for Maine Minor Civil Divisions" in .dbf or comma delimited text format see http://megis.maine.gov/catalog "Tables".</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">5</attwidth><attalias Sync="TRUE">GEOCODENUM</attalias><atprecis Sync="TRUE">5</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>ISLAND</attrlabl>
+				<attrdef>identifies island polygons</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>coastal, lake or river island</edomvd>
+					</edom>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>non-island</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth><attalias Sync="TRUE">ISLAND</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>ISLANDID</attrlabl>
+				<attrdef>a unique ISLANDID for each marine island (The format used to establish an ISLANDID for each island, is the same as that used for Coastal Island Registry (CIREG) numbers. Not all islands are part of the registry. CIREG numbers are therefore, a subset of ISLANDID. Where a CIREG number exists, the item CIREG is flagged 'y'  and the ISLANDID is also  the CIREG number for the island.)</attrdef>
+				<attrdefs>Maine Department of Inland Fisheries and Wildlife</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth><attalias Sync="TRUE">ISLANDID</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>LAND</attrlabl>
+				<attrdef>identifies land and non-land areas</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>polygon represents land</edomvd>
+					</edom>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>polygon represents fresh, estuarine or marine waters</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth><attalias Sync="TRUE">LAND</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">RTAC</attrlabl><attalias Sync="TRUE">RTAC</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">DIVISION</attrlabl><attalias Sync="TRUE">DIVISION</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">DISTRICT</attrlabl><attalias Sync="TRUE">DISTRICT</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">DIVTAG</attrlabl><attalias Sync="TRUE">DIVTAG</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>LURC</attrlabl>
+				<attrdef>identifies areas of state which are under Maine Land Use Regulation Commission (LURC) jurisdiction</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>area recorded as LURC jurisdiction</edomvd>
+					</edom>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>area not recorded as LURC jurisdiction</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth><attalias Sync="TRUE">LURC</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">TYPE</attrlabl><attalias Sync="TRUE">TYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>TAG</attrlabl>
+				<attrdef>item used to select a single feature for labeling purposes</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>Use point for labeling.</edomvd>
+					</edom>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>Do not use point for labeling.</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth><attalias Sync="TRUE">TAG</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>TOWN</attrlabl>
+				<attrdef>town or reservation name as listed in "Standard Geographic Code for Maine Minor Civil Divisions"</attrdef>
+				<attrdefs>For a current digital copy of "Standard Geocodes for Maine Minor Civil Divisions" in .dbf or comma delimited text format see http://megis.maine.gov/catalog "Tables" link.</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">40</attwidth><attalias Sync="TRUE">TOWN</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">ORIG_FID</attrlabl><attalias Sync="TRUE">ORIG_FID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>METWP24L</enttypl>
+				<enttypd>arc feature class</enttypd>
+				<enttypds>Environmental Systems Research Institute, Inc. (ESRI)</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FMNOTE</attrlabl>
+				<attrdef>25 character field defined 25 25 C; this FM item contains free text notes on updates to the location of a feature; can be used as cross reference to Other Citation Details in the Source Information section of FGDC metadata.</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guidelines link.</attrdefs>
+				<smcaptur>false</smcaptur>
+			</attr>
+			<attr>
+				<attrlabl>FMPROCSS</attrlabl>
+				<attrdef>12 character field defined 12 12 C; this FM  item refers to a PROCESS OR ACTION which is explanatory of quality or accuracy of a feature; can  be used for cross reference in the Process Description or Source Produced Citation Abbreviation elements, part of the Data Quality/Process Step and Source Information sections of FGDC metadata.</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guidelines link.</attrdefs>
+				<smcaptur>false</smcaptur>
+			</attr>
+			<attr>
+				<attrlabl>FMSRC</attrlabl>
+				<attrdef>12 character field defined 12 12 C; this FM item names a SOURCE (general or specific) used for the location of a feature; standardized codes for this item can be used for cross reference in the Source Citation Abbreviation element, part of the Data Quality/Source Information section  of FGDC metadata.</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guidelines link.</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">40</attwidth></attr>
+			<attr>
+				<attrlabl>FMSRCDAT</attrlabl>
+				<attrdef>default Arc/Info date field defined 8,10,D; this FM item refers to the DATE OF THE SOURCE attributed in FMSRC; can be used as cross reference to Publication Date, part of the Data Quality/Source Information section of FGDC metadata</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guidelines link.</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth></attr>
+			<attr>
+				<attrlabl>FMSRCORG</attrlabl>
+				<attrdef>12 character field defined 12 12 C; the FM item FMSRCORG refers to the ORIGINATOR OF THE SOURCE used in the location of a feature; codes for this item are standardized acronyms (ME prefix for Maine state agencies, US prefix for USA federal agencies, all lower-case, no hyphens, no punctuation, confirmed), cross references can be made between this  item and the element Originator, part of  the Data Quality/Source Information section of FGDC metadata.</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guideline link</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>FMUPDDAT</attrlabl>
+				<attrdef>default Arc/Info date field defined 8, 10, D; the FM item FMUPDAT refers to the date of update on the location of a feature; can be used as cross reference to Process Date, part of the Data Quality/Process Step sections of  FGDC metadata</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guidelines link.</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>FMUPDORG</attrlabl>
+				<attrdef>12 character field defined 12, 12, C, the FM item FMUPDORG refers to the EDIT ORGANIZATION responsible for the location of a feature; codes for this are standardized acronyms (ME prefix for Maine state agencies, US prefix for USA federal agencies, all lower-case, no hyphens, no punctuation, confirmed), cross references can be made between this item and the element Process Contact, part of the Data Quality/Process Step sections of FGDC metadata.</attrdef>
+				<attrdefs>Maine GIS Technical Group, Feature Metadata subcommittee (More information on FM items, codes, definitions, and the use of feature metadata is available at http://megis.maine.gov/standards/flmeta/fmbrief.htm, Maine GIS Standards &amp; Guidelines link.</attrdefs>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>LAND</attrlabl>
+				<attrdef>identifies whether arc is overlies the mainland or estuarine marine waters</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>y</edomv>
+						<edomvd>arc overlies the mainland</edomvd>
+					</edom>
+					<edom>
+						<edomv>n</edomv>
+						<edomvd>arc overlies estuarine or marine waters</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>type of arc</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>coastline</edomv>
+						<edomvd>arc represents the digitized Mean High Water (MHW) mark of Maine's mainland coast and coastal islands</edomvd>
+						<edomvds>Maine GIS COAST</edomvds>
+					</edom>
+					<edom>
+						<edomv>offshore</edomv>
+						<edomvd>offshore limit line - Originally drafted at 1:250,000 by the Bureau of Land management (BLM) for managing Federal Outer Continental Shelf (OCS) leasing programs, the protraction diagram limit line was later plotted at 1:100,000 scale and provided in digital form to the US Census Bureau for use their TIGER Line Files. While this line is located approximately three nautical miles from the shoreline, it is technically the protraction diagram limit line not the actual three mile limit line and is used for closure purposes only in Maine GIS maps depicting coastal waters of Maine.</edomvd>
+						<edomvds>TIGERS90 and TIGERS00</edomvds>
+					</edom>
+					<edom>
+						<edomv>state</edomv>
+						<edomvd>Maine state boundary</edomvd>
+					</edom>
+					<edom>
+						<edomv>town</edomv>
+						<edomvd>Maine Minor Civil Division or Reservation boundary</edomvd>
+					</edom>
+					<edom>
+						<edomv>county</edomv>
+						<edomvd>Maine county line</edomvd>
+					</edom>
+					<edom>
+						<edomv>other</edomv>
+						<edomvd>features within town boundaries, i.e. Baxter State Park, Maine Land Use Regulation Commission, Reservation, and other boundaries that do not represent 'town', 'county', 'state', 'coastline', 'connector' or 'offshore' features</edomvd>
+					</edom>
+					<edom>
+						<edomv>connector</edomv>
+						<edomvd>arcs that extend from the coastline to the offshore limit line (Where reliable data for the depiction of  town boundaries beyond the coastline were not available, connector lines were added to METWP24 to correct query results for specific applications and for cartographic purposes. They are easily removed from the line feature class by selecting all arcs coded TYPE = connector and from the polygon feature class by selecting only features where LAND = 'y'.)</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth></attr><attr><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrtype/></attr><attr><attwidth/></attr><attr><attrtype/></attr><attr><attwidth/></attr><attr><attrtype/></attr><attr><attwidth/></attr></detailed>
+		<overview>
+			<eaover>POLYGONS in METWP24 are attributed with the items TOWN, COUNTY, GEOCODE, and CNTYCODE as found in  "Standard Geographic Codes for Maine Minor Civil Divisions". Like COAST, METWP24 contains the item CIREG flagging those islands whose ISLANDID is also a Maine Department of Conservation, Bureau of Parks and Lands, Coastal Island Registry (CIREG) number. POLYGONS in the coverage are also attributed with the items LAND, ISLAND, ISLANDID, LURC, BAXTER and TAG. ARCS are coded with the items LAND, TYPE, and with Maine GIS recommended feature metadata (FM) items and codes. Initially FM items were coded from the item SOURCE, which has been dropped, and FM items are now maintained with current information as the data is edited. The FM items provide the most specific and accessible  information about the sources for location line features, polygon boundaries and arcs, in the data.  For more information on Maine GIS Feature Metadata Recommendation and "Standard Geocodes for Maine Minor Civil Divisions" see the Standards &amp; Guildelines link. You may contact the Maine Office of GIS at 207 287-6144 for technical assistance.</eaover>
+			<eadetcit>The ArcInfo coverage, ArcView shapefile, ArcGIS geodatabase formats, commonly used for Maine GIS data, carry default identifiers and attributes that are software generated and/or important for internal recordkeeping. These are listed here to avoid repetition for every layer, and may not be repeated in the attribute descriptions and definitions of each layer. Common software generated identifiers and attributes in Maine GIS data include: &lt;title&gt;#, &lt;title&gt;-ID, &lt;title&gt;_, &lt;title&gt;_ID, FID (feature identifier), Shape (feature geometry), OBJECTID. Other default attributes, that may be present, refer to the topological relationships between features, for example RIGHTPOLY or R_POLY, LEFTPOLY or L_POLY, FROMNODE or F_NODE, TONODE or T_NODE. In addition, most GIS formats will carry fields for PERIMETER, AREA and/or LENGTH according to feature geometry. These fields are typically available by default, with the units based on coordinate system or projection units of GIS data. (Units are meters for Maine GIS data.) Most GIS software packages also provide a means to calculate these values. It is important to test any columns containing PERIMETER, AREA or LENGTH values before using them for analysis purposes. These important values can be carried from format to format and become out-dated. Verify that the values are correct. Also, in your GIS software, please view the properties of data layers for the map units used to calculate these fields, and for the units set for display purposes.</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<smdistnm>Standard</smdistnm>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>State House Station 145</address>
+					<city>Augusta</city>
+					<state>ME</state>
+					<postal>04333-0145</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(207) 624-7700</cntvoice>
+				<cntfax>(207) 287-3842</cntfax>
+				<smcoemhy>false</smcoemhy>
+				<hours>Monday through Friday 0800 - 1700 EST</hours>
+			</cntinfo>
+		</distrib>
+		<distliab>Users must assume responsibility to determine the usability of this data for their purposes. Although these data have been processed successfully on a computer system at the Maine Office of Geographic Information Systems, no warranty expressed or implied is made by MEGIS regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. Neither the Maine Office of Geographic Information Systems, nor any of its contributors, is liable for misuse of the data, for damage, for transmission of viruses, or for computer contamination through the distribution of these data sets.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>ARC Version 9.x</formvern>
+					<formspec>ArcView Shapefile Format</formspec>
+					<asciistr>
+						<casesens>false</casesens>
+					</asciistr>
+					<formcont>MEGIS has made all vector layers, in the Maine GIS Internet Data Catalog, available in ESRI's ArcView shapefile format. A shapefile is a simple non-topological format that stores the geometry and attribute information for a set of geographic features as a set of vector (point, line, polygon) coordinates. Shapefiles draw quickly and directly in ArcView, ArcGIS, ArcExplorer. Shapefiles are a compatible data type for many other types of GIS software. Three files are fundamental to each shapefile: .shp stores the feature geometry (shape and location information); .shx stores the index of the feature geometry; .dbf a dBASE (TM) file stores the attribute information for the features. Other index files may be created to help speed analysis and query: these file formats are .sbn  .sbx  .ain .aix .fbn and .fbx. In addition you may find projection .prj, and metadata .xml, files associated with shapefiles.</formcont>
+					<filedec>Data available from this website is in .zip compressed format. WinZip is a Windows based, PKZip-compatible compression utility. You will need a program like this to extract the data. A link to a trial copy WinZip software is available at http://megis.maine.gov/links/.</filedec>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://megis.maine.gov/catalog/</networkr>
+								<smhyperl>-1</smhyperl>
+							</networka>
+						</computer>
+						<accinstr>These data are available to Internet browsers for download from the Maine GIS Internet Data Catalog. Data available from this website is in .zip compressed format. WinZip is a Windows based, PKZip-compatible compression utility. You will need a program like this to extract the data. A link to a trial copy WinZip software is available at http://megis.maine.gov/links/. If you are not already a GIS user, free software for viewing these files is available from Environmental Systems Research Institute, Inc. (ESRI). See http://megis.maine.gov/links/ for a link to ArcExplorer 9.x .</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Where file size and Internet access permit, data requests can be made available via File Transfer Protocol (FTP).</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>ARC Version 9.x</formvern>
+					<formspec>ArcView Shapefile Format</formspec>
+					<asciistr>
+						<casesens>false</casesens>
+					</asciistr>
+					<formcont>MEGIS has made all layers, in the Internet Data Catalog, available in ESRI's ArcView shapefile format. A shapefile is a simple non-topological format that stores the geometry and attribute information for a set of geographic features as a set of vector (point, line, polygon) coordinates. Shapefiles draw quickly and directly in ArcView, ArcGIS, and ArcExplorer; an existing ARC/INFO coverage can be converted to a shapefile by export; other spatial data formats can be converted to shapefiles. Three files are created for each shapefile: .shp stores the feature geometry (shape and location information); .shx stores the index of the feature geometry; .dbf a dBASE (TM) file stores the attribute information for the features. Other index files may be created to help speed analysis and query: these file formats are .sbn  .sbx  .ain .aix .fbn and .fbx. In addition you may find projection .prj, and metadata .xml, files associated with shapefiles. CAUTION: When you edit an existing theme or shapefile you are creating a new version of a source; give your version a new name or a version identifier to reflect your edits. Be prepared to fully document your sources and to both quantify and qualify the edits you make in order  to facilitate coordination with other data sources. PLEASE NOTE: conversion to shapefile format changes some characters ( # - .) to underscores; item names over 10 characters are truncated. An effort will be made over time to consider these limitations in item names, and to eliminate the use of these characters in Maine GIS data development. It should not be assumed that a conversion from shapefile back to coverage will produce the same data. The results of such a conversion are greatly improved by the use of PRECISION setting DOUBLE, DOUBLE and careful management of tolerances. Shapefiles tolerate overlapping features, coverages maintain these with correct attribution only if a REGIONS subclass is specified and retained.</formcont>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<accinstr>These data are available to Internet browsers for download from the Maine GIS Internet Data Catalog. All data available from this website is in .zip compressed format. WinZip is a Windows based, PKZip-compatible compression utility. You will need a program like this to extract the data. A link to a trial copy WinZip software is available at http://megis.maine.gov/software.asp. If you are not already a GIS user, a link to free software for import and viewing of these files, Import71 and ArcExplorer from Environmental Systems Research Institute, Inc. (ESRI), is available at http://megis.maine.gov/software.asp.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Where file size and Internet access permit, data requests can be made available via File Transfer Protocol (FTP).</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<fees>Data may be downloaded from Maine GIS Internet Data Catalog at no charge.</fees>
+			<turnarnd>Data is available for immediate download from the Maine GIS Internet Data Catalog.</turnarnd>
+			<smdistty>1</smdistty>
+		</stdorder>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<formvern>ARC Version 8.3</formvern>
+					<formspec>ARC/INFO Export Format</formspec>
+					<asciistr>
+						<casesens>false</casesens>
+					</asciistr>
+					<formcont>An Arc/Info export file is an interchange format used to transfer spatial data, INFO data files, and other ESRI ARC/INFO files between various machine types.  Export files have the suffix .e00 and contain, in fixed-length ASCII format, all spatial information available for each feature. The command IMPORT is available in A/I to convert the export file to original format, i.e. coverage, grid, or other spatial data file.  Import will add a spatial data file and a related INFO file to a machine directory. ESRI's ArcView is packaged with an import utility called IMPORT71 for the same export file conversion. The utility is also available through the FREE software link on the Maine GIS Data Catlaog under "CDProducts" at http://megis.maine.gov/catalog/ or from ESRI at http://www.esri.com/. CARE MUST BE TAKEN after import, not to separate the spatial information from its related INFO file. Since export files are in ASCII format make sure any file transfer method like FTP is executed under ASCII mode. Binary transfer will not work correctly.</formcont>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Anyone with an Internet browser can view and download these data from http://megis.maine.gov/catalog/. Please follow instructions on the website for the Internet Data Catalog.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Where file size and Internet access permit, data requests can be made available via File Transfer Protocol (FTP) from the ftp address ftp://ftp.state.me.us/.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+					<formvern>ARC Version 8.3</formvern>
+					<formspec>ArcView Shapefile Format</formspec>
+					<asciistr>
+						<casesens>false</casesens>
+					</asciistr>
+					<formcont>MEGIS will soon make all data in the internet Data Catalog available in ESRI's ArcView shapefile format. This additional format will first be available for E911 data under the TOWNS tab.  A shapefile is a simple non-topological format that stores the geometry and attribute information for a set of geographic features as a set of vector (point, line, polygon) coordinates. Shapefiles draw quickly and directly in ArcView; you can create your own data using the shapefile format; an existing ARC/INFO coverage can be converted to a shapefile; other spatial data formats can be converted to shapefiles. Three files are created for each shapefile: .shp stores the feature geometry (shape and location information); .shx stores the index of the feature geometry; .dbf a dBASE (TM) file stores the attribute information for the features. Other index files may be created to help speed analysis and query: these file formats are .sbn  .sbx  .ain .aix .fbn and .fbx. In addition you may find projection .prj, and metadata .xml, files associated with shapefiles. CAUTION: When you edit an existing theme or shapefile you are creating a new dataset or at least a new version of a dataset; give the dataset a new name or a version identifier to reflect your edits. Be prepared to fully document your sources and to both quantify and qualify the edits you make in order  to facilitate coordination with other data sources. PLEASE NOTE: conversion to shapefile format changes some characters ( # - .) to underscores; item names over 10 characters are truncated. An effort will be made over time to consider these limitations in item names, and to eliminate the use of these characters in Maine GIS data development. It should not be assumed that a conversion from shapefile back to coverage would produce the same data file as found in the original coverage format. The results of such a conversion are greatly improved by the use of PRECISION setting DOUBLE, DOUBLE and careful management of tolerances.</formcont>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Anyone with an internet browser can view and download these data from the http address http://megis.maine.gov/catalog/. Please follow instructions on the website for the internet Data Catalog.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+				<digtopt>
+					<onlinopt>
+						<accinstr>Where file size and internet access permit, data requests can be filled via File Transfer Protocol (FTP) from the ftp address ftp://ftp.state.me.us/.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<fees>Data may be downloaded from Maine GIS Data Catalog at no charge.</fees>
+			<turnarnd>Data is available for immediate download from the Maine GIS Data Catalog.</turnarnd>
+			<smdistty>1</smdistty>
+		</stdorder>
+		<stdorder>
+			<nondig>map</nondig>
+			<fees>MEGIS does some custom mapping, with available Maine GIS data, as time allows. If you have a custom mapping question please call the technical support line at (207) 287-6144 and ask about an estimate for your mapping needs.</fees>
+			<turnarnd>15 working days</turnarnd>
+			<smdistty>2</smdistty>
+			<digform><digtinfo><transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo></digform></stdorder>
+		<custom>MEGIS provides technical support for Maine GIS data, estimates on custom mapping, and consultation on data and application development, as time permits. Please call (207) 624-7700 with questions about Maine GIS data, or to inquire about assistance with your GIS environment.</custom>
+		<availabl>
+			<timeinfo>
+				<rngdates>
+					<begdate>19970101</begdate>
+					<begtime>Unknown</begtime>
+					<enddate>Present</enddate>
+					<endtime>Unknown</endtime>
+				</rngdates>
+			</timeinfo>
+		</availabl>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<distinfo>
+		<smdistnm>Standard OGC WMS 1.1.1</smdistnm>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>State House Station 145</address>
+					<city>Augusta</city>
+					<state>ME</state>
+					<postal>04333-0145</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(207) 624-7700</cntvoice>
+				<cntfax>(207) 287-3842</cntfax>
+				<smcoemhy>false</smcoemhy>
+				<hours>Monday through Friday 0800 - 1700 EST</hours>
+			</cntinfo>
+		</distrib>
+		<distliab>Users must assume responsibility to determine the usability of this data for their purposes.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>WMS</formname>
+					<formvern>1.1</formvern>
+					<formspec>OpenGIS (OGC) Web Map Service (WMS )</formspec>
+					<asciistr>
+						<casesens>false</casesens>
+					</asciistr>
+					<formcont>MEGIS has created a web based application for Maine GIS data that adheres to the OpenGIS Consortium (OGC) Web Mapping Specification (WMS 1.1.1) which allows map servers to create and send standard map images over the Web.</formcont>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://megisims.state.me.us/wmsconnector/com.esri.wms.Esrimap/WMSFramework?SERVICE=WMS&amp;VERSION=1.1.1&amp;REQUEST=GetMap&amp;LAYERS=METWP24L&amp;SRS=EPSG:4326&amp;BBOX=-71.31,42.85,-66.74,47.67&amp;WIDTH=400&amp;HEIGHT=300&amp;FORMAT=image/png&amp;STYLES=</networkr>
+								<smhyperl>-1</smhyperl>
+								<networkr>http://megisims.state.me.us/wmsconnector/com.esri.wms.Esrimap/WMSFramework?SERVICE=WMS&amp;VERSION=1.1.1&amp;REQUEST=GetMap&amp;LAYERS=METWP24P&amp;SRS=EPSG:4326&amp;BBOX=-71.31,42.85,-66.74,47.67&amp;WIDTH=400&amp;HEIGHT=300&amp;FORMAT=image/png&amp;STYLES=</networkr>
+								<smhyperl>-1</smhyperl>
+								<networkr>http://megisims.state.me.us/wmsconnector/com.esri.wms.Esrimap/WMSFramework?request=getcapabilities&amp;service=WMS&amp;version=1.1.1</networkr>
+								<smhyperl>-1</smhyperl>
+								<networkr>http://megisims.state.me.us/wmsconnector/com.esri.wsit.WMSServlet/WMSFramework?</networkr>
+								<smhyperl>0</smhyperl>
+							</networka>
+						</computer>
+						<accinstr>This metadata document contains embedded URLs that can be used to make OGC WMS 1.1.1 compliant map requests of the framework layers in the Maine GeoLibrary.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Currently OGC WMS 1.1.1 access is available for CONTOURS, DOQQ, E911RDS, HYD24L, HYD24P, INDEX_HF, MECNSLND, MEDOQINDEX, MEDOTPUB, MERAIL24, METWP24L, METWP24P, ORTHO_HF, ORTHO_FF, ORTHO_1F, ORTHO_2F, INDEX_FF, INDEX_1F, INDEX_2F, OTRANS. These images are available to the Web and client software for overlay and display of multiple maps using first of the URLS listed above. Access the OGC: WMS Framework "WMT_MS Get Capabilities" in XML using Internet browser or other XML friendly viewer.</ordering>
+			<smdistty>1</smdistty>
+		</stdorder>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>WMS</formname>
+					<formvern>1.1</formvern>
+					<formspec>OpenGIS (OGC) Web Map Service (WMS )</formspec>
+					<asciistr>
+						<casesens>false</casesens>
+					</asciistr>
+					<formcont>MEGIS has created a web based application for Maine GIS data that adheres to the OpenGIS Consortium (OGC) Web Mapping Specification (WMS 1.1.1) which allows map servers to create and send standard map images over the Web.</formcont>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<accinstr>This metadata document contains embedded URLs that can be used to make OGC WMS 1.1.1 compliant map requests of the framework layers in the Maine GeoLibrary.</accinstr>
+					</onlinopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Currently OGC WMS 1.1.1 access is available for CONTOURS, DOQQ, E911RDS, HYD24L, HYD24P, INDEX_HF, MECNSLND, MEDOQINDEX, MEDOTPUB, MERAIL24, METWP24L, METWP24P, ORTHO_HF, ORTHO_FF, ORTHO_1F, ORTHO_2F, INDEX_FF, INDEX_1F, INDEX_2F, OTRANS. These images are available to the Web and client software for overlay and display of multiple maps using first of the URLS listed above. Access the OGC:WMS Framework "WMT_MS Get Capabilities" in XML using Internet browser or other XML friendly viewer.</ordering>
+			<smdistty>1</smdistty>
+		</stdorder>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd>20000701</metd>
+		<metrd>20070701</metrd>
+		<metfrd></metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>(MEGIS) Maine Office of Geographic Information Systems</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper></cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>State House Station 145</address>
+					<city>Augusta</city>
+					<state>ME</state>
+					<postal>04333-0145</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(207) 624-7700</cntvoice>
+				<cntfax>(207) 287-3842</cntfax>
+				<smcoemhy>false</smcoemhy>
+				<hours>Monday through Friday 0800 - 1700 EST</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metac>none</metac>
+		<metuc>Please confirm that you are using the correct copy of both data and metadata from the Maine GIS Data Catalog. The Maine Office of Geographic Information Systems (MEGIS) provides notice of updates and corrections directly to the Maine GIS Technical Group and Maine GIS Users through the MEGISTECH and MEGISUSER list servers. To subscribe please contact MeGIS through the Maine Office of Information Technology (OIT) Customer Support Center (CSC) at (207) 624-7700. To request correction in, or updates to Maine GIS data, please use the contact information contained in the metadata. Updates, corrections, and feedback incorporated in the Maine GIS database are made in accordance with "Data Standards for Maine Geographic Information Systems", 2002, and coordinated by MEGIS in consultation with the Maine GIS Executive Council.</metuc>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc></metainfo>
+	<Esri><CreaDate>20160912</CreaDate><CreaTime>13422900</CreaTime><SyncOnce>FALSE</SyncOnce><Sync>FALSE</Sync><ModDate>20160912</ModDate><ModTime>13153300</ModTime><SyncDate>20160912</SyncDate><SyncTime>13153300</SyncTime><DataProperties><lineage><Process Name="FeatureClassToFeatureClass_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20070712" Time="134813">FeatureClassToFeatureClass "Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P" C:\datacatalog\web\metwp24 metwp24p.shp # "TOWN TOWN true true false 40 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,TOWN,-1,-1;COUNTY COUNTY true true false 15 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,COUNTY,-1,-1;GEOCODE GEOCODE true true false 5 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,GEOCODE,-1,-1;GEOCODENUM GEOCODENUM true true false 4 Long 0 5 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,GEOCODENUM,-1,-1;CNTYCODE CNTYCODE true true false 2 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,CNTYCODE,-1,-1;LAND LAND true true false 1 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,LAND,-1,-1;TAG TAG true true false 1 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,TAG,-1,-1;ISLAND ISLAND true true false 1 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,ISLAND,-1,-1;CIREG CIREG true true false 12 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,CIREG,-1,-1;LURC LURC true true false 1 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,LURC,-1,-1;BAXTER BAXTER true true false 1 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,BAXTER,-1,-1;RTAC RTAC true true false 4 Long 0 10 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,RTAC,-1,-1;DIVISION DIVISION true true false 4 Long 0 10 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,DIVISION,-1,-1;DISTRICT DISTRICT true true false 4 Long 0 10 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,DISTRICT,-1,-1;DIVTAG DIVTAG true true false 1 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,DIVTAG,-1,-1;ISLANDID ISLANDID true true false 16 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,ISLANDID,-1,-1;TYPE TYPE true true false 12 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,TYPE,-1,-1;DOT_REGNUM DOT_REGNUM true true false 2 Short 0 1 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,DOT_REGNUM,-1,-1;DOT_REGION DOT_REGION true true false 10 Text 0 0 ,First,#,Database Connections\megis.sde\MEGIS.Boundaries\MEGIS.Metwp24P,DOT_REGION,-1,-1" # C:\datacatalog\web\metwp24\metwp24p.shp</Process></lineage><itemProps><itemName Sync="TRUE">DHHS_PT</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize><itemLocation><linkage Sync="TRUE">file://\\DC2HCX1\C$\Users\Bampton\Desktop\Maine_Public_Health\DHHS_PT</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits><projcsn Sync="TRUE">NAD_1983_UTM_Zone_19N</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.3'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_19N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-69.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26919]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26919&lt;/WKID&gt;&lt;LatestWKID&gt;26919&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef><copyHistory><copy source="C:\Users\Bampton\Desktop\DHHS_PT" dest="\\DC2HCX1\C$\Users\Bampton\Desktop\Maine_Public_Health\DHHS_PT" date="20160912" time="13422900"></copy></copyHistory></DataProperties><ArcGISFormat>1.0</ArcGISFormat></Esri><mdDateSt Sync="TRUE">20160912</mdDateSt><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</envirDesc><dataLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">DHHS_PT</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType></dataIdInfo><mdLang><languageCode Sync="TRUE" value="eng"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="006"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\130.111.123.225\Common\USMProjects\Digital_Atlas\Digital_Atlas_v3\data\shapefiles\metwp24p</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.000</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE" code="26919">NAD_1983_UTM_Zone_19N</identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">8.6.2</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="DHHS_PT"><geoObjTyp><GeoObjTypCd value="004" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo></metadata>

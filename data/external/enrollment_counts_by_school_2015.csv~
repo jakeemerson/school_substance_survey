@@ -1,0 +1,600 @@
+Public Flag|Attending SAU_ID|SAU|SAU Type|School ID|School|4YO|EK|K|G1|G2|G3|G4|G5|G6|G7|G8|G9|G10|G11|G12|Student Count|Responded (Y/N)
+Y|1000|Acton|Municipality|1129|Acton Elementary School|25|1|14|21|15|36|17|16|22|26|17|0|0|0|0|210|N
+Y|1284|Airline CSD|AOS Member Entity|1835|Airline Community School|5|0|3|3|3|6|2|9|2|1|7|0|0|0|0|41|N
+Y|1001|Alexander|AOS Member Entity|1130|Alexander Elementary|3|0|2|5|7|3|2|3|5|3|5|0|0|0|0|38|N
+Y|3238|Andover|Municipality|1643|Andover Elementary School|0|0|4|9|2|5|4|6|0|0|0|0|0|0|0|30|N
+Y|1004|Appleton|Union|1132|Appleton Village School|0|0|14|13|20|12|14|17|9|17|17|0|0|0|0|133|N
+Y|1296|Arthur R. Gould Sch--LCYDC|State Operated|1854|Arthur R. Gould Sch--LCYDC|0|0|0|0|0|0|0|0|0|0|0|0|9|7|22|38|N
+Y|3231|Athens|Municipality|1737|Athens Community School|5|3|8|13|9|8|12|11|8|9|15|0|0|0|0|101|Y
+Y|1007|Auburn|Municipality|1144|Auburn Middle School|0|0|0|0|0|0|0|0|0|285|267|0|0|0|0|552|N
+Y|1007|Auburn|Municipality|1134|East Auburn Community School|16|0|23|25|29|22|25|17|19|0|0|0|0|0|0|176|N
+Y|1007|Auburn|Municipality|1142|Edward Little High School|0|0|0|0|0|0|0|0|0|0|0|259|232|270|246|1007|N
+Y|1007|Auburn|Municipality|1135|Fairview School|56|5|70|83|70|72|62|83|69|0|0|0|0|0|0|570|N
+Y|1007|Auburn|Municipality|1908|Park Avenue Elementary School|30|1|55|57|44|53|53|45|55|0|0|0|0|0|0|393|N
+Y|1007|Auburn|Municipality|1143|Sherwood Heights Elementary Sch|37|1|50|49|43|55|59|49|45|0|0|0|0|0|0|388|N
+Y|1007|Auburn|Municipality|1140|Walton School|25|0|37|27|34|30|32|28|43|0|0|0|0|0|0|256|N
+Y|1007|Auburn|Municipality|1138|Washburn School|17|0|36|33|31|34|34|33|30|0|0|0|0|0|0|248|Y
+Y|1008|Augusta|Municipality|2602|Cony|0|0|0|0|0|0|0|0|0|161|146|178|181|157|175|998|Y
+Y|1008|Augusta|Municipality|1151|Farrington School|0|0|52|60|52|62|47|49|48|0|0|0|0|0|0|370|N
+Y|1008|Augusta|Municipality|1148|Lillian Parks Hussey School|0|0|39|40|43|35|42|41|41|0|0|0|0|0|0|281|Y
+Y|1008|Augusta|Municipality|1152|Lincoln School|0|0|44|40|40|46|40|38|44|0|0|0|0|0|0|292|Y
+Y|1008|Augusta|Municipality|1150|Sylvio J Gilbert School|97|0|42|34|33|41|32|24|42|0|0|0|0|0|0|345|N
+Y|1009|Baileyville|AOS Member Entity|1155|Woodland Elementary School|16|0|15|16|14|25|20|17|15|0|0|0|0|0|0|138|N
+Y|1009|Baileyville|AOS Member Entity|1154|Woodland Jr-Sr High School|0|0|0|0|0|0|0|0|0|22|22|33|26|32|32|167|N
+Y|1011|Bangor|Municipality|1158|Abraham Lincoln School|27|1|54|51|39|48|0|0|0|0|0|0|0|0|0|220|N
+Y|1011|Bangor|Municipality|1165|Bangor High School|0|0|0|0|0|0|0|0|0|0|0|310|285|293|277|1165|Y
+Y|1011|Bangor|Municipality|1161|Downeast School|40|0|74|74|91|73|0|0|0|0|0|0|0|0|0|352|N
+Y|1011|Bangor|Municipality|1156|Fairmount School|0|0|0|0|0|0|133|160|0|0|0|0|0|0|0|293|N
+Y|1011|Bangor|Municipality|1162|Fourteenth Street School|19|0|28|23|35|32|0|0|0|0|0|0|0|0|0|137|N
+Y|1011|Bangor|Municipality|1157|Fruit Street School|37|2|74|75|81|80|0|0|0|0|0|0|0|0|0|349|N
+Y|1011|Bangor|Municipality|1163|James F. Doughty School|0|0|0|0|0|0|0|0|131|112|134|0|0|0|0|377|Y
+Y|1011|Bangor|Municipality|1159|Mary Snow School|0|0|0|0|0|0|146|131|0|0|0|0|0|0|0|277|N
+Y|1011|Bangor|Municipality|1160|Vine Street School|20|0|56|32|47|44|0|0|0|0|0|0|0|0|0|199|N
+Y|1011|Bangor|Municipality|1164|William S. Cohen School|0|0|0|0|0|0|0|0|146|124|159|0|0|0|0|429|Y
+Y|1274|Bangor-Region 4|Applied Technology Regions|1824|United Technologies Ctr-Region 4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|N
+Y|1012|Bar Harbor|AOS Member Entity|1166|Conners-Emerson School|0|0|38|36|31|39|38|44|46|50|44|0|0|0|0|366|N
+Y|3232|Baxter Academy for Technology and Science|Charter School|2665|Baxter Academy for Tech & Sciences|0|0|0|0|0|0|0|0|0|0|0|100|81|85|50|316|Y
+Y|1014|Beals|Union|1173|Beals Elementary School|6|1|4|5|5|7|8|6|6|2|9|0|0|0|0|59|N
+Y|1016|Biddeford|Municipality|1174|Biddeford High School|0|0|0|0|0|0|0|0|0|0|0|167|206|202|202|777|Y
+Y|1016|Biddeford|Municipality|1910|Biddeford Intermediate School|0|0|0|0|0|0|173|183|0|0|0|0|0|0|0|356|N
+Y|1016|Biddeford|Municipality|1176|Biddeford Middle School|0|0|0|0|0|0|0|0|202|163|202|0|0|0|0|567|Y
+Y|1016|Biddeford|Municipality|1177|Biddeford Primary School|0|0|0|164|193|168|0|0|0|0|0|0|0|0|0|525|N
+Y|1016|Biddeford|Municipality|1175|John F Kennedy Memorial School|0|0|205|0|0|0|0|0|0|0|0|0|0|0|0|205|N
+N|3154|Blue Hill Harbor School|Private - 60% Publicly Funded|1952|Blue Hill Harbor School|0|0|0|0|0|0|0|0|0|0|0|5|3|6|7|21|N
+Y|1017|Blue Hill|Union|1179|Blue Hill Consolidated School|18|0|24|25|25|22|28|25|27|34|34|0|0|0|0|262|Y
+Y|1281|Boothbay-Boothbay Hbr CSD|AOS Member Entity|1832|Boothbay Region Elem School|26|0|29|27|32|27|27|36|43|53|37|0|0|0|0|337|Y
+Y|1281|Boothbay-Boothbay Hbr CSD|AOS Member Entity|1831|Boothbay Region High School|0|0|0|0|0|0|0|0|0|0|0|57|69|47|54|227|N
+Y|1021|Brewer|Municipality|2633|Brewer Community School|62|4|107|82|96|104|95|107|102|88|98|0|0|0|0|945|Y
+Y|1021|Brewer|Municipality|1186|Brewer High School|0|0|0|0|0|0|0|0|0|0|0|172|164|170|164|670|Y
+Y|1023|Bristol|AOS Member Entity|1188|Bristol Consolidated School|16|0|14|18|20|14|20|19|19|13|18|0|0|0|0|171|N
+Y|1024|Brooklin|Union|1189|Brooklin School|2|0|6|4|5|2|7|6|3|12|4|0|0|0|0|51|N
+Y|1025|Brooksville|Union|1190|Brooksville Elementary School|4|0|4|6|7|12|2|8|5|5|5|0|0|0|0|58|N
+Y|1026|Brunswick|Municipality|1196|Brunswick High School|0|0|0|0|0|0|0|0|0|0|0|195|184|183|194|756|Y
+Y|1026|Brunswick|Municipality|1195|Brunswick Jr High School|0|0|0|0|0|0|0|0|184|152|165|0|0|0|0|501|Y
+Y|1026|Brunswick|Municipality|1191|Coffin School|0|0|163|180|0|0|0|0|0|0|0|0|0|0|0|343|N
+Y|1026|Brunswick|Municipality|2631|Harriet Beecher Stowe Elementary|0|0|0|0|176|190|186|184|0|0|0|0|0|0|0|736|N
+Y|1028|Calais|AOS Member Entity|1201|Calais Elementary School|24|0|35|29|34|27|41|32|39|0|0|0|0|0|0|261|N
+Y|1028|Calais|AOS Member Entity|1203|Calais Middle/High School|0|0|0|0|0|0|0|0|0|40|35|48|56|50|53|282|N
+Y|1029|Cape Elizabeth|Municipality|1207|Cape Elizabeth High School|0|0|0|0|0|0|0|0|0|0|0|149|111|129|152|541|N
+Y|1029|Cape Elizabeth|Municipality|1206|Cape Elizabeth Middle School|0|0|0|0|0|0|0|117|141|132|128|0|0|0|0|518|N
+Y|1029|Cape Elizabeth|Municipality|1205|Pond Cove Elementary|0|0|96|106|114|115|142|0|0|0|0|0|0|0|0|573|N
+Y|1032|Castine|Union|1214|Adams School|5|0|8|3|3|6|8|4|9|6|3|0|0|0|0|55|N
+Y|1033|Caswell|Municipality|1215|Dawn F Barnes Elementary Sch|7|0|4|0|6|4|5|0|4|1|3|0|0|0|0|34|N
+Y|1035|Charlotte|AOS Member Entity|1216|Charlotte Elementary School|1|1|4|3|1|4|6|4|7|7|5|0|0|0|0|43|N
+Y|3149|Chebeague Island|Municipality|1686|Chebeague Island School|0|0|3|3|4|6|4|5|0|0|0|0|0|0|0|25|N
+Y|3230|Cherryfield|Municipality|1616|Cherryfield Elementary|7|1|12|17|14|12|15|17|13|9|15|0|0|0|0|132|Y
+Y|3210|Cornville Regional Charter School|Charter School|2645|Cornville Regional Charter School|0|0|14|13|13|19|17|12|16|15|2|0|0|0|0|121|N
+Y|1040|Cranberry Isles|AOS Member Entity|1221|Ashley Bryan School|0|0|1|1|2|1|3|2|3|4|0|0|0|0|0|17|N
+Y|3136|Cutler|AOS Member Entity|1809|Bay Ridge Elementary|0|0|9|9|6|12|4|11|4|9|8|0|0|0|0|72|N
+Y|1044|Dayton|Union|1222|Dayton Consolidated School|0|0|18|29|19|22|29|21|0|0|0|0|0|0|0|138|N
+Y|1046|Dedham|AOS Member Entity|1223|Dedham School|11|0|14|18|23|18|21|21|21|20|10|0|0|0|0|177|N
+Y|1289|Deer Isle-Stonington CSD|Community School District|1843|Deer Isle-Stonington Elementary Sch|0|0|26|21|24|26|23|19|23|26|21|0|0|0|0|209|N
+Y|1289|Deer Isle-Stonington CSD|Community School District|1842|Deer Isle-Stonington High Sch|0|0|0|0|0|0|0|0|0|0|0|18|40|25|38|121|Y
+Y|3129|East Machias|AOS Member Entity|1811|Elm Street School-East Machias|21|0|22|10|21|17|21|24|22|20|21|0|0|0|0|199|N
+Y|1052|East Millinocket|AOS Member Entity|1226|Opal Myrick Elementary School|26|0|27|18|25|31|23|0|0|0|0|0|0|0|0|150|Y
+Y|1052|East Millinocket|AOS Member Entity|1227|Schenck High School|0|0|0|0|0|0|0|0|0|0|0|25|37|34|28|124|Y
+Y|1288|East Range CSD|AOS Member Entity|1840|East Range II CSD School|0|0|1|2|5|4|9|3|4|8|5|0|0|0|0|41|N
+Y|1053|Easton|Municipality|1229|Easton Elementary School|9|2|15|17|12|12|12|15|11|0|0|0|0|0|0|105|N
+Y|1053|Easton|Municipality|1228|Easton Junior-Senior High Sch|0|0|0|0|0|0|0|0|0|13|13|16|23|14|10|89|Y
+Y|1054|Eastport|AOS Member Entity|1230|Eastport Elementary School|9|1|8|12|7|8|10|9|4|8|8|0|0|0|0|84|Y
+Y|1054|Eastport|AOS Member Entity|1231|Shead High School|0|0|0|0|0|0|0|0|0|0|0|23|25|27|32|107|Y
+Y|1055|Edgecomb|AOS Member Entity|1232|Edgecomb Eddy School|0|0|11|1|9|17|9|20|14|0|0|0|0|0|0|81|Y
+Y|1269|Education in Unorganized Terr|Unorganized Territory|1814|Connor Consolidated School|4|0|3|2|1|3|8|4|7|0|0|0|0|0|0|32|N
+Y|1269|Education in Unorganized Terr|Unorganized Territory|1815|Edmunds Consolidated School|3|0|3|6|5|6|5|6|7|8|5|0|0|0|0|54|N
+Y|1269|Education in Unorganized Terr|Unorganized Territory|1816|Kingman Elementary School|0|0|4|4|2|0|0|2|0|0|0|0|0|0|0|12|N
+Y|1056|Ellsworth|Municipality|2601|Ellsworth Elementary-Middle School|12|0|96|99|84|88|94|102|83|73|85|0|0|0|0|816|Y
+Y|1056|Ellsworth|Municipality|1236|Ellsworth High School|0|0|0|0|0|0|0|0|0|0|0|116|115|108|124|463|Y
+N|1332|Erskine Academy|Private - 60% Publicly Funded|1033|Erskine Academy|0|0|0|0|0|0|0|0|0|0|0|151|157|123|143|574|Y
+Y|3229|Eustis|Municipality|1731|Stratton Elementary School|5|0|8|9|8|8|4|11|11|7|8|0|0|0|0|79|N
+Y|1057|Falmouth|Municipality|2634|Falmouth Elementary School|0|0|119|150|161|173|163|163|0|0|0|0|0|0|0|929|N
+Y|1057|Falmouth|Municipality|1240|Falmouth High School|0|0|0|0|0|0|0|0|0|0|0|176|175|168|176|695|Y
+Y|1057|Falmouth|Municipality|1241|Falmouth Middle School|0|0|0|0|0|0|0|0|158|171|178|0|0|0|0|507|N
+Y|1058|Fayette|AOS Member Entity|1242|Fayette Central School|10|3|14|12|13|5|10|11|0|0|0|0|0|0|0|78|N
+Y|3233|Fiddlehead School of Arts and Sciences|Charter School|2666|Fiddlehead School of Arts & Science|16|2|17|17|17|17|15|0|0|0|0|0|0|0|0|101|N
+Y|1294|Five Town CSD|Community School District|1852|Camden Hills Regional H S|0|0|0|0|0|0|0|0|0|0|0|193|165|156|164|678|N
+N|1335|Foxcroft Academy|Private - 60% Publicly Funded|1036|Foxcroft Academy|0|0|0|0|0|0|0|0|0|0|0|94|71|101|80|346|N
+Y|1094|Frenchboro|AOS Member Entity|1296|Frenchboro Elementary School|0|0|1|1|0|1|0|0|0|0|0|0|0|0|0|3|N
+N|1348|Fryeburg Academy|Private - 60% Publicly Funded|1049|Fryeburg Academy|0|0|0|0|0|0|0|0|0|0|0|90|94|105|102|391|N
+N|1320|George Stevens Academy|Private - 60% Publicly Funded|1021|George Stevens Academy|0|0|0|0|0|0|0|0|0|0|0|59|68|75|68|270|N
+Y|1061|Georgetown|AOS Member Entity|1247|Georgetown Central School|6|0|12|10|10|12|16|9|8|0|0|0|0|0|0|83|N
+Y|1063|Glenburn|Municipality|1248|Glenburn Elementary School|16|0|37|50|46|43|54|49|41|52|61|0|0|0|0|449|Y
+Y|1065|Gorham|Municipality|1253|Gorham High School|0|0|0|0|0|0|0|0|0|0|0|203|213|222|201|839|N
+Y|1065|Gorham|Municipality|1858|Gorham Middle School|0|0|0|0|0|0|0|0|246|228|220|0|0|0|0|694|Y
+Y|1065|Gorham|Municipality|2632|Great Falls Elementary School|0|0|74|72|84|72|85|86|0|0|0|0|0|0|0|473|N
+Y|1065|Gorham|Municipality|1254|Narragansett Elementary School|0|0|37|20|32|39|40|33|0|0|0|0|0|0|0|201|N
+Y|1065|Gorham|Municipality|1251|Village Elementary School-Gorham|0|0|65|79|71|64|86|84|0|0|0|0|0|0|0|449|N
+Y|1290|Great Salt Bay CSD|AOS Member Entity|1845|Great Salt Bay Community School|0|0|42|47|46|49|55|49|49|43|52|0|0|0|0|432|Y
+Y|1069|Greenbush|Municipality|1257|Helen S Dunn Elementary School|12|0|10|16|23|14|17|9|16|17|12|0|0|0|0|146|Y
+Y|1070|Greenville|Union|2646|Greenville Consolidated School|0|0|16|9|7|18|16|15|14|13|26|23|25|16|13|211|Y
+Y|1071|Hancock|Municipality|1260|Hancock Grammar School|0|0|20|22|33|21|25|24|20|18|20|0|0|0|0|203|Y
+Y|1073|Harmony|AOS Member Entity|1261|Harmony Elementary|0|0|1|11|5|10|7|9|8|6|17|0|0|0|0|74|N
+Y|3234|Harpswell Coastal Academy|Charter School|2667|Harpswell Coastal Academy|0|0|0|0|0|0|0|0|40|35|34|14|24|29|0|176|N
+Y|1074|Hermon|Municipality|1262|Hermon Elementary School|38|0|80|82|67|79|82|0|0|0|0|0|0|0|0|428|N
+Y|1074|Hermon|Municipality|1264|Hermon High School|0|0|0|0|0|0|0|0|0|0|0|128|134|117|129|508|Y
+Y|1074|Hermon|Municipality|1263|Hermon Middle School|0|0|0|0|0|0|0|72|75|62|64|0|0|0|0|273|N
+Y|1077|Hope|Union|1265|Hope Elementary School|0|0|15|20|18|18|20|14|19|23|20|0|0|0|0|167|Y
+Y|1270|Indian Island|Maine Indian Education|1820|Indian Island School|3|0|11|16|12|12|12|14|9|11|18|0|0|0|0|118|Y
+Y|1271|Indian Township|Maine Indian Education|1821|Indian Township School|8|0|13|18|14|16|21|19|6|13|11|0|0|0|0|139|N
+Y|1078|Isle Au Haut|Municipality|1266|Isle au Haut Rural School|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|2|N
+Y|1079|Islesboro|Municipality|1267|Islesboro Central School|0|0|10|2|7|6|6|4|10|9|10|7|6|8|9|94|Y
+Y|1081|Jefferson|AOS Member Entity|1271|Jefferson Village School|0|0|14|21|20|24|21|15|25|18|20|0|0|0|0|178|N
+N|1307|John Bapst Memorial High School|Private - 60% Publicly Funded|1008|John Bapst Memorial High School|0|0|0|0|0|0|0|0|0|0|0|91|100|99|85|375|N
+Y|1082|Jonesboro|AOS Member Entity|1272|Jonesboro Elementary School|8|0|3|4|5|8|3|8|5|3|8|0|0|0|0|55|N
+Y|1083|Jonesport|Union|1273|Jonesport Elementary School|5|0|13|10|20|12|10|16|11|18|17|0|0|0|0|132|N
+Y|1085|Kittery|Municipality|1274|Horace Mitchell Primary School|0|0|90|96|90|101|0|0|0|0|0|0|0|0|0|377|N
+Y|1085|Kittery|Municipality|1277|Robert W Traip Academy|0|0|0|0|0|0|0|0|0|0|0|62|72|61|73|268|Y
+Y|1085|Kittery|Municipality|1275|Shapleigh School|0|0|0|0|0|0|91|88|74|85|78|0|0|0|0|416|Y
+Y|1087|Lamoine|Union|1278|Lamoine Consolidated School|0|0|17|13|10|12|10|17|12|13|11|0|0|0|0|115|Y
+N|1356|Lee Academy|Private - 60% Publicly Funded|1057|Lee Academy|0|0|0|0|0|0|0|0|0|0|0|34|34|32|31|131|Y
+Y|1088|Lewiston|Municipality|1279|Farwell Elementary School|0|0|58|59|57|50|51|49|43|0|0|0|0|0|0|367|N
+Y|1088|Lewiston|Municipality|1286|Governor James B Longley Elem Sch|63|0|49|64|48|48|49|52|36|0|0|0|0|0|0|409|N
+Y|1088|Lewiston|Municipality|1283|Lewiston High School|0|0|0|0|0|0|0|0|0|0|0|371|352|394|359|1476|Y
+Y|1088|Lewiston|Municipality|1285|Lewiston Middle School|0|0|0|0|0|0|0|0|0|367|351|0|0|0|0|718|N
+Y|1088|Lewiston|Municipality|1280|Martel School|0|0|38|46|51|51|46|48|60|0|0|0|0|0|0|340|N
+Y|1088|Lewiston|Municipality|1282|Montello School|72|3|118|111|102|95|103|87|84|0|0|0|0|0|0|775|N
+Y|1088|Lewiston|Municipality|1960|Raymond A. Geiger Elementary School|62|2|101|86|85|105|91|91|101|0|0|0|0|0|0|724|N
+Y|1088|Lewiston|Municipality|1284|Thomas J McMahon Elementary Sch|61|3|82|103|88|85|92|85|65|0|0|0|0|0|0|664|N
+N|1364|Lincoln Academy|Private - 60% Publicly Funded|1066|Lincoln Academy|0|0|0|0|0|0|0|0|0|0|0|130|130|110|131|501|Y
+Y|1091|Lincolnville|Union|1289|Lincolnville Central School|0|0|57|7|7|22|22|21|20|21|20|0|0|0|0|197|Y
+Y|1092|Lisbon|Municipality|1872|Lisbon Community School|56|0|113|104|95|101|93|107|0|0|0|0|0|0|0|669|N
+Y|1092|Lisbon|Municipality|1293|Lisbon High School|0|0|0|0|0|0|0|0|0|0|0|86|87|95|68|336|N
+Y|1092|Lisbon|Municipality|1292|Philip W Sugg Middle School|0|0|0|0|0|0|0|0|83|90|87|0|0|0|0|260|N
+Y|1135|Long Island|Municipality|1362|Long Island Elementary School|0|0|1|3|4|5|2|4|0|0|0|0|0|0|0|19|N
+Y|1095|Machias|AOS Member Entity|1298|Machias Memorial High School|0|0|0|0|0|0|0|0|0|0|0|31|41|30|16|118|Y
+Y|1095|Machias|AOS Member Entity|1297|Rose M Gaffney School|35|0|39|36|43|33|38|42|35|34|43|0|0|0|0|378|N
+Y|3137|Machiasport|AOS Member Entity|1812|Fort O'Brien School|4|0|4|4|3|5|4|8|7|4|1|0|0|0|0|44|N
+Y|1097|Madawaska|Municipality|1301|Madawaska Elementary School|25|2|22|25|26|36|24|32|27|0|0|0|0|0|0|219|N
+Y|1097|Madawaska|Municipality|1300|Madawaska Middle/High School|0|0|0|0|0|0|0|0|0|31|43|41|39|41|35|230|Y
+Y|3200|Maine Academy of Natural Sciences|Charter School|2638|Maine Academy of Natural Sciences|0|0|0|0|0|0|0|0|0|0|0|35|36|43|12|126|N
+N|1369|Maine Central Institute|Private - 60% Publicly Funded|1072|Maine Central Institute|0|0|0|0|0|0|0|0|0|0|0|96|83|86|71|336|N
+Y|3237|Maine Connections Academy|Charter School|2678|Maine Connections Academy|0|0|0|0|0|0|0|0|0|40|77|104|79|47|43|390|N
+Y|3151|Maine Department of Education|State Operated|1946|MDOE School|0|0|1|2|2|5|6|9|7|8|9|26|23|19|20|137|N
+Y|3243|Maine Virtual Academy|Charter School|2681|Maine Virtual Academy|0|0|0|0|0|0|0|0|0|40|33|53|44|75|36|281|N
+Y|1295|ME Sch of Science & Mathematics|State Operated|1853|ME Sch of Science & Mathematics|0|0|0|0|0|0|0|0|0|0|0|25|38|35|50|148|N
+Y|1105|Medway|AOS Member Entity|1304|Medway Middle School|0|0|0|0|0|0|0|23|25|31|25|0|0|0|0|104|Y
+Y|1106|Milford|Municipality|1305|Dr Lewis S Libby School|23|0|37|29|29|31|30|38|25|31|31|0|0|0|0|304|Y
+Y|1107|Millinocket|Municipality|1306|Granite Street School|31|2|31|27|31|38|42|35|0|0|0|0|0|0|0|237|N
+Y|1107|Millinocket|Municipality|1308|Stearns Jr-Sr High School|0|0|0|0|0|0|0|0|32|44|33|42|45|37|32|265|N
+Y|1109|Monhegan Plt School Dept|Municipality|1310|Monhegan Island School|1|0|1|1|0|1|2|0|0|1|0|0|0|0|0|7|N
+Y|1292|Moosabec CSD|Community School District|1847|Jonesport-Beals High School|0|0|0|0|0|0|0|0|0|0|0|16|22|19|15|72|N
+Y|1112|Mount Desert|AOS Member Entity|1314|Mt Desert Elementary School|0|0|20|16|20|20|23|20|22|24|29|0|0|0|0|194|N
+Y|1221|MSAD 27|AOS Member Entity|1573|Eagle Lake Elementary School|4|0|8|11|3|5|6|5|0|0|0|0|0|0|0|42|N
+Y|1221|MSAD 27|AOS Member Entity|1575|Fort Kent Community High School|0|0|0|0|0|0|0|0|0|0|0|63|64|82|71|280|Y
+Y|1221|MSAD 27|AOS Member Entity|1574|Fort Kent Elementary School|34|0|33|41|62|51|54|52|71|0|0|0|0|0|0|398|Y
+Y|1221|MSAD 27|AOS Member Entity|2647|Valley Rivers Middle School|0|0|0|0|0|0|0|0|0|65|65|0|0|0|0|130|Y
+Y|1221|MSAD 27|AOS Member Entity|1577|Wallagrass Elementary School|13|0|7|5|7|5|7|5|0|0|0|0|0|0|0|49|Y
+Y|1240|MSAD 46|AOS Member Entity|1650|Dexter Regional High School|0|0|0|0|0|0|0|0|0|0|0|88|76|71|83|318|Y
+Y|1240|MSAD 46|AOS Member Entity|2605|Ridge View Community School|27|1|72|64|65|61|66|76|72|66|65|0|0|0|0|635|Y
+Y|1267|MSAD 76|AOS Member Entity|1808|Swans Island Elementary School|0|0|5|3|5|4|3|5|2|8|3|0|0|0|0|38|N
+Y|1283|Mt Desert CSD|AOS Member Entity|1834|Mt Desert Island High School|0|0|0|0|0|0|0|0|0|0|0|139|127|136|125|527|Y
+Y|1116|New Sweden|Union|1316|New Sweden Consolidated School|2|0|4|8|7|4|10|8|9|2|5|0|0|0|0|59|N
+Y|1117|Nobleboro|AOS Member Entity|1317|Nobleboro Central School|0|0|17|13|11|19|16|19|17|12|16|0|0|0|0|140|Y
+N|3103|Non-Maine SAU|Non-Maine SAU|1885|Non-Maine School|0|0|0|0|1|0|1|0|1|0|5|6|4|8|11|37|N
+Y|3239|Northport|Regional School Administrative Unit|1604|Edna Drinkwater School|0|0|12|10|19|12|19|9|4|0|0|0|0|0|0|85|N
+Y|1124|Orrington|AOS Member Entity|1332|Center Drive School|22|5|40|33|31|57|49|50|50|40|34|0|0|0|0|411|Y
+Y|1125|Otis|Municipality|1333|Beech Hill School|7|2|5|9|19|6|11|7|13|4|5|0|0|0|0|88|N
+Y|1127|Pembroke|AOS Member Entity|1335|Pembroke Elementary School|6|0|9|7|14|7|5|7|7|7|14|0|0|0|0|83|Y
+Y|1128|Penobscot|Union|1336|Penobscot Elementary School|1|0|9|7|7|7|7|8|6|6|6|0|0|0|0|64|N
+Y|1129|Perry|AOS Member Entity|1337|Perry Elementary School|6|2|13|12|11|17|15|13|19|8|10|0|0|0|0|126|N
+Y|1272|Pleasant Point|Maine Indian Education|1822|Beatrice Rafferty School|0|0|15|18|23|21|6|8|11|13|14|0|0|0|0|129|Y
+Y|1134|Portland|Municipality|1904|Casco Bay High School|0|0|0|0|0|0|0|0|0|0|0|101|97|98|93|389|N
+Y|1134|Portland|Municipality|1345|Cliff Island School|0|0|1|0|1|1|1|0|0|0|0|0|0|0|0|4|N
+Y|1134|Portland|Municipality|1357|Deering High School|0|0|0|0|0|0|0|0|0|0|0|197|225|230|249|901|Y
+Y|1134|Portland|Municipality|1939|East End Community School|16|0|69|72|61|69|54|64|0|0|0|0|0|0|0|405|N
+Y|1134|Portland|Municipality|1347|Fred P Hall School|0|0|65|67|81|53|70|59|0|0|0|0|0|0|0|395|N
+Y|1134|Portland|Municipality|1351|Harrison Lyseth Elem School|12|0|99|78|97|67|70|81|0|0|0|0|0|0|0|504|N
+Y|1134|Portland|Municipality|1358|Howard C Reiche Community Sch|28|0|64|84|68|69|50|64|0|0|0|0|0|0|0|427|N
+Y|1134|Portland|Municipality|1353|King Middle School|0|0|0|0|0|0|0|0|178|156|183|0|0|0|0|517|Y
+Y|1134|Portland|Municipality|1354|Lincoln Middle School|0|0|0|0|0|0|0|0|166|173|146|0|0|0|0|485|N
+Y|1134|Portland|Municipality|1348|Longfellow School-Portland|0|0|56|60|58|61|39|63|0|0|0|0|0|0|0|337|N
+Y|1134|Portland|Municipality|1355|Lyman Moore Middle School|0|0|0|0|0|0|0|0|153|167|160|0|0|0|0|480|Y
+Y|1134|Portland|Municipality|2626|Ocean Avenue|0|0|62|59|58|88|83|66|0|0|0|0|0|0|0|416|N
+Y|1134|Portland|Municipality|1349|Peaks Island School|0|0|1|7|3|8|11|10|0|0|0|0|0|0|0|40|N
+Y|1134|Portland|Municipality|1356|Portland High School|0|0|0|0|0|0|0|0|0|0|0|185|209|168|231|793|Y
+Y|1134|Portland|Municipality|1350|Presumpscot School|16|0|46|41|43|38|31|53|0|0|0|0|0|0|0|268|N
+Y|1134|Portland|Municipality|1359|Riverton School|32|0|84|69|68|73|72|70|0|0|0|0|0|0|0|468|N
+Y|1136|Princeton|AOS Member Entity|1363|Princeton Elementary School|12|1|13|10|7|12|10|16|13|17|8|0|0|0|0|119|N
+Y|3152|RSU 01|Regional School Administrative Unit|1170|Bath Middle School|0|0|0|0|0|0|0|0|105|115|109|0|0|0|0|329|N
+Y|3152|RSU 01|Regional School Administrative Unit|1169|Dike-Newell School|67|1|71|95|63|0|0|0|0|0|0|0|0|0|0|297|Y
+Y|3152|RSU 01|Regional School Administrative Unit|1168|Fisher-Mitchell School|0|0|0|0|0|89|83|78|0|0|0|0|0|0|0|250|N
+Y|3152|RSU 01|Regional School Administrative Unit|1171|Morse High School|0|0|0|0|0|0|0|0|0|0|0|143|171|159|143|616|Y
+Y|3152|RSU 01|Regional School Administrative Unit|1339|Phippsburg Elementary School|9|1|15|20|8|11|14|21|0|0|0|0|0|0|0|99|Y
+Y|3152|RSU 01|Regional School Administrative Unit|1452|Woolwich Central School|16|0|30|43|32|40|46|44|45|45|33|0|0|0|0|374|N
+Y|3156|RSU 02|Regional School Administrative Unit|1224|Dresden Elementary School|13|0|18|11|17|13|13|9|0|0|0|0|0|0|0|94|N
+Y|3156|RSU 02|Regional School Administrative Unit|1536|Hall-Dale Elementary School|46|4|59|49|47|65|47|52|0|0|0|0|0|0|0|369|N
+Y|3156|RSU 02|Regional School Administrative Unit|1534|Hall-Dale High School|0|0|0|0|0|0|0|0|0|0|0|83|89|65|92|329|N
+Y|3156|RSU 02|Regional School Administrative Unit|1535|Hall-Dale Middle School|0|0|0|0|0|0|0|0|76|60|74|0|0|0|0|210|N
+Y|3156|RSU 02|Regional School Administrative Unit|1311|Henry L Cottrell School|35|0|42|46|43|47|0|0|0|0|0|0|0|0|0|213|N
+Y|3156|RSU 02|Regional School Administrative Unit|1369|Marcia Buker School|14|0|32|30|25|36|29|31|0|0|0|0|0|0|0|197|N
+Y|3156|RSU 02|Regional School Administrative Unit|1312|Monmouth Academy|0|0|0|0|0|0|0|0|0|0|0|56|62|52|51|221|Y
+Y|3156|RSU 02|Regional School Administrative Unit|1313|Monmouth Middle School|0|0|0|0|0|0|48|42|43|43|50|0|0|0|0|226|N
+Y|3156|RSU 02|Regional School Administrative Unit|1370|Richmond High School|0|0|0|0|0|0|0|0|0|0|0|32|38|40|34|144|Y
+Y|3156|RSU 02|Regional School Administrative Unit|1371|Richmond Middle School|0|0|0|0|0|0|0|0|37|37|43|0|0|0|0|117|Y
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1472|Monroe Elementary School|0|0|8|8|9|8|13|6|0|0|0|0|0|0|0|52|N
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1470|Morse Memorial School|16|0|15|19|19|18|15|18|0|0|0|0|0|0|0|120|N
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1476|Mt View Elementary School|0|0|37|44|46|39|46|49|0|0|0|0|0|0|0|261|N
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1475|Mt View High School|0|0|0|0|0|0|0|0|0|0|0|93|119|116|95|423|Y
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1477|Mt View Middle School|0|0|0|0|0|0|0|0|80|88|94|0|0|0|0|262|N
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1473|Troy Central School|0|0|18|21|18|19|20|9|0|0|0|0|0|0|0|105|Y
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1474|Unity Elementary School|56|0|0|0|0|0|0|0|0|0|0|0|0|0|0|56|N
+Y|1197|RSU 03/MSAD 03|Maine School Administrative District|1471|Walker Memorial School|11|0|15|10|21|10|16|10|0|0|0|0|0|0|0|93|Y
+Y|3157|RSU 04|Regional School Administrative Unit|2621|Carrie Ricker School|0|0|0|0|0|99|109|104|0|0|0|0|0|0|0|312|Y
+Y|3157|RSU 04|Regional School Administrative Unit|1294|Libby-Tozier School|22|1|48|49|56|0|0|0|0|0|0|0|0|0|0|176|N
+Y|3157|RSU 04|Regional School Administrative Unit|1846|Oak Hill High School|0|0|0|0|0|0|0|0|0|0|0|109|106|114|110|439|N
+Y|3157|RSU 04|Regional School Administrative Unit|2620|Oak Hill Middle School|0|0|0|0|0|0|0|0|100|88|113|0|0|0|0|301|N
+Y|3157|RSU 04|Regional School Administrative Unit|1424|Sabattus Primary School|45|3|57|51|62|0|0|0|0|0|0|0|0|0|0|218|N
+Y|3158|RSU 05|Regional School Administrative Unit|1225|Durham Community School|25|3|47|45|53|43|39|46|54|47|36|0|0|0|0|438|N
+Y|3158|RSU 05|Regional School Administrative Unit|1244|Freeport High School|0|0|0|0|0|0|0|0|0|0|0|141|106|123|120|490|Y
+Y|3158|RSU 05|Regional School Administrative Unit|1245|Freeport Middle School|0|0|0|0|0|0|0|0|111|99|98|0|0|0|0|308|N
+Y|3158|RSU 05|Regional School Administrative Unit|1246|Mast Landing School|0|0|0|0|0|70|109|78|0|0|0|0|0|0|0|257|N
+Y|3158|RSU 05|Regional School Administrative Unit|1243|Morse Street School|16|5|66|75|79|0|0|0|0|0|0|0|0|0|0|241|N
+Y|3158|RSU 05|Regional School Administrative Unit|1758|Pownal Elementary School|11|0|19|15|10|22|23|17|0|0|0|0|0|0|0|117|N
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1500|Bonny Eagle High School|0|0|0|0|0|0|0|0|0|0|0|280|283|302|274|1139|N
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1495|Bonny Eagle Middle School|0|0|0|0|0|0|0|0|310|300|292|0|0|0|0|902|Y
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|2610|Buxton Center Elementary School|0|0|89|96|86|89|96|106|0|0|0|0|0|0|0|562|Y
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1502|Edna Libby Elementary School|15|1|60|70|77|62|0|0|0|0|0|0|0|0|0|285|N
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1499|George E Jack School|0|0|0|0|0|0|85|91|0|0|0|0|0|0|0|176|N
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1498|H B Emery Jr Memorial School|16|0|30|31|28|27|21|25|0|0|0|0|0|0|0|178|Y
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1496|Hollis School|0|0|49|49|45|57|70|53|0|0|0|0|0|0|0|323|Y
+Y|1200|RSU 06/MSAD 06|Maine School Administrative District|1501|Steep Falls Elementary School|0|0|24|31|37|22|0|0|0|0|0|0|0|0|0|114|Y
+Y|1201|RSU 07/MSAD 07|Maine School Administrative District|1503|North Haven Community School|1|0|3|3|5|6|6|4|8|2|2|4|4|2|11|61|N
+Y|1202|RSU 08/MSAD 08|Maine School Administrative District|1860|Vinalhaven School|12|1|10|12|8|13|13|14|11|10|13|10|16|14|19|176|N
+Y|3206|RSU 09|Regional School Administrative Unit|1513|Academy Hill School|0|0|0|0|42|54|49|43|0|0|0|0|0|0|0|188|N
+Y|3206|RSU 09|Regional School Administrative Unit|1510|Cape Cod Hill Elem School|14|0|25|30|29|22|22|32|0|0|0|0|0|0|0|174|N
+Y|3206|RSU 09|Regional School Administrative Unit|1508|Cascade Brook School|0|0|0|0|0|102|93|108|0|0|0|0|0|0|0|303|N
+Y|3206|RSU 09|Regional School Administrative Unit|1512|Gerald D Cushing School|32|0|54|53|0|0|0|0|0|0|0|0|0|0|0|139|N
+Y|3206|RSU 09|Regional School Administrative Unit|1507|Mt Blue High School|0|0|0|0|0|0|0|0|0|0|0|180|158|167|182|687|Y
+Y|3206|RSU 09|Regional School Administrative Unit|1506|Mt Blue Middle School|0|0|0|0|0|0|0|0|165|160|172|0|0|0|0|497|N
+Y|3206|RSU 09|Regional School Administrative Unit|1505|W G Mallett School|56|7|88|85|113|0|0|0|0|0|0|0|0|0|0|349|N
+Y|3159|RSU 10|Regional School Administrative Unit|1622|Buckfield Jr-Sr High School|0|0|0|0|0|0|0|0|0|41|32|32|43|36|44|228|Y
+Y|3159|RSU 10|Regional School Administrative Unit|1950|Dirigo Elementary School|28|0|48|61|55|60|57|59|0|0|0|0|0|0|0|368|N
+Y|3159|RSU 10|Regional School Administrative Unit|1555|Dirigo High School|0|0|0|0|0|0|0|0|0|0|0|53|71|74|71|269|Y
+Y|3159|RSU 10|Regional School Administrative Unit|1623|Hartford-Sumner Elementary School|25|0|49|40|44|37|46|48|40|0|0|0|0|0|0|329|N
+Y|3159|RSU 10|Regional School Administrative Unit|1639|Meroby Elementary School|25|0|43|45|40|50|40|35|0|0|0|0|0|0|0|278|N
+Y|3159|RSU 10|Regional School Administrative Unit|1641|Mountain Valley High School|0|0|0|0|0|0|0|0|0|0|0|105|87|124|94|410|Y
+Y|3159|RSU 10|Regional School Administrative Unit|1638|Mountain Valley Middle School|0|0|0|0|0|0|0|0|97|91|91|0|0|0|0|279|N
+Y|3159|RSU 10|Regional School Administrative Unit|1642|Rumford Elementary|16|0|45|41|40|44|42|38|0|0|0|0|0|0|0|266|N
+Y|3159|RSU 10|Regional School Administrative Unit|1556|T W Kelly Dirigo Middle School|0|0|0|0|0|0|0|0|47|53|54|0|0|0|0|154|Y
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1515|Gardiner Area High School|0|0|0|0|0|0|0|0|0|0|0|165|175|149|153|642|N
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1516|Gardiner Regional Middle School|0|0|0|0|0|0|0|0|151|159|144|0|0|0|0|454|N
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1521|Helen Thompson School|26|5|42|39|50|40|38|41|0|0|0|0|0|0|0|281|N
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1517|Laura E Richards School|56|6|70|57|48|0|0|0|0|0|0|0|0|0|0|237|N
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1519|Pittston Consolidated School|0|0|30|27|36|31|39|45|0|0|0|0|0|0|0|208|N
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1518|River View Community School|0|0|0|0|0|62|60|66|0|0|0|0|0|0|0|188|N
+Y|1205|RSU 11/MSAD 11|Maine School Administrative District|1520|Teresa C Hamlin Elem School|30|1|9|12|11|5|5|10|0|0|0|0|0|0|0|83|N
+Y|3160|RSU 12|Regional School Administrative Unit|1217|Chelsea Elementary School|31|1|29|33|34|34|26|20|27|24|20|0|0|0|0|279|N
+Y|3160|RSU 12|Regional School Administrative Unit|1334|Palermo Consolidated School|0|0|22|18|16|17|15|18|16|9|12|0|0|0|0|143|Y
+Y|3160|RSU 12|Regional School Administrative Unit|1395|Somerville Elementary School|13|3|0|0|0|0|0|0|0|0|0|0|0|0|0|16|N
+Y|3160|RSU 12|Regional School Administrative Unit|1434|Whitefield Elementary School|13|1|19|19|17|20|19|28|22|24|18|0|0|0|0|200|N
+Y|3160|RSU 12|Regional School Administrative Unit|1440|Windsor Elementary School|0|0|23|34|31|33|36|26|32|38|43|0|0|0|0|296|Y
+Y|3161|RSU 13|Regional School Administrative Unit|1679|Cushing Community School|0|0|12|17|12|18|16|0|0|0|0|0|0|0|0|75|N
+Y|3161|RSU 13|Regional School Administrative Unit|1490|Gilford Butler School|0|0|29|21|38|0|0|0|0|0|0|0|0|0|0|88|N
+Y|3161|RSU 13|Regional School Administrative Unit|1681|Lura Libby School|0|0|27|41|31|31|37|0|0|0|0|0|0|0|0|167|N
+Y|3161|RSU 13|Regional School Administrative Unit|2630|Oceanside High School East|0|0|0|0|0|0|0|0|0|0|0|0|144|150|131|425|N
+Y|3161|RSU 13|Regional School Administrative Unit|2629|Oceanside High School West|0|0|0|0|0|0|0|0|0|0|97|118|0|0|0|215|N
+Y|3161|RSU 13|Regional School Administrative Unit|1485|Owls Head Central School|48|0|0|0|0|30|23|17|0|0|0|0|0|0|0|118|N
+Y|3161|RSU 13|Regional School Administrative Unit|1489|Rockland District Middle School|0|0|0|0|0|0|0|42|92|90|0|0|0|0|0|224|N
+Y|3161|RSU 13|Regional School Administrative Unit|1487|South School|0|0|61|49|51|59|49|0|0|0|0|0|0|0|0|269|N
+Y|3161|RSU 13|Regional School Administrative Unit|1683|Thomaston Grammar School|0|0|0|0|0|0|0|56|41|55|0|0|0|0|0|152|N
+Y|3162|RSU 14|Regional School Administrative Unit|1365|Jordan-Small Middle School|0|0|0|0|0|0|0|48|51|50|48|0|0|0|0|197|N
+Y|3162|RSU 14|Regional School Administrative Unit|1436|Manchester School|0|0|0|0|0|0|187|209|0|0|0|0|0|0|0|396|N
+Y|3162|RSU 14|Regional School Administrative Unit|1366|Raymond Elementary School|0|0|45|26|49|47|39|0|0|0|0|0|0|0|0|206|N
+Y|3162|RSU 14|Regional School Administrative Unit|1435|Windham High School|0|0|0|0|0|0|0|0|0|0|0|239|252|212|276|979|Y
+Y|3162|RSU 14|Regional School Administrative Unit|1437|Windham Middle School|0|0|0|0|0|0|0|0|199|204|185|0|0|0|0|588|Y
+Y|3162|RSU 14|Regional School Administrative Unit|1438|Windham Primary School|0|0|190|178|221|220|0|0|0|0|0|0|0|0|0|809|N
+Y|1209|RSU 15/MSAD 15|Maine School Administrative District|1532|Burchard A Dunn School|85|3|0|0|0|150|175|0|0|0|0|0|0|0|0|413|N
+Y|1209|RSU 15/MSAD 15|Maine School Administrative District|1529|Gray-New Gloucester High School|0|0|0|0|0|0|0|0|0|0|0|161|139|118|127|545|Y
+Y|1209|RSU 15/MSAD 15|Maine School Administrative District|1530|Gray-New Gloucester Middle School|0|0|0|0|0|0|0|139|149|169|155|0|0|0|0|612|N
+Y|1209|RSU 15/MSAD 15|Maine School Administrative District|1531|Memorial School|0|0|59|62|62|0|0|0|0|0|0|0|0|0|0|183|N
+Y|1209|RSU 15/MSAD 15|Maine School Administrative District|1528|Russell School|0|0|81|83|87|0|0|0|0|0|0|0|0|0|0|251|Y
+Y|3163|RSU 16|Regional School Administrative Unit|1342|Bruce M Whittier Middle School|0|0|0|0|0|0|0|0|0|120|131|0|0|0|0|251|N
+Y|3163|RSU 16|Regional School Administrative Unit|1303|Elm Street School-Mechanic Falls|32|0|38|37|33|46|42|40|27|0|0|0|0|0|0|295|Y
+Y|3163|RSU 16|Regional School Administrative Unit|1309|Minot Consolidated School|23|1|34|31|37|37|24|30|26|0|0|0|0|0|0|243|N
+Y|3163|RSU 16|Regional School Administrative Unit|1340|Poland Community School|45|0|53|66|59|52|56|73|64|0|0|0|0|0|0|468|N
+Y|3163|RSU 16|Regional School Administrative Unit|1341|Poland Regional H S|0|0|0|0|0|0|0|0|0|0|0|117|128|121|111|477|Y
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1549|Agnes Gray School|14|3|21|18|17|16|16|0|0|0|0|0|0|0|0|105|N
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1540|Guy E Rowe School|24|1|62|56|56|70|70|87|67|0|0|0|0|0|0|493|N
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1537|Harrison Elementary|0|0|0|0|0|33|30|29|27|0|0|0|0|0|0|119|Y
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1539|Hebron Station School|10|0|15|19|17|19|18|18|20|0|0|0|0|0|0|136|N
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1541|Otisfield Community School|0|0|10|13|11|18|13|0|0|0|0|0|0|0|0|65|Y
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1542|Oxford Elementary School|20|2|53|38|50|54|40|68|65|0|0|0|0|0|0|390|Y
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1546|Oxford Hills Comprehensive H S|0|0|0|0|0|0|0|0|0|0|0|258|260|270|280|1068|N
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1545|Oxford Hills Middle School|0|0|0|0|0|0|0|0|0|251|240|0|0|0|0|491|N
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1936|Paris Elementary School|23|0|54|61|57|49|56|100|64|0|0|0|0|0|0|464|Y
+Y|1211|RSU 17/MSAD 17|Maine School Administrative District|1547|Waterford Memorial School|18|0|25|29|23|0|0|0|0|0|0|0|0|0|0|95|Y
+Y|3164|RSU 18|Regional School Administrative Unit|1656|Belgrade Central School|20|0|41|38|38|54|48|49|0|0|0|0|0|0|0|288|N
+Y|3164|RSU 18|Regional School Administrative Unit|1218|China Middle School|0|0|0|0|0|0|0|49|42|45|52|0|0|0|0|188|Y
+Y|3164|RSU 18|Regional School Administrative Unit|1219|China Primary School|24|0|40|49|51|42|47|0|0|0|0|0|0|0|0|253|N
+Y|3164|RSU 18|Regional School Administrative Unit|1661|James H Bean School|13|0|37|47|36|39|40|42|0|0|0|0|0|0|0|254|Y
+Y|3164|RSU 18|Regional School Administrative Unit|1660|Messalonskee High School|0|0|0|0|0|0|0|0|0|0|0|176|177|166|230|749|Y
+Y|3164|RSU 18|Regional School Administrative Unit|1862|Messalonskee Middle School|0|0|0|0|0|0|0|0|161|157|188|0|0|0|0|506|N
+Y|3164|RSU 18|Regional School Administrative Unit|1657|Ralph M Atwood Primary School|27|2|57|67|71|0|0|0|0|0|0|0|0|0|0|224|N
+Y|3164|RSU 18|Regional School Administrative Unit|1659|Williams Elementary School|0|0|0|0|0|58|81|71|0|0|0|0|0|0|0|210|N
+Y|3165|RSU 19|Regional School Administrative Unit|1662|Corinna Elementary School|24|1|28|26|25|30|21|0|0|0|0|0|0|0|0|155|N
+Y|3165|RSU 19|Regional School Administrative Unit|1621|Etna-Dixmont School|15|1|22|16|32|26|21|29|31|21|23|0|0|0|0|237|Y
+Y|3165|RSU 19|Regional School Administrative Unit|1664|Hartland Consolidated School|21|0|30|34|46|31|35|0|0|0|0|0|0|0|0|197|N
+Y|3165|RSU 19|Regional School Administrative Unit|1667|Newport Elementary School|37|5|48|56|51|52|53|0|0|0|0|0|0|0|0|302|N
+Y|3165|RSU 19|Regional School Administrative Unit|1669|Nokomis Regional High School|0|0|0|0|0|0|0|0|0|0|0|141|166|179|165|651|Y
+Y|3165|RSU 19|Regional School Administrative Unit|1670|Sebasticook Valley Middle School|0|0|0|0|0|0|0|82|80|77|75|0|0|0|0|314|N
+Y|3165|RSU 19|Regional School Administrative Unit|1666|Somerset Valley Middle School|0|0|0|0|0|0|0|56|44|39|50|0|0|0|0|189|N
+Y|3165|RSU 19|Regional School Administrative Unit|1672|St Albans Consolidated|13|0|18|15|16|16|6|0|0|0|0|0|0|0|0|84|N
+Y|3166|RSU 20|Regional School Administrative Unit|1720|Searsport District High School|0|0|0|0|0|0|0|0|0|0|0|47|54|37|42|180|N
+Y|3166|RSU 20|Regional School Administrative Unit|1719|Searsport District Middle School|0|0|0|0|0|0|0|0|31|29|39|0|0|0|0|99|N
+Y|3166|RSU 20|Regional School Administrative Unit|1721|Searsport Elementary|0|0|35|42|29|34|40|41|0|0|0|0|0|0|0|221|N
+Y|3166|RSU 20|Regional School Administrative Unit|1722|Stockton Springs Elementary Sch|31|0|0|0|0|0|0|0|0|0|0|0|0|0|0|31|N
+Y|3167|RSU 21|Regional School Administrative Unit|1883|Kennebunk Elementary School|0|0|94|88|112|129|0|0|0|0|0|0|0|0|0|423|N
+Y|3167|RSU 21|Regional School Administrative Unit|1783|Kennebunk High School|0|0|0|0|0|0|0|0|0|0|0|168|173|164|172|677|Y
+Y|3167|RSU 21|Regional School Administrative Unit|1786|Kennebunkport Consolidated Sch|0|0|26|25|28|38|35|31|0|0|0|0|0|0|0|183|N
+Y|3167|RSU 21|Regional School Administrative Unit|1785|Middle School of the Kennebunks|0|0|0|0|0|0|0|0|165|194|160|0|0|0|0|519|N
+Y|3167|RSU 21|Regional School Administrative Unit|1133|Mildred L Day School|0|0|37|39|42|36|38|36|0|0|0|0|0|0|0|228|N
+Y|3167|RSU 21|Regional School Administrative Unit|1784|Sea Road School|0|0|0|0|0|0|97|134|0|0|0|0|0|0|0|231|N
+Y|3217|RSU 22|Regional School Administrative Unit|1559|Earl C McGraw School|27|1|107|100|99|0|0|0|0|0|0|0|0|0|0|334|Y
+Y|3217|RSU 22|Regional School Administrative Unit|1557|George B Weatherbee School|0|0|0|0|0|126|118|129|0|0|0|0|0|0|0|373|Y
+Y|3217|RSU 22|Regional School Administrative Unit|1558|Hampden Academy|0|0|0|0|0|0|0|0|0|0|0|189|183|154|191|717|Y
+Y|3217|RSU 22|Regional School Administrative Unit|1562|Leroy H Smith School|24|0|55|60|59|62|49|0|0|0|0|0|0|0|0|309|Y
+Y|3217|RSU 22|Regional School Administrative Unit|1561|Newburgh Elementary School|16|2|0|0|0|0|0|0|0|0|0|0|0|0|0|18|N
+Y|3217|RSU 22|Regional School Administrative Unit|1560|Reeds Brook Middle School|0|0|0|0|0|0|0|0|113|122|128|0|0|0|0|363|Y
+Y|3217|RSU 22|Regional School Administrative Unit|1563|Samuel L Wagner Middle School|0|0|0|0|0|0|0|59|67|53|64|0|0|0|0|243|Y
+Y|3168|RSU 23|Regional School Administrative Unit|1318|Jameson Elementary School|25|2|46|66|60|0|0|0|0|0|0|0|0|0|0|199|N
+Y|3168|RSU 23|Regional School Administrative Unit|1319|Loranger Memorial School|0|0|0|0|0|66|61|62|49|72|52|0|0|0|0|362|Y
+Y|3168|RSU 23|Regional School Administrative Unit|1320|Old Orchard Beach High School|0|0|0|0|0|0|0|0|0|0|0|52|84|57|59|252|N
+Y|3169|RSU 24|Regional School Administrative Unit|1572|Cave Hill School|9|0|2|6|8|8|10|10|8|11|5|0|0|0|0|77|N
+Y|3169|RSU 24|Regional School Administrative Unit|1409|Ella Lewis School|7|0|20|11|15|22|13|11|0|9|9|0|0|0|0|117|N
+Y|3169|RSU 24|Regional School Administrative Unit|1839|Mountain View School|15|0|26|26|31|29|36|33|22|27|22|0|0|0|0|267|N
+Y|3169|RSU 24|Regional School Administrative Unit|1873|Peninsula School|8|1|21|20|23|19|20|22|18|23|18|0|0|0|0|193|N
+Y|3169|RSU 24|Regional School Administrative Unit|1833|Sumner Memorial High School|0|0|0|0|0|0|0|0|0|0|0|67|70|65|49|251|Y
+Y|3170|RSU 25|Regional School Administrative Unit|1199|Bucksport High School|0|0|0|0|0|0|0|0|0|0|0|85|72|82|68|307|Y
+Y|3170|RSU 25|Regional School Administrative Unit|1857|Bucksport Middle School|0|0|0|0|0|0|0|80|100|96|66|0|0|0|0|342|N
+Y|3170|RSU 25|Regional School Administrative Unit|1197|G Herbert Jewett School|38|0|72|0|0|0|0|0|0|0|0|0|0|0|0|110|N
+Y|3170|RSU 25|Regional School Administrative Unit|1200|Miles Lane School|0|0|0|69|78|89|76|0|0|0|0|0|0|0|0|312|N
+Y|3171|RSU 26|Regional School Administrative Unit|1328|Asa C Adams School|19|0|46|43|40|44|58|43|0|0|0|0|0|0|0|293|N
+Y|3171|RSU 26|Regional School Administrative Unit|1329|Orono High School|0|0|0|0|0|0|0|0|0|0|0|105|89|89|84|367|Y
+Y|3171|RSU 26|Regional School Administrative Unit|1330|Orono Middle School|0|0|0|0|0|0|0|0|45|43|52|0|0|0|0|140|N
+Y|1222|RSU 28/MSAD 28|Maine School Administrative District|1580|Camden-Rockport Elementary School|0|0|76|63|81|74|76|0|0|0|0|0|0|0|0|370|Y
+Y|1222|RSU 28/MSAD 28|Maine School Administrative District|1579|Camden-Rockport Middle School|0|0|0|0|0|0|0|84|92|87|97|0|0|0|0|360|N
+Y|1223|RSU 29/MSAD 29|Maine School Administrative District|1581|Houlton Elementary School|65|26|106|127|90|0|0|0|0|0|0|0|0|0|0|414|Y
+Y|1223|RSU 29/MSAD 29|Maine School Administrative District|1582|Houlton High School|0|0|0|0|0|0|0|0|0|0|0|81|90|85|76|332|N
+Y|1223|RSU 29/MSAD 29|Maine School Administrative District|1584|Houlton Junior High School|0|0|0|0|0|0|0|0|90|94|99|0|0|0|0|283|N
+Y|1223|RSU 29/MSAD 29|Maine School Administrative District|1583|Houlton Southside School|0|0|0|0|0|96|110|93|0|0|0|0|0|0|0|299|Y
+Y|1224|RSU 30/MSAD 30|AOS Member Entity|2623|Edith A Lombard School|11|0|0|0|0|0|0|0|0|0|0|0|0|0|0|11|N
+Y|1224|RSU 30/MSAD 30|AOS Member Entity|1588|Lee/Winn School|0|0|19|22|22|23|13|0|0|0|0|0|0|0|0|99|N
+Y|1224|RSU 30/MSAD 30|AOS Member Entity|1586|Mt Jefferson Jr High School|0|0|0|0|0|0|0|18|20|27|23|0|0|0|0|88|N
+Y|1225|RSU 31/MSAD 31|AOS Member Entity|1589|Enfield Station Elementary School|14|1|52|32|41|36|45|29|0|0|0|0|0|0|0|250|Y
+Y|1225|RSU 31/MSAD 31|AOS Member Entity|1591|Hichborn Middle School|0|0|0|0|0|0|0|0|33|43|34|0|0|0|0|110|Y
+Y|1225|RSU 31/MSAD 31|AOS Member Entity|1590|Penobscot Valley High School|0|0|0|0|0|0|0|0|0|0|0|33|41|41|42|157|Y
+Y|1226|RSU 32/MSAD 32|Maine School Administrative District|2619|Ashland District School|20|4|20|13|23|16|18|28|26|26|19|18|27|15|24|297|Y
+Y|1227|RSU 33/MSAD 33|Maine School Administrative District|1594|Dr Levesque Elementary School|18|1|9|18|16|17|14|20|21|0|0|0|0|0|0|134|N
+Y|1227|RSU 33/MSAD 33|Maine School Administrative District|1596|Wisdom Middle High School|0|0|0|0|0|0|0|0|0|11|18|15|20|27|31|122|Y
+Y|3172|RSU 34|Regional School Administrative Unit|1131|Alton Elementary School|9|0|2|9|9|3|6|0|0|0|0|0|0|0|0|38|N
+Y|3172|RSU 34|Regional School Administrative Unit|1325|Leonard Middle School|0|0|0|0|0|0|0|0|102|93|94|0|0|0|0|289|Y
+Y|3172|RSU 34|Regional School Administrative Unit|1859|Old Town Elementary School|25|0|75|75|86|89|84|98|0|0|0|0|0|0|0|532|N
+Y|3172|RSU 34|Regional School Administrative Unit|1326|Old Town High School|0|0|0|0|0|0|0|0|0|0|0|122|121|111|128|482|Y
+Y|3172|RSU 34|Regional School Administrative Unit|1180|Viola Rand School|13|0|13|17|14|12|10|0|0|0|0|0|0|0|0|79|N
+Y|1229|RSU 35/MSAD 35|Maine School Administrative District|1609|Central School|71|4|58|77|96|83|0|0|0|0|0|0|0|0|0|389|N
+Y|1229|RSU 35/MSAD 35|Maine School Administrative District|1607|Eliot Elementary School|59|8|69|72|57|58|0|0|0|0|0|0|0|0|0|323|N
+Y|1229|RSU 35/MSAD 35|Maine School Administrative District|1610|Marshwood Great Works School|0|0|0|0|0|0|138|176|0|0|0|0|0|0|0|314|Y
+Y|1229|RSU 35/MSAD 35|Maine School Administrative District|1611|Marshwood High School|0|0|0|0|0|0|0|0|0|0|0|190|172|197|182|741|Y
+Y|1229|RSU 35/MSAD 35|Maine School Administrative District|1608|Marshwood Middle School|0|0|0|0|0|0|0|0|155|170|174|0|0|0|0|499|Y
+Y|1231|RSU 37/MSAD 37|Maine School Administrative District|1615|Daniel W Merritt School|13|0|18|14|17|13|16|15|8|0|0|0|0|0|0|114|Y
+Y|1231|RSU 37/MSAD 37|Maine School Administrative District|1619|Harrington Elementary School|12|0|16|20|21|17|25|15|15|0|0|0|0|0|0|141|N
+Y|1231|RSU 37/MSAD 37|Maine School Administrative District|1620|Milbridge Elementary School|13|0|10|20|16|17|10|10|15|0|0|0|0|0|0|111|N
+Y|1231|RSU 37/MSAD 37|Maine School Administrative District|1618|Narraguagus High School|0|0|0|0|0|0|0|0|0|48|35|58|47|53|47|288|Y
+Y|3173|RSU 38|Regional School Administrative Unit|1302|Manchester Elementary School|25|2|26|33|22|27|29|22|0|0|0|0|0|0|0|186|N
+Y|3173|RSU 38|Regional School Administrative Unit|1837|Maranacook Community High Sch|0|0|0|0|0|0|0|0|0|0|0|90|92|103|109|394|N
+Y|3173|RSU 38|Regional School Administrative Unit|1838|Maranacook Community Middle Sch|0|0|0|0|0|0|0|0|92|83|85|0|0|0|0|260|N
+Y|3173|RSU 38|Regional School Administrative Unit|1315|Mt Vernon Elementary School|8|0|23|26|15|17|19|20|0|0|0|0|0|0|0|128|N
+Y|3173|RSU 38|Regional School Administrative Unit|1367|Readfield Elementary School|16|1|33|22|30|26|20|28|0|0|0|0|0|0|0|176|N
+Y|3173|RSU 38|Regional School Administrative Unit|1423|Wayne Elementary School|0|0|10|14|10|13|10|8|0|0|0|0|0|0|0|65|N
+Y|3174|RSU 39|Regional School Administrative Unit|1212|Caribou High School|0|0|0|0|0|0|0|0|0|0|0|119|114|96|111|440|Y
+Y|3174|RSU 39|Regional School Administrative Unit|1211|Caribou Middle School|0|0|0|0|0|0|0|0|74|94|95|0|0|0|0|263|Y
+Y|3174|RSU 39|Regional School Administrative Unit|1209|Hilltop Elementary School|56|4|74|75|77|0|0|0|0|0|0|0|0|0|0|286|N
+Y|3174|RSU 39|Regional School Administrative Unit|1288|Limestone Community School|11|2|11|10|12|17|15|10|8|14|8|20|19|18|20|195|Y
+Y|3174|RSU 39|Regional School Administrative Unit|1208|Teague Park School|0|0|0|0|0|77|72|76|0|0|0|0|0|0|0|225|N
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1624|Friendship Village School|0|0|12|9|12|15|11|15|11|0|0|0|0|0|0|85|Y
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1948|Medomak Middle School|0|0|0|0|0|0|0|0|0|140|147|0|0|0|0|287|N
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1628|Medomak Valley High School|0|0|0|0|0|0|0|0|0|0|0|172|117|151|125|565|Y
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1626|Miller School|29|1|53|41|54|41|41|44|43|0|0|0|0|0|0|347|Y
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1630|Prescott Memorial School|0|0|12|20|17|14|15|15|16|0|0|0|0|0|0|109|N
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1625|Union Elementary|21|0|15|21|11|19|18|16|16|0|0|0|0|0|0|137|N
+Y|1234|RSU 40/MSAD 40|Maine School Administrative District|1629|Warren Community School|32|0|41|47|45|46|48|50|42|0|0|0|0|0|0|351|Y
+Y|1235|RSU 41/MSAD 41|AOS Member Entity|1631|Brownville Elementary School|0|0|11|12|11|17|15|16|0|0|0|0|0|0|0|82|N
+Y|1235|RSU 41/MSAD 41|AOS Member Entity|1633|Milo Elementary School|23|2|38|37|45|48|29|45|0|0|0|0|0|0|0|267|Y
+Y|1235|RSU 41/MSAD 41|AOS Member Entity|1634|Penquis Valley High School|0|0|0|0|0|0|0|0|55|57|47|47|54|67|46|373|N
+Y|1236|RSU 42/MSAD 42|Maine School Administrative District|1637|Central Aroostook Jr-Sr H S|0|0|0|0|0|0|0|0|0|42|35|38|35|27|37|214|Y
+Y|1236|RSU 42/MSAD 42|Maine School Administrative District|1636|Fort Street School|23|6|27|29|21|41|32|31|26|0|0|0|0|0|0|236|Y
+Y|1238|RSU 44/MSAD 44|Maine School Administrative District|1644|Crescent Park School|0|0|48|39|35|36|40|43|0|0|0|0|0|0|0|241|N
+Y|1238|RSU 44/MSAD 44|Maine School Administrative District|1645|Telstar High School|0|0|0|0|0|0|0|0|0|0|0|55|48|52|62|217|Y
+Y|1238|RSU 44/MSAD 44|Maine School Administrative District|1646|Telstar Middle School|0|0|0|0|0|0|0|0|56|59|56|0|0|0|0|171|Y
+Y|1238|RSU 44/MSAD 44|Maine School Administrative District|1647|Woodstock School|0|0|19|11|11|19|11|16|0|0|0|0|0|0|0|87|N
+Y|1239|RSU 45/MSAD 45|Maine School Administrative District|1649|Washburn District Elem School|16|0|27|24|19|31|19|28|32|34|19|0|0|0|0|249|Y
+Y|1239|RSU 45/MSAD 45|Maine School Administrative District|1648|Washburn District High School|0|0|0|0|0|0|0|0|0|0|0|31|21|30|35|117|Y
+Y|1243|RSU 49/MSAD 49|Maine School Administrative District|1673|Albion Elementary School|0|0|18|17|16|22|14|16|24|0|0|0|0|0|0|127|N
+Y|1243|RSU 49/MSAD 49|Maine School Administrative District|1674|Benton Elementary School|0|0|0|115|97|89|112|112|107|0|0|0|0|0|0|632|N
+Y|1243|RSU 49/MSAD 49|Maine School Administrative District|1675|Clinton Elementary School|16|0|24|34|28|36|23|45|33|0|0|0|0|0|0|239|N
+Y|1243|RSU 49/MSAD 49|Maine School Administrative District|1678|Fairfield Primary School|67|0|92|0|0|0|0|0|0|0|0|0|0|0|0|159|N
+Y|1243|RSU 49/MSAD 49|Maine School Administrative District|1676|Lawrence High School|0|0|0|0|0|0|0|0|0|0|0|181|163|173|163|680|Y
+Y|1243|RSU 49/MSAD 49|Maine School Administrative District|1677|Lawrence Jr High School|0|0|0|0|0|0|0|0|0|167|182|0|0|0|0|349|N
+Y|3199|RSU 50|Regional School Administrative Unit|1570|Katahdin Elementary School|11|9|22|25|17|27|27|32|18|0|0|0|0|0|0|188|N
+Y|3199|RSU 50|Regional School Administrative Unit|1571|Katahdin Middle/High School|0|0|0|0|0|0|0|0|0|15|31|30|26|25|28|155|Y
+Y|3199|RSU 50|Regional School Administrative Unit|1836|So Aroostook School|18|0|23|23|22|30|20|26|31|34|19|26|15|28|18|333|Y
+Y|1245|RSU 51/MSAD 51|Maine School Administrative District|1687|Greely High School|0|0|0|0|0|0|0|0|0|0|0|185|144|153|179|661|N
+Y|1245|RSU 51/MSAD 51|Maine School Administrative District|1875|Greely Middle School|0|0|0|0|0|0|0|0|167|182|147|0|0|0|0|496|N
+Y|1245|RSU 51/MSAD 51|Maine School Administrative District|1689|Greely Middle School 4-5|0|0|0|0|0|0|139|168|0|0|0|0|0|0|0|307|N
+Y|1245|RSU 51/MSAD 51|Maine School Administrative District|1688|Mabel I Wilson School|0|0|140|144|137|146|0|0|0|0|0|0|0|0|0|567|N
+Y|1246|RSU 52/MSAD 52|Maine School Administrative District|1690|Greene Central School|46|3|42|43|44|50|54|36|52|0|0|0|0|0|0|370|N
+Y|1246|RSU 52/MSAD 52|Maine School Administrative District|1693|Leavitt Area High School|0|0|0|0|0|0|0|0|0|0|0|160|146|147|135|588|Y
+Y|1246|RSU 52/MSAD 52|Maine School Administrative District|1691|Leeds Central School|18|1|28|19|25|27|27|33|21|0|0|0|0|0|0|199|Y
+Y|1246|RSU 52/MSAD 52|Maine School Administrative District|1692|Tripp Middle School|0|0|0|0|0|0|0|0|0|143|117|0|0|0|0|260|N
+Y|1246|RSU 52/MSAD 52|Maine School Administrative District|1694|Turner Elementary School|0|0|0|0|0|74|71|63|76|0|0|0|0|0|0|284|N
+Y|1246|RSU 52/MSAD 52|Maine School Administrative District|1695|Turner Primary School|60|3|77|74|53|0|0|0|0|0|0|0|0|0|0|267|Y
+Y|1247|RSU 53/MSAD 53|Maine School Administrative District|1697|Manson Park School|37|1|57|0|0|0|0|0|0|0|0|0|0|0|0|95|N
+Y|1247|RSU 53/MSAD 53|Maine School Administrative District|1902|SAD #53 Alternative Education|0|0|0|0|0|0|0|0|0|0|0|0|6|6|4|16|N
+Y|1247|RSU 53/MSAD 53|Maine School Administrative District|1698|Vickery School|0|0|0|70|73|80|78|0|0|0|0|0|0|0|0|301|N
+Y|1247|RSU 53/MSAD 53|Maine School Administrative District|1699|Warsaw Middle School|0|0|0|0|0|0|0|68|80|76|78|0|0|0|0|302|Y
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1708|Bloomfield Elementary School|0|0|0|114|102|93|0|0|0|0|0|0|0|0|0|309|N
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1700|Canaan Elementary School|15|1|24|31|26|27|33|29|26|0|0|0|0|0|0|212|Y
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1707|Margaret Chase Smith Sch.-Skowhegan|0|0|0|0|0|0|105|104|0|0|0|0|0|0|0|209|N
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1953|Mill Stream Elementary School|15|1|51|40|51|39|56|62|41|0|0|0|0|0|0|356|Y
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1704|North Elementary School|61|0|108|0|0|0|0|0|0|0|0|0|0|0|0|169|N
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1706|Skowhegan Area High School|0|0|0|0|0|0|0|0|0|0|0|216|191|206|194|807|Y
+Y|1248|RSU 54/MSAD 54|Maine School Administrative District|1709|Skowhegan Area Middle School|0|0|0|0|0|0|0|0|96|187|215|0|0|0|0|498|N
+Y|1249|RSU 55/MSAD 55|Maine School Administrative District|1716|Sacopee Valley Elementary School|16|0|51|83|59|75|0|0|0|0|0|0|0|0|0|284|N
+Y|1249|RSU 55/MSAD 55|Maine School Administrative District|1714|Sacopee Valley High Sch|0|0|0|0|0|0|0|0|0|0|0|84|85|90|85|344|Y
+Y|1249|RSU 55/MSAD 55|Maine School Administrative District|1941|Sacopee Valley Middle School|0|0|0|0|0|0|80|76|86|67|82|0|0|0|0|391|Y
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1723|Alfred Elementary School|0|0|33|43|37|27|35|33|0|0|0|0|0|0|0|208|N
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1724|Line Elementary|0|0|46|36|59|53|48|42|0|0|0|0|0|0|0|284|N
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1726|Lyman Elementary School|0|0|30|28|47|42|44|43|0|0|0|0|0|0|0|234|N
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1728|Massabesic High School|0|0|0|0|0|0|0|0|0|0|0|235|250|269|265|1019|Y
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1940|Massabesic Middle School|0|0|0|0|0|0|0|0|221|246|230|0|0|0|0|697|Y
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1727|Shapleigh Memorial School|15|0|20|27|21|17|20|30|0|0|0|0|0|0|0|150|Y
+Y|1251|RSU 57/MSAD 57|Maine School Administrative District|1730|Waterboro Elementary School|0|0|90|78|85|87|91|88|0|0|0|0|0|0|0|519|Y
+Y|1252|RSU 58/MSAD 58|Maine School Administrative District|1732|Kingfield Elementary School|5|0|10|16|16|17|17|18|18|16|24|0|0|0|0|157|N
+Y|1252|RSU 58/MSAD 58|Maine School Administrative District|1736|Mt Abram Regional High School|0|0|0|0|0|0|0|0|0|0|0|55|63|66|67|251|Y
+Y|1252|RSU 58/MSAD 58|Maine School Administrative District|1734|Phillips Elementary School|2|1|12|17|13|24|16|18|13|9|23|0|0|0|0|148|N
+Y|1252|RSU 58/MSAD 58|Maine School Administrative District|1735|Strong Elementary School|16|0|15|24|17|23|17|19|16|22|18|0|0|0|0|187|N
+Y|1253|RSU 59/MSAD 59|Maine School Administrative District|1740|Madison Area Memorial H S|0|0|0|0|0|0|0|0|0|0|0|55|56|54|68|233|Y
+Y|1253|RSU 59/MSAD 59|Maine School Administrative District|1742|Madison Elementary School|19|1|46|46|40|51|47|0|0|0|0|0|0|0|0|250|Y
+Y|1253|RSU 59/MSAD 59|Maine School Administrative District|1741|Madison Junior High School|0|0|0|0|0|0|0|58|47|43|46|0|0|0|0|194|N
+Y|1254|RSU 60/MSAD 60|Maine School Administrative District|2643|Berwick Elementary Schools|0|0|101|93|107|118|104|104|0|0|0|0|0|0|0|627|N
+Y|1254|RSU 60/MSAD 60|Maine School Administrative District|1748|Lebanon Elementary Schools|0|0|74|81|85|84|78|79|0|0|0|0|0|0|0|481|N
+Y|1254|RSU 60/MSAD 60|Maine School Administrative District|1750|Noble High School|0|0|0|0|0|0|0|0|0|0|247|240|208|193|219|1107|Y
+Y|1254|RSU 60/MSAD 60|Maine School Administrative District|1745|Noble Middle School|0|0|0|0|0|0|0|0|251|220|0|0|0|0|0|471|N
+Y|1254|RSU 60/MSAD 60|Maine School Administrative District|1749|North Berwick Elementary Schools|3|0|39|41|51|63|59|59|0|0|0|0|0|0|0|315|Y
+Y|1255|RSU 61/MSAD 61|Maine School Administrative District|1753|Lake Region High School|0|0|0|0|0|0|0|0|0|0|0|142|141|111|127|521|N
+Y|1255|RSU 61/MSAD 61|Maine School Administrative District|1754|Lake Region Middle School|0|0|0|0|0|0|0|0|149|132|127|0|0|0|0|408|Y
+Y|1255|RSU 61/MSAD 61|Maine School Administrative District|1757|Sebago Elementary School|0|0|16|15|10|11|14|13|0|0|0|0|0|0|0|79|Y
+Y|1255|RSU 61/MSAD 61|Maine School Administrative District|1755|Songo Locks School|0|0|64|86|83|73|68|76|0|0|0|0|0|0|0|450|Y
+Y|1255|RSU 61/MSAD 61|Maine School Administrative District|1751|Stevens Brook School|0|0|49|50|55|60|48|55|0|0|0|0|0|0|0|317|N
+Y|1257|RSU 63/MSAD 63|AOS Member Entity|1759|Eddington School|26|0|51|46|0|0|0|0|0|0|0|0|0|0|0|123|Y
+Y|1257|RSU 63/MSAD 63|AOS Member Entity|1761|Holbrook School|0|0|0|0|0|0|0|65|81|63|61|0|0|0|0|270|N
+Y|1257|RSU 63/MSAD 63|AOS Member Entity|1760|Holden School|0|0|0|0|52|55|51|0|0|0|0|0|0|0|0|158|Y
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1762|Bradford Elementary School|0|0|23|29|31|0|0|0|0|0|0|0|0|0|0|83|N
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1764|Central High School|0|0|0|0|0|0|0|0|0|0|0|76|74|95|94|339|Y
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1765|Central Middle School|0|0|0|0|0|0|0|0|71|82|74|0|0|0|0|227|Y
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1766|Hudson Elementary School|0|0|0|0|0|31|29|0|0|0|0|0|0|0|0|60|N
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1767|Kenduskeag Elementary School|0|0|35|49|46|0|0|0|0|0|0|0|0|0|0|130|N
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1763|Morison Memorial School|0|0|0|0|0|48|38|80|0|0|0|0|0|0|0|166|N
+Y|1258|RSU 64/MSAD 64|Maine School Administrative District|1768|Stetson Elementary School|0|0|13|11|10|0|0|0|0|0|0|0|0|0|0|34|N
+Y|1259|RSU 65/MSAD 65|Maine School Administrative District|1769|Matinicus Elementary School|0|0|0|1|2|0|0|0|0|0|0|0|0|0|0|3|N
+Y|3175|RSU 67|Regional School Administrative Unit|1770|Ella P Burr School|52|0|95|66|70|57|0|0|0|0|0|0|0|0|0|340|N
+Y|3175|RSU 67|Regional School Administrative Unit|1771|Mattanawcook Academy|0|0|0|0|0|0|0|0|0|0|0|75|75|102|82|334|Y
+Y|3175|RSU 67|Regional School Administrative Unit|1772|Mattanawcook Jr High School|0|0|0|0|0|0|65|58|75|68|87|0|0|0|0|353|Y
+Y|1261|RSU 68/MSAD 68|Maine School Administrative District|1943|Se Do Mo Cha Elementary School|36|0|61|76|67|81|71|0|0|0|0|0|0|0|0|392|Y
+Y|1261|RSU 68/MSAD 68|Maine School Administrative District|1776|Se Do Mo Cha Middle School|0|0|0|0|0|0|0|74|76|63|72|0|0|0|0|285|Y
+Y|1262|RSU 70/MSAD 70|AOS Member Entity|1778|Mill Pond School|25|16|26|32|36|34|26|25|35|39|37|0|0|0|0|331|N
+Y|1262|RSU 70/MSAD 70|AOS Member Entity|1779|SAD 70 Hodgdon High School|0|0|0|0|0|0|0|0|0|0|0|27|38|40|36|141|Y
+Y|3241|RSU 71|Maine School Administrative District|1605|Ames Elementary School|0|0|0|0|41|30|24|35|0|0|0|0|0|0|0|130|Y
+Y|3241|RSU 71|Maine School Administrative District|1601|Belfast Area High School|0|0|0|0|0|0|0|0|0|0|0|122|131|112|150|515|N
+Y|3241|RSU 71|Maine School Administrative District|1880|Captain Albert W. Stevens School|0|0|51|51|45|51|59|59|0|0|0|0|0|0|0|316|N
+Y|3241|RSU 71|Maine School Administrative District|1597|East Belfast School|28|0|17|19|18|20|14|16|0|0|0|0|0|0|0|132|N
+Y|3241|RSU 71|Maine School Administrative District|1603|Gladys Weymouth Elem School|36|0|29|33|0|0|0|0|0|0|0|0|0|0|0|98|Y
+Y|3241|RSU 71|Maine School Administrative District|1606|Kermit S Nickerson School|24|0|16|11|15|0|7|11|0|0|0|0|0|0|0|84|N
+Y|3241|RSU 71|Maine School Administrative District|1602|Troy A Howard Middle School|0|0|0|0|0|0|0|0|96|130|117|0|0|0|0|343|Y
+Y|1264|RSU 72/MSAD 72|Maine School Administrative District|1790|Charles A Snow School|12|0|22|33|15|36|40|31|0|0|0|0|0|0|0|189|Y
+Y|1264|RSU 72/MSAD 72|Maine School Administrative District|1788|Denmark Elementary School|0|0|20|18|12|16|19|16|0|0|0|0|0|0|0|101|N
+Y|1264|RSU 72/MSAD 72|Maine School Administrative District|1791|Molly Ockett Middle School|0|0|0|0|0|0|0|0|95|85|81|0|0|0|0|261|N
+Y|1264|RSU 72/MSAD 72|Maine School Administrative District|1792|New Suncook School|0|0|22|33|17|26|30|33|0|0|0|0|0|0|0|161|Y
+Y|3198|RSU 73|Regional School Administrative Unit|1269|Jay Elementary School|0|0|63|66|55|53|64|47|0|0|0|0|0|0|0|348|N
+Y|3198|RSU 73|Regional School Administrative Unit|1612|Livermore Elementary School|86|0|73|58|48|66|40|50|0|0|0|0|0|0|0|421|Y
+Y|3198|RSU 73|Regional School Administrative Unit|2669|Spruce Mountain High School|0|0|0|0|0|0|0|0|0|0|0|112|104|105|97|418|Y
+Y|3198|RSU 73|Regional School Administrative Unit|2636|Spruce Mountain Middle School|0|0|0|0|0|0|0|0|92|109|129|0|0|0|0|330|Y
+Y|1265|RSU 74/MSAD 74|Maine School Administrative District|1879|Carrabec Community School|0|0|18|19|21|22|21|15|59|53|49|0|0|0|0|277|N
+Y|1265|RSU 74/MSAD 74|Maine School Administrative District|1795|Carrabec High School|0|0|0|0|0|0|0|0|0|0|0|46|52|50|62|210|N
+Y|1265|RSU 74/MSAD 74|Maine School Administrative District|1794|Garret Schenck School|16|0|6|11|11|18|15|4|0|0|0|0|0|0|0|81|N
+Y|1265|RSU 74/MSAD 74|Maine School Administrative District|1798|Solon Elementary School|14|0|9|9|18|17|16|13|0|0|0|0|0|0|0|96|N
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1800|Bowdoin Central School|0|0|27|37|42|31|27|33|0|0|0|0|0|0|0|197|N
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1801|Bowdoinham Community School|0|0|27|28|25|31|32|35|0|0|0|0|0|0|0|178|Y
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1803|Harpswell Community School|0|0|25|41|24|24|31|21|0|0|0|0|0|0|0|166|N
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1805|Mt Ararat High School|0|0|0|0|0|0|0|0|0|0|0|171|191|199|178|739|Y
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1807|Mt Ararat Middle School|0|0|0|0|0|0|0|0|193|186|181|0|0|0|0|560|Y
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1804|Williams-Cone School|0|0|35|43|42|34|42|38|0|0|0|0|0|0|0|234|Y
+Y|1266|RSU 75/MSAD 75|Maine School Administrative District|1806|Woodside Elementary School|0|0|54|67|48|48|59|63|0|0|0|0|0|0|0|339|N
+Y|3184|RSU 78|Regional School Administrative Unit|1364|Rangeley Lakes Regional School|0|0|16|12|10|13|19|14|19|11|16|15|20|14|16|195|Y
+Y|1196|RSU 79/MSAD 01|Maine School Administrative District|1463|Eva Hoyt Zippel School|0|0|0|0|0|76|99|83|0|0|0|0|0|0|0|258|N
+Y|1196|RSU 79/MSAD 01|Maine School Administrative District|1461|Mapleton Elementary School|29|2|30|35|47|29|28|32|0|0|0|0|0|0|0|232|N
+Y|1196|RSU 79/MSAD 01|Maine School Administrative District|1462|Pine Street Elementary School|75|4|106|102|103|0|0|0|0|0|0|0|0|0|0|390|N
+Y|1196|RSU 79/MSAD 01|Maine School Administrative District|1466|Presque Isle High School|0|0|0|0|0|0|0|0|0|0|0|157|143|131|127|558|Y
+Y|1196|RSU 79/MSAD 01|Maine School Administrative District|1465|Presque Isle Middle School|0|0|0|0|0|0|0|0|127|116|138|0|0|0|0|381|Y
+Y|1198|RSU 80/MSAD 04|Maine School Administrative District|2615|Piscataquis Community Elementary|32|0|30|49|45|38|30|52|53|0|0|0|0|0|0|329|N
+Y|1198|RSU 80/MSAD 04|Maine School Administrative District|2614|Piscataquis Community Secondary Sch|0|0|0|0|0|0|0|0|0|46|45|38|41|39|57|266|N
+Y|1206|RSU 82/MSAD 12|Maine School Administrative District|1522|Forest Hills Consolidated School|0|0|13|13|11|8|18|20|8|11|15|12|16|17|10|172|Y
+Y|1207|RSU 83/MSAD 13|Maine School Administrative District|1526|Moscow Elementary|8|1|27|8|17|12|10|0|0|0|0|0|0|0|0|83|N
+Y|1207|RSU 83/MSAD 13|Maine School Administrative District|1523|Quimby Middle School|0|0|0|0|0|0|0|11|14|13|11|0|0|0|0|49|Y
+Y|1207|RSU 83/MSAD 13|Maine School Administrative District|1524|Upper Kennebec Valley Senior HS|0|0|0|0|0|0|0|0|0|0|0|16|8|19|10|53|Y
+Y|1208|RSU 84/MSAD 14|AOS Member Entity|1527|East Grand School|14|0|13|5|11|14|9|6|6|8|8|12|15|19|8|148|Y
+Y|1213|RSU 85/MSAD 19|AOS Member Entity|1550|Lubec Consolidated School|14|0|6|10|6|7|7|8|9|11|9|0|0|0|0|87|Y
+Y|1214|RSU 86/MSAD 20|Maine School Administrative District|1552|Fort Fairfield Elementary School|17|3|29|34|48|44|46|37|0|0|0|0|0|0|0|258|Y
+Y|1214|RSU 86/MSAD 20|Maine School Administrative District|1551|Fort Fairfield Middle/High School|0|0|0|0|0|0|0|0|41|29|49|30|38|32|35|254|Y
+Y|1217|RSU 87/MSAD 23|Maine School Administrative District|1565|Caravel Middle School|0|0|0|0|0|0|0|34|69|60|53|0|0|0|0|216|N
+Y|1217|RSU 87/MSAD 23|Maine School Administrative District|1564|Carmel Elementary School|29|2|26|27|28|33|36|0|0|0|0|0|0|0|0|181|N
+Y|1217|RSU 87/MSAD 23|Maine School Administrative District|1566|Suzanne M Smith Elementary School|23|1|41|30|40|46|32|28|0|0|0|0|0|0|0|241|Y
+Y|1218|RSU 88/MSAD 24|Maine School Administrative District|1567|Van Buren District Secondary Sch|0|0|0|0|0|0|0|0|0|0|0|26|17|20|16|79|Y
+Y|1218|RSU 88/MSAD 24|Maine School Administrative District|1944|Van Buren Elementary School|21|0|22|20|21|24|16|24|25|24|19|0|0|0|0|216|N
+Y|1146|Saco|Union|1375|C K Burns School|0|0|0|0|0|212|177|191|0|0|0|0|0|0|0|580|N
+Y|1146|Saco|Union|1374|Governor John Fairfield School|0|0|98|91|88|0|0|0|0|0|0|0|0|0|0|277|N
+Y|1146|Saco|Union|1376|Saco Middle School|0|0|0|0|0|0|0|0|208|194|214|0|0|0|0|616|N
+Y|1146|Saco|Union|1373|Young School|0|0|92|101|116|0|0|0|0|0|0|0|0|0|0|309|N
+Y|1148|Sanford|Municipality|1385|Carl J Lamb School|0|0|102|81|85|68|65|76|63|0|0|0|0|0|0|540|N
+Y|1148|Sanford|Municipality|1379|Lafayette School|47|0|35|41|31|34|0|0|0|0|0|0|0|0|0|188|N
+Y|1148|Sanford|Municipality|1384|Margaret Chase Smith Sch.-Sanford|0|0|130|79|83|79|0|0|0|0|0|0|0|0|0|371|N
+Y|1148|Sanford|Municipality|1383|Sanford High School|0|0|0|0|0|0|0|0|0|0|0|247|231|272|272|1022|Y
+Y|1148|Sanford|Municipality|1382|Sanford Jr High School|0|0|0|0|0|0|0|0|174|236|245|0|0|0|0|655|N
+Y|1148|Sanford|Municipality|2668|Willard School|0|0|0|44|37|46|158|162|0|0|0|0|0|0|0|447|Y
+Y|1149|Scarborough|Municipality|1391|Blue Point School|0|0|42|78|70|0|0|0|0|0|0|0|0|0|0|190|N
+Y|1149|Scarborough|Municipality|1387|Eight Corners Elementary School|0|0|63|71|84|0|0|0|0|0|0|0|0|0|0|218|Y
+Y|1149|Scarborough|Municipality|1388|Pleasant Hill School|0|0|51|60|62|0|0|0|0|0|0|0|0|0|0|173|N
+Y|1149|Scarborough|Municipality|1390|Scarborough High School|0|0|0|0|0|0|0|0|0|0|0|263|228|260|271|1022|Y
+Y|1149|Scarborough|Municipality|1389|Scarborough Middle School|0|0|0|0|0|0|0|0|241|244|262|0|0|0|0|747|Y
+Y|1149|Scarborough|Municipality|1392|Wentworth School|0|0|0|0|0|199|222|218|0|0|0|0|0|0|0|639|N
+Y|1150|Sedgwick|Union|1393|Sedgwick Elementary School|0|0|11|11|4|14|5|8|15|10|11|0|0|0|0|89|N
+Y|1153|South Bristol|AOS Member Entity|1396|South Bristol Elementary School|0|0|5|4|11|3|9|6|10|2|4|0|0|0|0|54|N
+Y|1155|South Portland|Municipality|1403|Daniel F. Mahoney Middle School|0|0|0|0|0|0|0|0|101|123|93|0|0|0|0|317|Y
+Y|1155|South Portland|Municipality|1406|Dora L Small Elementary School|0|0|53|56|45|60|60|45|0|0|0|0|0|0|0|319|N
+Y|1155|South Portland|Municipality|1400|Dyer Elementary School|0|0|41|39|39|44|43|38|0|0|0|0|0|0|0|244|Y
+Y|1155|South Portland|Municipality|1874|Frank I Brown Elementary School|0|0|53|43|43|45|48|45|0|0|0|0|0|0|0|277|N
+Y|1155|South Portland|Municipality|1399|James Otis Kaler Elementary School|16|0|35|37|44|32|34|28|0|0|0|0|0|0|0|226|N
+Y|1155|South Portland|Municipality|1407|Memorial Middle School|0|0|0|0|0|0|0|0|143|130|136|0|0|0|0|409|N
+Y|1155|South Portland|Municipality|1404|South Portland High School|0|0|0|0|0|0|0|0|0|0|0|223|257|206|225|911|Y
+Y|1155|South Portland|Municipality|1405|Waldo T Skillin Elementary School|12|0|65|52|77|60|62|57|0|0|0|0|0|0|0|385|N
+Y|1154|Southport|AOS Member Entity|1397|Southport Central School|2|0|4|0|5|3|4|4|1|0|0|0|0|0|0|23|Y
+Y|1156|Southwest Harbor|AOS Member Entity|1408|Pemetic Elementary School|0|0|14|15|23|16|18|16|14|13|14|0|0|0|0|143|Y
+Y|3240|St George|Regional School Administrative Unit|1680|St George School|0|0|24|24|22|23|24|22|24|20|17|0|0|0|0|200|N
+Y|1159|Surry|Municipality|1411|Surry Elementary School|9|0|13|11|10|12|10|12|9|15|8|0|0|0|0|109|N
+N|1395|Thornton Academy|Private - 60% Publicly Funded|1098|Thornton Academy|0|0|0|0|0|0|0|0|58|56|52|294|305|303|330|1398|N
+Y|1162|Tremont|AOS Member Entity|1412|Tremont Consolidated School|0|0|13|10|8|14|16|13|15|14|10|0|0|0|0|113|N
+Y|1163|Trenton|AOS Member Entity|1413|Trenton Elementary School|0|0|13|16|15|14|18|10|14|11|10|0|0|0|0|121|N
+Y|1166|Vassalboro|AOS Member Entity|1415|Vassalboro Community School|14|0|45|42|57|41|50|44|37|51|56|0|0|0|0|437|N
+Y|1167|Veazie|Union|1416|Veazie Community School|6|1|8|20|18|16|15|17|16|14|20|0|0|0|0|151|Y
+N|1336|Washington Academy|Private - 60% Publicly Funded|1037|Washington Academy|0|0|0|0|0|0|0|0|0|0|0|84|98|83|68|333|Y
+Y|1170|Waterville|AOS Member Entity|1418|Albert S Hall School|0|0|0|0|0|0|131|143|0|0|0|0|0|0|0|274|N
+Y|1170|Waterville|AOS Member Entity|1420|George J Mitchell School|99|1|153|137|139|123|0|0|0|0|0|0|0|0|0|652|N
+Y|1170|Waterville|AOS Member Entity|1421|Waterville Junior High School|0|0|0|0|0|0|0|0|125|121|117|0|0|0|0|363|Y
+Y|1170|Waterville|AOS Member Entity|1419|Waterville Senior High School|0|0|0|0|0|0|0|0|0|0|0|142|142|129|147|560|N
+Y|1293|Wells-Ogunquit CSD|Community School District|1848|Wells Elementary School|0|14|82|92|78|100|83|0|0|0|0|0|0|0|0|449|N
+Y|1293|Wells-Ogunquit CSD|Community School District|1850|Wells High School|0|0|0|0|0|0|0|0|0|0|0|101|103|120|110|434|Y
+Y|1293|Wells-Ogunquit CSD|Community School District|1849|Wells Junior High School|0|0|0|0|0|0|0|101|106|84|122|0|0|0|0|413|N
+Y|1173|Wesley|AOS Member Entity|1425|Wesley Elementary School|0|0|0|0|2|1|1|3|0|0|0|0|0|0|0|7|N
+Y|1174|West Bath|Union|1426|West Bath School|10|0|26|13|30|20|26|16|0|0|0|0|0|0|0|141|N
+Y|1175|Westbrook|Municipality|1432|Congin School|48|2|76|79|74|68|78|0|0|0|0|0|0|0|0|425|N
+Y|1175|Westbrook|Municipality|1431|Oxford-Cumberland Canal School|0|0|59|67|53|68|64|0|0|0|0|0|0|0|0|311|Y
+Y|1175|Westbrook|Municipality|1428|Saccarappa School|0|0|63|69|58|82|65|0|0|0|0|0|0|0|0|337|N
+Y|1175|Westbrook|Municipality|1430|Westbrook High School|0|0|0|0|0|0|0|0|0|0|0|231|199|168|147|745|Y
+Y|1175|Westbrook|Municipality|1429|Westbrook Middle School|0|0|0|0|0|0|0|183|190|176|195|0|0|0|0|744|N
+Y|3138|Whiting|AOS Member Entity|1813|Whiting Village School|0|0|5|4|3|4|2|5|4|5|3|0|0|0|0|35|N
+Y|1183|Winslow Schools|AOS Member Entity|1443|Winslow Elementary School|19|13|62|62|73|67|76|86|0|0|0|0|0|0|0|458|N
+Y|1183|Winslow Schools|AOS Member Entity|1441|Winslow High School|0|0|0|0|0|0|0|0|0|0|0|114|115|119|104|452|Y
+Y|1183|Winslow Schools|AOS Member Entity|1442|Winslow Junior High School|0|0|0|0|0|0|0|0|83|77|110|0|0|0|0|270|Y
+Y|1185|Winthrop|AOS Member Entity|1445|Winthrop Grade School|46|1|77|68|51|74|61|68|0|0|0|0|0|0|0|446|N
+Y|1185|Winthrop|AOS Member Entity|1446|Winthrop High School|0|0|0|0|0|0|0|0|0|0|0|60|63|66|59|248|Y
+Y|1185|Winthrop|AOS Member Entity|1447|Winthrop Middle School|0|0|0|0|0|0|0|0|69|62|72|0|0|0|0|203|Y
+Y|1186|Wiscasset|Municipality|2682|Wiscasset Elementary School|18|0|39|49|32|47|41|32|33|0|0|0|0|0|0|291|N
+Y|1186|Wiscasset|Municipality|2683|Wiscasset High School|0|0|0|0|0|0|0|0|0|40|48|37|44|47|47|263|Y
+Y|1187|Woodland|Union|1451|Woodland Consolidated Sch|12|0|6|10|10|14|10|19|12|16|5|0|0|0|0|114|Y
+Y|1190|Yarmouth Schools|Municipality|1456|Frank H Harrison Middle School|0|0|0|0|0|0|0|125|137|141|101|0|0|0|0|504|Y
+Y|1190|Yarmouth Schools|Municipality|1453|William H Rowe School|0|0|84|106|0|0|0|0|0|0|0|0|0|0|0|190|N
+Y|1190|Yarmouth Schools|Municipality|1455|Yarmouth Elementary School|0|0|0|0|107|114|117|0|0|0|0|0|0|0|0|338|N
+Y|1190|Yarmouth Schools|Municipality|1454|Yarmouth High School|0|0|0|0|0|0|0|0|0|0|0|154|133|125|133|545|Y
+Y|1191|York|Municipality|1460|Coastal Ridge Elementary|0|0|0|0|55|127|130|0|0|0|0|0|0|0|0|312|N
+Y|1191|York|Municipality|1457|Village Elementary School-York|0|0|115|105|77|0|0|0|0|0|0|0|0|0|0|297|Y
+Y|1191|York|Municipality|1459|York High School|0|0|0|0|0|0|0|0|0|0|0|151|157|149|157|614|Y
+Y|1191|York|Municipality|1458|York Middle School|0|0|0|0|0|0|0|132|140|132|119|0|0|0|0|523|
