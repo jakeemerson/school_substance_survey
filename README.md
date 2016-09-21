@@ -1,7 +1,7 @@
-schools-and-drugs
+School Substance Survey
 ==============================
 
-Exploratory data analysis on how schools help students deal with drugs.
+Exploratory data analysis on how schools help students deal with drugs. The meat of the analysis is located in the [notebooks](https://github.com/jakeemerson/school_substance_survey/blob/master/notebooks/join_and_explore.ipynb) area.
 
 Project Organization
 ------------
